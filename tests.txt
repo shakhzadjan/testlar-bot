@@ -1,0 +1,8636 @@
+ 
+
+№ 1.
+Savol: Elektr tokining issiqlik energiyasidan qaysi elektr qurilmalarda unumli foydalaniladi? 
+
+- elektrodvigatellarda
+- generatorlarda
+- elektrdazmollarda
+- transformatorlarda
+To'g'ri: C
+
+№ 2.
+Savol: Quyida keltirilgan manbalardan qaysi biri o‘zgaruvchan elektr tok manbai hisoblanadi? 
+
+- ~220 V manba
+- akkumulyator
+- galvanik element
+- fotoelement
+To'g'ri: A
+
+№ 3.
+Savol: O‘zgaruvchan tokni o‘zgarmas tokka aylantirish uchun nimadan foydalaniladi? 
+
+- elektrodvigatellardan
+- to‘g‘rilagichlardan
+- isitkich qurilmalaridan
+- yorug‘lik qurilmalaridan
+To'g'ri: B
+
+№ 4.
+Savol: Transformatorning vazifasi nimadan iborat? 
+
+- o‘zgarmas tokni o‘zgaruvchan tokka aylantirib beradi
+- o‘zgaruvchan tokni, chastotasini o‘zgartirmagan holda kuchlanish miqdorini oshiradi yoki tushiradi
+- o‘zgaruvchan tokni o‘zgarmas tokka aylantirib beradi
+- transformator chiqishidagi tokning tebranish chastotasini o‘zgartirib beradi
+To'g'ri: B
+
+№ 5.
+Savol: Tok kuchining o‘lchov birligini ko‘rsating. 
+
+- Om
+- Vatt
+- Amper
+- Volt
+To'g'ri: C
+
+№ 6.
+Savol: Kuchlanishning o‘lchov birligini ko‘rsating. 
+
+- Om
+- Volt
+- Vatt
+- Amper
+To'g'ri: B
+
+№ 7.
+Savol: Qarshilikning o‘lchov birligini ko‘rsating. 
+
+- Vatt
+- Om
+- Amper
+- Volt
+To'g'ri: B
+
+№ 8.
+Savol: Elektr quvvatning o‘lchov birligini ko‘rsating. 
+
+- Amper
+- Volt
+- Vatt
+- Om
+To'g'ri: C
+
+№ 9.
+Savol: O‘tkazuvchanlikning o‘lchov birligini ko‘rsating. 
+
+- Om
+- Simens
+- Amper
+- Volt
+To'g'ri: B
+
+№ 10.
+Savol: Yuklamada iste’mol qilinadigan tokni o‘lchash uchun ampermetr zanjirga qanday ulanadi? 
+
+- yuklama qarshiligiga parallel
+- yuklama qarshiligiga perpendikulyar
+- yuklama qarshiligiga ketma-ket
+- aralash
+To'g'ri: C
+
+№ 11.
+Savol: Elektr sig‘im (kondensator) quyidagi vazifani bajaradi: 
+
+- magnit maydon energiyasini yig‘adi
+- elektr maydon energiyasini yig‘adi
+- elektr energiyasini issiqlik energiyasiga aylantiradi
+- elektr tokni kuchaytiradi
+To'g'ri: B
+
+№ 12.
+Savol: Kuchlanishni o‘lchash uchun voltmetr o‘lchov asbobini elektr zanjiriga qanday ulash lozim? 
+
+- yuklama qarshiligiga ketma-ket
+- yuklama qarshiligi ichiga
+- yuklama qarshiligiga parallel
+- aralash
+To'g'ri: C
+
+№ 13.
+Savol: Elektr zanjir deb nimaga aytiladi? 
+
+- qurilma yoki zanjirlarni modellashtirish uchun dasturiy ta’minot
+- elektr tokini o‘tkazish uchun xizmat qiladigan elementlar yig‘indisi
+- elektr toki oqib o‘tmaydigan elementlar yig‘indisi
+- yorug‘lik energiyasini issiqlik energiyaga aylantiruvchi optik qurilma
+To'g'ri: B
+
+№ 14.
+Savol: Rezistiv element quyidagi xossalar yordamida ifodalanadi: 
+
+- veber-amper xarakteristikasi
+- volt-amper xarakteristikasi
+- genri-amper xarakteristikasi
+- kulon-volt xarakteristikasi
+To'g'ri: B
+
+№ 15.
+Savol: Zanjirning uch va undan ortiq shaxobchalar ulangan joyi nima deb ataladi? 
+
+- mustaqil kontur
+- tugun
+- shaxobcha
+- kontur
+To'g'ri: B
+
+№ 16.
+Savol: Zanjirning faqat bitta tok oqib o‘tadigan qismi qanday ataladi? 
+
+- kontur
+- tugun
+- shaxobcha
+- mustaqil kontur
+To'g'ri: C
+
+№ 17.
+Savol: Zanjirni kontur toklar usuli bilan hisoblashda qaysi qonunlar qo‘llaniladi? 
+
+- Faradeyning birinchi va ikkinchi qonuni
+- Kirxgofning birinchi va ikkinchi qonuni
+- Djaulning birinchi va ikkinchi qonuni
+- Amperning birinchi va ikkinchi qonuni
+To'g'ri: B
+
+№ 18.
+Savol: O‘zgaruvchan tok zanjiridagi aktiv quvvat P qanday xususiyatga ega? 
+
+- reaktiv elementlar orasida elektromagnit maydonlar almashinuvi
+- elektr energiyasini boshqa turdagi energiyaga aylantirish
+- reaktiv elementlar va energiya manbai orasida elektr maydonlar almashinuvi
+- elektr quvvatni boshqa energiya turlariga o‘rtalashtirish
+To'g'ri: B
+
+№ 19.
+Savol: Elektr zanjiridagi aktiv quvvat P ning o‘lchov birligi qanday? 
+
+- Volt-Amper reaktiv (VAR)
+- Vatt (Vt)
+- Volt-Amper (VA)
+- Makrovatt
+To'g'ri: B
+
+№ 20.
+Savol: Elektr zanjiridagi reaktiv quvvat Q ning o‘lchov birligi qanday? 
+
+- Vatt (Vt)
+- Volt-Amper (VA)
+- Volt-Amper reaktiv (VAR)
+- Makrovatt
+To'g'ri: C
+
+№ 21.
+Savol: Elektr zanjiridagi to‘la quvvat S ning o‘lchov birligi qanday? 
+
+- Volt-Amper reaktiv (VAR)
+- Vatt (Vt)
+- Volt-Amper (VA)
+- Makrovatt
+To'g'ri: C
+
+№ 22.
+Savol: Elektr o‘tkazgich deb nimaga aytiladi? 
+
+- qattiq kristall panjarali moddalarga
+- erkin elektronlari mavjud bo‘lgan moddalarga
+- neytral moddalarga
+- erkin fotonlari bo‘lgan moddalarga
+To'g'ri: B
+
+№ 23.
+Savol: O‘zgarmas elektr toki yo‘nalishi quyidagicha belgilanadi: 
+
+- neytral zarralarning harakati orqali
+- musbat qutbdan manfiy qutbga
+- manfiy zaryadlangan zarralarning harakati orqali
+- manfiy zaryadlangan fotonlarning harakati orqali
+To'g'ri: B
+
+№ 24.
+Savol: Tok kuchiga ta’rif bering. 
+
+- vaqt birligi ichida o‘tkazgichning ko‘ndalang kesimidan oqib o‘tgan elektr miqdoriga
+- protonlar va neytronlar miqdoriga
+- atomdagi protonlar miqdoriga
+- yadrodagi elektronlar miqdoriga
+To'g'ri: A
+
+№ 25.
+Savol: O‘zgarmas tok bu: 
+
+- tebranishlar chastotasi f>0 bo‘lgan elektr toki
+- tebranishlar chastotasi f=0 bo‘lgan elektr toki
+- tebranishlar chastotasi f<0 bo‘lgan elektr toki
+- tebranishlar chastotasi f=50 Hz bo‘lgan elektr toki
+To'g'ri: B
+
+№ 26.
+Savol: Tok kuchini o‘lchash uchun ampermetr zanjirga quyidagicha ulanadi: 
+
+- tok kuchi o‘lchanadigan elementga parallel
+- tok manbaiga parallel
+- tok kuchi o‘lchanadigan elementga ketma-ket
+- aralash
+To'g'ri: C
+
+№ 27.
+Savol: Kuchlanishni o‘lchashda voltmetr zanjirga qanday ulanadi? 
+
+- tok manbaiga ketma-ket
+- zanjirdagi iste’molchiga ketma-ket
+- kuchlanishni o‘lchash kerak bo‘lgan elektr energiya qabul qiluvchisiga parallel
+- aralash
+To'g'ri: C
+
+№ 28.
+Savol: O‘tkazgichdagi tok kuchi qarshilikka qanday bog‘liq? 
+
+- o‘tkazgich qarshiligiga to‘g‘ri proporsional
+- o‘tkazgich qarshiligiga teskari proporsional
+- o‘tkazgich kesimiga to‘g‘ri proporsional
+- o‘tkazgich kesimiga nisbatan nochiziqli
+To'g'ri: B
+
+№ 29.
+Savol: Asosiy elektr energiya manbalari keltirilgan javobni ko‘rsating. 
+
+- to‘g‘rilagichlar
+- issiqlik asboblari
+- issiqlik, atom va gidroelektro-stansiyalar
+- yoritgich asboblari
+To'g'ri: C
+
+№ 30.
+Savol: Transformatorning asosiy vazifasi quyidagicha: 
+
+- o'zgarmas tokni o‘zgaruvchan tokka aylantirib berish
+- o‘zgaruvchan tokni o‘zgarmas aylantirib berish
+- o'zgaruvchan elektr tokini, chastotasini o‘zgartirmagan holda, kuchlanishni pasaytiradi yoki oshiradi
+- kirishdagi tokning tebranish chastotasini o‘zgartirib berish
+To'g'ri: C
+
+---
+
+ 
+Savol: Elektrotexnikada diodlar nima maqsadda foydalaniladi? 
+
+- isitgich asboblarida
+- transformatorlarda
+- to‘g‘rilagichlarda
+- elektrodvigatellarda
+To'g'ri: C
+
+№ 32.
+Savol: Elektr energiyasi nima uchun elektr uzatuvchi liniyalar orqali yuqori kuchlanish yordamida uzatiladi? 
+
+- yuqori kuchlanish nisbatan xavfsiz bo'lgani uchun
+- yuqori elektr uzatish liniyalarini qurish osonroq bo'lgani uchun
+- energiyani uzatishda simlarda yo‘qotish kamroq bo‘lishi uchun
+- yuqori kuchlanishdan foydalanish qulay bo'lgani uchun
+To'g'ri: C
+
+№ 33.
+Savol: Signal chastotasini o‘lchaydigan asbobni ko‘rsating. 
+
+- ampermetr
+- vattmetr
+- chastotamer
+- voltmetr
+To'g'ri: C
+
+№ 34.
+Savol: Quyidagilardan qaysi biri elektr energiya iste’molchisi hisoblanadi? 
+
+- generatorlar
+- transformatorlar
+- elektrodvigatellar
+- elektr energiyani hisoblagichlar
+To'g'ri: C
+
+№ 35.
+Savol: Elektr tokining elektromagnit harakatidan foydalaniladigan texnik qurilmalar: 
+
+- yoritgich asboblari
+- isitgich asboblari
+- elektr dvigatellar va generatorlar
+- elektr uzatish liniyalari
+To'g'ri: C
+
+№ 36.
+Savol: Elektr signallarining fazasini o‘lchaydigan asbob bu: 
+
+- vattmetr
+- chastotamer
+- fazometr
+- ampermetr
+To'g'ri: C
+
+№ 37.
+Savol: Elektr quvvati qaysi birlikda o‘lchanadi? 
+
+- Volt
+- Amper
+- Vatt
+- Om
+To'g'ri: C
+
+№ 38.
+Savol: Elektromagnit — bu: 
+
+- spiral ko‘rinishli o‘tkazgich
+- alyuminiy o‘tkazgichli g‘altak
+- po‘lat o‘zakli induktiv g‘altak
+- spiralli g‘altak
+To'g'ri: C
+
+№ 39.
+Savol: Elektr tokining elektromagnit harakati quyidagi qurilmalarning qaysi birida ishlatiladi? 
+
+- batareyalarda
+- stol lampasida
+- relelarda
+- akkumulyatorda
+To'g'ri: C
+
+№ 40.
+Savol: Manfiy ion deb nimaga aytiladi? 
+
+- qo‘shimcha ionlarni olgan atomga
+- qo‘shimcha neytronlarni olgan atomga
+- bir yoki bir nechta elektronlarni olgan atomga
+- bitta yoki bir nechta elektronlarni yo‘qotgan atomga
+To'g'ri: C
+
+№ 41.
+Savol: Musbat ion deb nimaga aytiladi? 
+
+- qo‘shimcha ionlarni olgan atomga
+- qo‘shimcha neytronlarni olgan atomga
+- bir yoki bir nechta elektronlarni yo‘qotgan atomga
+- bitta yoki bir nechta elektronlarni olgan atomga
+To'g'ri: C
+
+№ 42.
+Savol: Elektr zaryadi bir joydan boshqasiga ko‘chishi nima natijasida sodir bo‘ladi? 
+
+- o‘tkazgichning qizishi natijasida
+- zaryadlangan zarralarning tartibsiz harakati natijasida
+- zaryadlangan zarrachalarning tartibli harakati natijasida
+- zaryadlangan zarralarning xaotik harakati natijasida
+To'g'ri: C
+
+№ 43.
+Savol: Zanjirda tok kuchini sozlash uchun nima ishlatiladi? 
+
+- ampermetr
+- voltmetr
+- reostat
+- galvanometr
+To'g'ri: C
+
+№ 44.
+Savol: Qaysi javobda birlamchi elektr manbalar keltirilgan? 
+
+- to‘g‘rilagichlar
+- impuls ta’minlovchi manbalar
+- galvanik elementlar, batareyalar, akkumulyatorlar
+- kuchlanish stabilizatorlari
+To'g'ri: C
+
+№ 45.
+Savol: Zanjirda qurilmalarning bog‘lanish usullari tasvirlangan chizmalar nima deyiladi? 
+
+- grafik
+- eskiz
+- sxema
+- diagramma
+To'g'ri: C
+
+№ 46.
+Savol: Elektr qarshilikning o‘lchov birligi nima? 
+
+- Amper
+- Vatt
+- Om
+- Volt
+To'g'ri: C
+
+№ 47.
+Savol: Sanoat elektr tarmog‘iga parallel ulanadigan iste’molchilar qanday kuchlanishga mo‘ljallangan bo‘lishi lozim? 
+
+- turlicha kuchlanishlarga
+- 12 V kuchlanishga
+- sanoat elektr tarmog‘i kuchlanishiga
+- 36 V kuchlanishga
+To'g'ri: C
+
+№ 48.
+Savol: Atom umumiy holda qanday zaryadlangan bo‘ladi? 
+
+- manfiy zaryadlangan
+- musbat zaryadlangan
+- neytral
+- molekulalardan tashkil topgan
+To'g'ri: C
+
+№ 49.
+Savol: Qanday moddalar elektr tokining o‘tkazgichi bo‘lib xizmat qiladi? 
+
+- qattiq kristall panjarasi bo‘lgan moddalar
+- dielektriklar
+- erkin elektronlari bo‘lgan moddalar
+- suyuq kristall panjarali moddalar
+To'g'ri: C
+
+№ 50.
+Savol: Ossilograf qanday asbob hisoblanadi? 
+
+- kuchaytirish asbobi
+- yoritish asbobi
+- o‘lchov asbobi
+- fotoelektrik asbobi
+To'g'ri: C
+
+№ 51.
+Savol: Reaktiv qarshilikli zanjir deb nimaga aytiladi? 
+
+- istalgan o‘zgarmas tok zanjiriga
+- rezistiv zanjiri bo‘lgan zanjirga
+- induktivlik yoki kondensatorlari bo‘lgan zanjirga
+- istalgan o‘zgarmas tok yopiq zanjiriga
+To'g'ri: C
+
+№ 52.
+Savol: Agar kuchlanish o‘zgarmagan holda, kondensator qatlamlari orasidagi masofa ortsa, uning zaryadi qanday o‘zgaradi? 
+
+- ortadi
+- o‘zgarmaydi
+- kamayadi
+- chiziqlikka intiladi
+To'g'ri: C
+
+№ 53.
+Savol: Quyidagi metallardan qaysi biri eng yuqori elektr o‘tkazuvchanlikka ega? 
+
+- alyuminiy
+- volfram
+- mis
+- po‘lat
+To'g'ri: C
+
+№ 54.
+Savol: Kondensatorning sig‘imi nimaga bog‘liq? 
+
+- ketma-ket ulangan yuk qarshiligiga
+- zanjirdagi tok kuchiga
+- plastinalar yuzasi va ular orasidagi masofaga
+- qutblardagi kuchlanishga
+To'g'ri: C
+
+№ 55.
+Savol: Elektr energiyasini mexanik energiyaga aylantiruvchi qurilma nima deyiladi? 
+
+- transformator
+- generator
+- elektrodvigatel
+- induktiv g‘altak
+To'g'ri: C
+
+№ 56.
+Savol: Qaysi holda RLC zanjirlarda faqat aktiv qarshilik mavjud bo‘ladi? 
+
+- resistor qarshiligi minimal bo'lganda
+- resistor qarshiligi reaktiv qarshiliklardan katta bo'lganda
+- induktiv va kondensator qarshiliklari o‘zaro teng bo'lganda
+- induktivlik va sig‘imdagi qarshiliklar o‘zaro teng bo'lmaganda
+To'g'ri: C
+
+№ 57.
+Savol: Bitta rezistorga ikkinchisi ketma-ket ulanganda, umumiy qarshilik qanday o‘zgaradi? 
+
+- o‘zgarmaydi
+- kamayadi
+- ortadi
+- 0 ga teng bo‘ladi
+To'g'ri: C
+
+№ 58.
+Savol: O‘tkazgichlarga tegishli bo‘lmagan moddani ko‘rsating. 
+
+- alyuminiy
+- oltin
+- kremniy
+- mis
+To'g'ri: C
+
+№ 59.
+Savol: Elektr o‘tkazuvchanligi bo‘yicha o‘tkazgich va dielektriklar orasidagi o‘rinni egallovchi modda: 
+
+- paramagnetiklar
+- izolyatorlar
+- yarim o‘tkazgichlar
+- metallar
+To'g'ri: C
+
+№ 60.
+Savol: Tok o‘tayotganda o‘tkazgichda ajratiladigan issiqlik miqdori nimaga bog‘liq? 
+
+- faqat o‘tkazgich parametrlariga
+- xona haroratiga
+- tok, o‘tkazgich qarshiligiga va o‘tish vaqtiga
+- sig‘imiga
+To'g'ri: C
+
+ 
+
+№ 61.
+Savol: Elektr tokining o‘tishi uchun yo‘l hosil qiladigan qurilma va obyektlar yig‘indisi nima deyiladi? 
+
+- EYUK manbai
+- tugun
+- elektr zanjir
+- elektr zanjir shaxobchasi
+To'g'ri: C
+
+№ 62.
+Savol: Zanjirdagi kuchlanishni qaysi asbob o‘lchaydi va u qanday ulanadi? 
+
+- Ampermetr, ketma-ket
+- Ommetr, ketma-ket
+- Voltmetr, parallel
+- Vattmetr, parallel
+To'g'ri: C
+
+№ 63.
+Savol: Dielektrik bilan ajratilgan ikkita o‘tkazgichdan tashkil topgan qurilma nomi: 
+
+- rezistor
+- induktiv g‘altak
+- kondensator
+- o‘lchov transformatori
+To'g'ri: C
+
+№ 64.
+Savol: O‘zgaruvchan kattalik o‘zining o‘zgarishlarini to‘liq amalga oshiradigan vaqt nima deb ataladi? 
+
+- chastota
+- amplituda
+- davr
+- burchak chastotasi
+To'g'ri: C
+
+№ 65.
+Savol: Elektr zanjirning tugunidagi toklarning algebraik yig‘indisi nolga teng. Bu qaysi qonun? 
+
+- Kirxgofning ikkinchi qonuni
+- Om qonuni
+- Kirxgofning birinchi qonuni
+- Djoul – Lens qonuni
+To'g'ri: C
+
+№ 66.
+Savol: O‘zbekistonda foydalaniladigan o‘zgaruvchan sinusoidal tokning chastotasi qancha? 
+
+- 60 Hz
+- 75 Hz
+- 50 Hz
+- 100 Hz
+To'g'ri: C
+
+№ 67.
+Savol: Qarshilikning o‘lchov birliklari qatorini ko‘rsating. 
+
+- F, mF, mkF
+- V, mV, mkV
+- Om, kOm, MOm
+- A, mA, mkA
+To'g'ri: C
+
+№ 68.
+Savol: Sig‘imning o‘lchov birliklari qatorini ko‘rsating. 
+
+- Om, kOm, MOm
+- V, mV, mkV
+- F, mF, mkF
+- A, mA, mkA
+To'g'ri: C
+
+№ 69.
+Savol: Tok kuchining o‘lchov birliklari qatorini ko‘rsating. 
+
+- F, mF, mkF
+- Om, kOm, MOm
+- A, mA, mkA
+- V, mV, mkV
+To'g'ri: C
+
+№ 70.
+Savol: Elektr kuchlanishining o‘lchov birliklari qatorini ko‘rsating. 
+
+- A, mA, mkA
+- F, mF, mkF
+- V, mV, mkV
+- Om, kOm, MOm
+To'g'ri: C
+
+№ 71.
+Savol: Induktivlikning o‘lchov birliklari qatorini ko‘rsating. 
+
+- A, mA, mkA
+- F, mF, mkF
+- G, mG, mkG
+- Om, kOm, MOm
+To'g'ri: C
+
+№ 72.
+Savol: Ikkita p-n o‘tishga va uchta elektrodga ega, signallarni kuchaytiruvchi asbob: 
+
+- unipolyar tranzistor
+- diod
+- bipolyar tranzistor
+- stablitron
+To'g'ri: C
+
+№ 73.
+Savol: Yuqori va o‘ta yuqori chastotali qurilmalarda ishlatiladigan diodlar: 
+
+- to‘g‘rilovchi diodlar
+- impulsli diodlar
+- yuqori chastotali diodlar
+- tunelli diodlar
+To'g'ri: C
+
+№ 74.
+Savol: Kuchlanganlik ta’siri ostidagi noasosiy zaryad tashuvchilarning harakatini ifodalovchi tok: 
+
+- teshikli
+- teskari
+- dreyf
+- elektron
+To'g'ri: C
+
+№ 75.
+Savol: Quyidagilardan yarimo‘tkazgichli asboblarni ko‘rsating. 
+
+- induktivlik, qarshilik, stablitron
+- kodensator, transformator, simistor
+- diod, tiristor, tranzistor
+- induktivlik, kodensator, MDYa tranzistor
+To'g'ri: C
+
+№ 76.
+Savol: Ikkita kirishidagi signallar farqini kuchaytirish uchun mo‘ljallangan qurilma: 
+
+- tok takrorlovchi
+- kuchlanish takrorlovchi
+- differensial kuchaytirgich
+- tanlov kuchaytirgich
+To'g'ri: C
+
+№ 77.
+Savol: O‘nlab gersdan o‘nlab kilogersgacha bo‘lgan diapazondagi kuchaytirgich: 
+
+- impulsli kuchaytirgich
+- doimiy tok kuchaytirgichi
+- past chastota kuchaytirgichi
+- yuqori chastotali kuchaytirgich
+To'g'ri: C
+
+№ 78.
+Savol: Elektr zanjirida tok kuchi qaysi harf bilan ifodalanadi? 
+
+- U
+- F
+- I
+- R
+To'g'ri: C
+
+№ 79.
+Savol: Elektr zanjirida kuchlanish qaysi harf bilan ifodalanadi? 
+
+- I
+- R
+- U
+- L
+To'g'ri: C
+
+№ 80.
+Savol: Elektr zanjirida aktiv qarshilik qaysi harf bilan belgilanadi? 
+
+- U
+- I
+- R
+- C
+To'g'ri: C
+
+№ 81.
+Savol: Elektr zanjirida kondensator qaysi harf bilan belgilanadi? 
+
+- L
+- R
+- C
+- U
+To'g'ri: C
+
+№ 82.
+Savol: Elektr zanjirida induktiv g‘altak qaysi harf bilan belgilanadi? 
+
+- C
+- R
+- L
+- U
+To'g'ri: C
+
+№ 83.
+Savol: Elektr zanjirida EYUK manbasi qaysi harf bilan belgilanadi? 
+
+- L
+- R
+- E
+- I
+To'g'ri: C
+
+№ 84.
+Savol: Elektr zanjirida tok manbai qaysi harf bilan belgilanadi? 
+
+- E
+- C
+- J
+- R
+To'g'ri: C
+
+№ 85.
+Savol: Metall o‘tkazgichlar qanday belgilar bilan xarakterlanadi? 
+
+- tarkibidagi erkin ionlar bilan
+- erkin elektron va ionlarning yo‘qligi bilan
+- tarkibidagi erkin elektronlar bilan
+- tarkibidagi erkin elektronlar va ionlar bilan
+To'g'ri: C
+
+№ 86.
+Savol: Elektr zanjirining parallel qismida qaysi kattalik bir xil bo‘ladi? 
+
+- qarshilik
+- tok
+- kuchlanish
+- quvvat
+To'g'ri: C
+
+№ 87.
+Savol: O‘zgarmas elektr toki qaysi tomonga oqadi? 
+
+- Potensiali kichik nuqtadan kattaga
+- Erkin yo‘nalishda
+- Potensiyali katta nuqtadan potensiali kichik nuqtaga tomon
+- Berilgan yo‘nalishda
+To'g'ri: C
+
+№ 88.
+Savol: "Statik elektr energiya" nima? 
+
+- Dvigatel ishlab chiqaruvchi energiya
+- AES da ishlab chiqaruvchi energiya
+- Tabiatda paydo bo‘luvchi elektr energiya (chaqmoq, razryad)
+- GES da ishlab chiqaruvchi energiya
+To'g'ri: C
+
+№ 89.
+Savol: Nikola Tesla elektr energiyani uzoq masofalarga nima yordamida uzatish ustida ishlagan? 
+
+- statik elektrlash
+- doimiy tok
+- o‘zgaruvchan tok
+- impuls tok
+To'g'ri: C
+
+№ 90.
+Savol: Tomas Edison dunyodagi birinchi qaysi qurilma yaratuvchisi hisoblanadi? 
+
+- atom elektro-stansiyalarining
+- yarimo‘tkazgichli diodning
+- cho‘g‘lanma lampalarining
+- tranzistorning
+To'g'ri: C
+ 
+
+№ 91.
+Savol: MDH standarti bo‘yicha tokning sanoat chastotasi qiymati qanday? 
+
+- 50 MHz
+- 100 Hz
+- 50 Hz
+- 60 Hz
+To'g'ri: C
+
+№ 92.
+Savol: Qanday qutblanishda diod orqali elektr toki o‘tadi? 
+
+- aralash
+- to‘g‘ri emas
+- to‘g‘ri
+- teskari
+To'g'ri: C
+
+№ 93.
+Savol: "Sinusoida" qaysi tok turiga tegishli? 
+
+- to‘g‘rilangan
+- doimiy
+- o‘zgaruvchan
+- impuls
+To'g'ri: C
+
+№ 94.
+Savol: Qaysi material ko‘proq tok o‘tkazadi? 
+
+- mis
+- alyuminiy
+- kumush
+- po‘lat
+To'g'ri: C
+
+№ 95.
+Savol: Aktiv qarshilikka ega zanjirda manba energiyasi qaysi energiyaga aylanadi? 
+
+- elektr maydon
+- magnit maydon
+- issiqlik
+- magnit va elektr maydoni
+To'g'ri: C
+
+№ 96.
+Savol: Sinusoidal tokning ta’sir etuvchi qiymati uning amplitudasidan necha marta kichik? 
+
+- 2 marta
+- 0,5 marta
+- 0,707 marta
+- 0,637 marta
+To'g'ri: C
+
+№ 97.
+Savol: Ideal kuchlanish manbasi bu: 
+
+- undagi tok, kuchlanish o‘zgarishiga bog‘liq bo‘lmagan manba
+- tok qiymati ichki o‘tkazuvchanlik bilan xarakterlanadigan manba
+- chiqishdagi kuchlanish tok miqdorining o‘zgarishiga bog‘liq bo‘lmagan manba
+- tok qiymati EYUK va ichki qarshilik bilan xarakterlanadigan manba
+To'g'ri: C
+
+№ 98.
+Savol: Burchak chastotaga ta’rif bering. 
+
+- π oralig‘idagi siklik tebranishlar soni
+- π /2 oralig‘idagi siklik tebranishlar soni
+- 2π oralig‘idagi siklik tebranishlar soniga aytiladi
+- 1 sekund oralig‘idagi siklik tebranishlar soni
+To'g'ri: C
+
+№ 99.
+Savol: Zanjirdagi shaxobchalarning tutashgan nuqtasi nima deb ataladi? 
+
+- shaxobcha
+- zanjir
+- tugun
+- kontur
+To'g'ri: C
+
+№ 100.
+Savol: Bir xil tok oqib o‘tadigan zanjirning qismi qanday nomlanadi? 
+
+- tugun
+- kontur
+- shaxobcha
+- mustaqil kontur
+To'g'ri: C
+
+№ 101.
+Savol: Zanjirning qarshiligi o‘zgarmas bo‘lgan qismida tok miqdori ortsa, kuchlanish qanday o‘zgaradi? 
+
+- o‘zgarmaydi
+- nolga teng bo‘ladi
+- ortadi
+- kamayadi
+To'g'ri: C
+
+№ 102.
+Savol: Ikkita qabul qiluvchi ketma-ket ulangan holda, zanjirning istalgan qismidagi tok kuchi qanday bo‘ladi? 
+
+- toklar yig‘indisiga teng
+- toklar farqiga teng
+- bir xil
+- o'zgaruvchan
+To'g'ri: C
+
+№ 103.
+Savol: Kondensator qutblarida kuchlanish ortsa, uning sig‘imi va zaryadi qanday o‘zgaradi? 
+
+- Sig‘im va zaryad bir xilda ortadi
+- Sig‘im o‘zgarmaydi, zaryad esa kamayadi
+- Sig‘im o‘zgarmaydi, zaryad esa ortadi
+- Sig‘im kamayadi, zaryad ortadi
+To'g'ri: C
+
+№ 104.
+Savol: Kirxgofning birinchi qonunini qo‘llashda sxemadagi nimalar sonicha tenglama tuziladi? 
+
+- shaxobchalar
+- qarshiliklar
+- tugunlar (n-1)
+- konturlar
+To'g'ri: C (Izoh: Manba bo'yicha "tugun" varianti tanlanadi)
+
+№ 105.
+Savol: Induktivlik elementi L da kuchlanish faza bo‘yicha tokka nisbatan qanday holatda bo‘ladi? 
+
+- kuchlanish va tok teskari fazada bo‘ladi
+- kuchlanish tokdan ortda qoladi
+- kuchlanish faza bo‘yicha tokka nisbatan 90 gradusga ilgarilaydi
+- faza bo‘yicha tok bilan ustma-ust tushadi
+To'g'ri: C
+
+№ 106.
+Savol: Aktiv qarshilik R da kuchlanish va tok fazalari qanday? 
+
+- kuchlanish tokdan ilgarilaydi
+- kuchlanish va tok teskari fazada bo‘ladi
+- kuchlanish faza bo‘yicha tok bilan ustma-ust tushadi
+- kuchlanish tokdan ortda qoladi
+To'g'ri: C
+
+№ 107.
+Savol: Kondensator C da kuchlanish faza bo‘yicha tokka nisbatan qanday holatda bo‘ladi? 
+
+- faza bo‘yicha tok bilan ustma-ust tushadi
+- kuchlanish tokdan ilgarilaydi
+- kuchlanish faza bo‘yicha tokga nisbatan ortda qoladi
+- teskari fazada bo‘ladi
+To'g'ri: C
+
+№ 108.
+Savol: Quyidagi manbalarning qaysi biri o‘zgarmas tok manbai hisoblanadi? 
+
+- 220 V li sanoat tarmog‘i
+- 380 V li uch fazali sanoat tarmog‘i
+- akkumulyatorlar
+- o‘zgarmas tokda ishlovchi elektrodvigatellar
+To'g'ri: C
+
+№ 109.
+Savol: Quvvat balansi sharti nimadan iborat? 
+
+- Manbadan chiqayotgan energiya yuklamadagidan katta
+- Manbadan chiqayotgan energiya yuklamadagidan kichik
+- Manbadan chiqayotgan energiya miqdori yuklamada hosil bo‘layotgan energiya miqdoriga teng
+- Energiya miqdori teng emas
+To'g'ri: C
+
+№ 110.
+Savol: Kuchaytirgichlarda quyidagi elementlardan qaysi biri qo‘llanilmaydi? 
+
+- maydoniy tranzistorlar
+- bipolyar tranzistorlar
+- diodli tiristorlar
+- integral mikrosxemalar
+To'g'ri: C
+
+№ 111.
+Savol: Kuchlanishni to‘g‘rilagich sxemasida stabilitron qanday vazifani bajaradi? 
+
+- C – filtr sifatida qo‘llaniladi
+- L – filtr sifatida qo‘llaniladi
+- kuchlanishni barqarorlash uchun qo‘llaniladi
+- tokni kuchaytirish uchun qo‘llaniladi
+To'g'ri: C
+
+№ 112.
+Savol: Aktiv o‘tkazuvchanlik qanday aniqlanadi? 
+
+- tok kvadratini qarshilikka ko'paytmasi
+- kuchlanishni tokka ko'paytmasi
+- g=1/R, aktiv qarshilikka teskari nisbat
+- kuchlanishni qarshilikka nisbati
+To'g'ri: C
+
+№ 113.
+Savol: Zanjirda EYUK E=10V va r=1, R=9 qarshiliklar ketma-ket ulangan. Tokni toping. 
+
+- 4 A
+- 6 A
+- 1 A
+- 9 A
+To'g'ri: C  
+
+№ 114.
+Savol: Zanjirda EYUK E=20V va r=1, R=9 qarshiliklar ketma-ket ulangan. Tokni toping. 
+
+- 1 A
+- 6 A
+- 2 A
+- 9 A
+To'g'ri: C  
+
+№ 115.
+Savol: Zanjirda EYUK E=24V va r=1, R=9 qarshiliklar ketma-ket ulangan. Tokni toping. 
+
+- 1 A
+- 6 A
+- 2,4 A
+- 9 A
+To'g'ri: C  
+
+№ 116.
+Savol: Bipolyar tranzistorning ulanish sxemalariga qaysi biri kirmaydi? 
+
+- umumiy emitter
+- umumiy kollektor
+- umumiy zatvor
+- umumiy baza
+To'g'ri: C
+
+№ 117.
+Savol: Maydoniy tranzistorning ulanish sxemalariga qaysi biri kirmaydi? 
+
+- umumiy zatvor
+- umumiy stok
+- umumiy baza
+- umumiy istok
+To'g'ri: C
+
+№ 118.
+Savol: Bipolyar tranzistorning aktiv ish rejimida: 
+
+- Chiqish toki kirish qarshiligiga proporsional
+- Chiqish toki kirish sig‘imiga proporsional
+- Chiqish toki kirish tokiga to‘g‘ri proporsional
+- Chiqish kuchlanishi kirish qarshiligiga proporsional
+To'g'ri: C
+
+№ 119.
+Savol: Umumiy emitter (UE) sxemasida chiqish xarakteristikasi nima? 
+
+- Baza tokini o‘zgarmas miqdorida, kollektor tokini baza emitter kuchlanishiga bog‘liqligi
+- Baza tokini o‘zgarmas miqdorida, kollektor tokini kollektor baza kuchlanishiga bog‘liqligi
+- Baza tokini o‘zgarmas miqdorida, kollektor tokini kollektor emitter kuchlanishiga bog‘liqligidir
+- Emitter tokini kollektor baza kuchlanishiga bog‘liqligi
+To'g'ri: C
+
+№ 120.
+Savol: Uchta L=9 Hn induktivlik g‘altaklari parallel ulangan. Umumiy induktivlikni toping. 
+
+- 100 Hn
+- 50 Hn
+- 3 Hn
+- 45 Hn
+To'g'ri: C (L_sum = 9/3 = 3Hn)
+
+ 
+
+№ 121.
+Savol: To‘rtta L=36 Hn induktivlik g‘altaklari parallel ulangan. Umumiy induktivlikni toping. 
+
+- 98 Hn
+- 50 Hn
+- 9 Hn
+- 45 Hn
+To'g'ri: C (L_sum = 36/4 = 9Hn)
+
+№ 122.
+Savol: Maydoniy tranzistorni qanday tasavvur etish mumkin? 
+
+- tok yordamida boshqariladigan asbob
+- kuchlanish xamda tok yordamida boshqariladigan asbob
+- kuchlanish yordamida boshqariladigan elektron asbob
+- kuchlanish yordamida boshqarilmaydigan asbob
+To'g'ri: C
+
+№ 123.
+Savol: Bipolyar tranzistorda p-n o‘tish va elektrodlar soni nechta? 
+
+- ikkita to‘g‘ri ulanish va ikkita elektrod
+- uchta qarama-qarshi ulanish va uchta elektrod
+- ikkita bir-biriga qarama-qarshi ulangan p-n o‘tish va uchta elektrod
+- ikkita qarama-qarshi ulanish va to‘rtta elektrod
+To'g'ri: C
+
+№ 124.
+Savol: Tranzistorning qaysi rejimida emitter o‘tish to‘g‘ri, kollektor o‘tish teskari siljitilgan? 
+
+- invers rejimda
+- berk rejimda
+- aktiv rejimda
+- to‘yinish rejimida
+To'g'ri: C
+
+№ 125.
+Savol: Tranzistorning qaysi rejimida emitter va kollektor o‘tishlari to‘g‘ri siljitilgan? 
+
+- aktiv rejimda
+- invers rejimda
+- to‘yinish rejimi
+- berk rejimda
+To'g'ri: C
+
+№ 126.
+Savol: Tranzistorning qaysi rejimida emitter va kollektor o‘tishlari teskari siljitilgan? 
+
+- invers rejimda
+- aktiv rejimda
+- berk rejimda
+- to‘yinish rejimida
+To'g'ri: C
+
+№ 127.
+Savol: Tranzistorning qaysi rejimida emitter o‘tish teskari, kollektor o‘tish to‘g‘ri siljitilgan? 
+
+- aktiv rejimda
+- to‘yinish rejimida
+- invers rejimda
+- berk rejimda
+To'g'ri: C
+
+№ 128.
+Savol: Umumiy emitter (UE) sxemasida kirish xarakteristikasi nima? 
+
+- baza emitter kuchlanishining o‘zgarmas miqdorida tok bog‘liqligi
+- emitter tokini kollektor baza kuchlanishiga bog‘liqligi
+- kollektor emitter kuchlanishining o‘zgarmas miqdorida, baza tokini baza emitter kuchlanishiga bog‘liqligidir
+- baza tokini baza emitter kuchlanishiga bog‘liqligi
+To'g'ri: C
+
+№ 129.
+Savol: Bipolyar tranzistorning qaysi ish rejimi avariya holatiga olib keladi? 
+
+- aktiv rejimi
+- berk rejimi
+- teshilish rejimi
+- to‘yinish rejimi
+To'g'ri: C
+
+№ 130.
+Savol: Bipolyar tranzistorning aktiv ish rejimida kollektor p-n o‘tish kimlar uchun potensial to‘siq hosil qiladi? 
+
+- faqat noasosiy zaryad tashuvchilar uchun
+- barcha zaryad tashuvchilar uchun
+- faqat asosiy zaryad tashuvchilar uchun
+- barcha zaryadlar uchun
+To'g'ri: C
+
+№ 131.
+Savol: Umumiy kollektor (UK) ulanish sxemasi uchun kirish signali qayerdan olinadi? 
+
+- baza va emitter orasidagi kuchlanish
+- emitter va kollektor orasidagi kuchlanish
+- baza va kollektor orasidagi kuchlanish
+- zatvor va kollektor orasidagi kuchlanish
+To'g'ri: C
+
+№ 132.
+Savol: Dinistor qancha p-n o‘tishdan tashkil topgan? 
+
+- ikkita p-n o‘tishdan
+- bitta p-n o‘tishdan
+- uchta p-n o‘tishdan
+- to‘rtta p-n o‘tishdan
+To'g'ri: C
+
+№ 133.
+Savol: Operatsion kuchaytirgichning differensial kirishi deb nimaga aytiladi? 
+
+- inverslovchi va umumiy kirishlar farqiga
+- umumiy va inverslamaydigan kirishlar farqiga
+- inverslovchi va inverslamaydigan kirishlar orasidagi kuchlanishlar farqiga
+- kirish kuchlanishlar yig‘indisiga
+To'g'ri: C
+
+№ 134.
+Savol: Simistor bu qanday asbob? 
+
+- har xil o‘tkazuvchanlik tipidagi, uch qatlamli asbob
+- bir xil o‘tkazuvchanlik tipdagi, uch qatlamli asbob
+- har xil o‘tkazuvchanlik tipidagi, besh qatlamli va boshqaruvchi elektrodiga ega
+- ikki qatlamli asbob
+To'g'ri: C
+
+№ 135.
+Savol: Tiristor bu qanday asbob? 
+
+- to‘rtta p-n o‘tishli ikki elektrodli
+- uchta p-n o‘tishli ikki elektrodli
+- uchta p-n o‘tishdan iborat uch elektrodli elektron
+- to'rtta p-n o'tishli uch elektrodli
+To'g'ri: C
+
+№ 136.
+Savol: Bitta p-n o‘tish va ikkita elektroddan tashkil topgan asbob: 
+
+- tranzistor
+- MDYa
+- diod
+- tiristor
+To'g'ri: C
+
+№ 137.
+Savol: Kuchaytirish kaskadi qachon differensial deb ataladi? 
+
+- kirish signallar yig‘indisini kuchaytirsa
+- kirish signallar hosilasini kuchaytirsa
+- kirish signallar farqini kuchaytirsa
+- kirish signallar integralini kuchaytirsa
+To'g'ri: C
+
+№ 138.
+Savol: Uchta p-n o‘tishdan iborat va uch elektrodli elektron asbob: 
+
+- diod
+- stablitron
+- tiristor
+- kondensator
+To'g'ri: C
+
+№ 139.
+Savol: Zanjirda induktivlik elementi qanday vazifani bajaradi? 
+
+- elektr maydon hosil qiladi
+- elektr toki zaxirasini hosil qiladi
+- magnit maydoni energiyasini hosil qiladi
+- elektr kuchlanishini zaxirasini qiladi
+To'g'ri: C
+
+№ 140.
+Savol: Konturga ta’rif bering. 
+
+- Zanjirning ikki nuqta orasidagi qismi
+- Zanjirning bitta tok oqadigan qismi
+- Bir necha shaxobcha va tugunlarni o‘z ichiga olgan zanjirning berk qismi
+- Shaxobchalarning tutatish nuqtasi
+To'g'ri: C
+
+№ 141.
+Savol: Zanjirni hisoblashda shahobcha toki ishorasi manfiy chiqsa, bu nimani anglatadi? 
+
+- hisob kitob noto‘g‘ri bo‘lgan
+- sxema noto‘g‘ri tuzilgan
+- tok yo‘nalishi noto‘g‘ri tanlangan
+- kontur toki yo‘nalishi noto‘g‘ri
+To'g'ri: C
+
+№ 142.
+Savol: Zanjirni hisoblashda tok ishorasi manfiy chiqsa nima qilish lozim? 
+
+- sxemani o‘zgartirish lozim
+- hisob kitobni tekshirish lozim
+- tokni yo‘nalishini teskari tomonga almashtirish lozim
+- hisobni boshidan boshlash
+To'g'ri: C
+
+№ 143.
+Savol: Tugun potensiallari usulida tayanch nuqta potensiali qanchaga teng qilib olinadi? 
+
+- 0.5 ga teng
+- cheksizlikka teng
+- nolga teng qilib olinadi
+- minus birga teng
+To'g'ri: C
+
+№ 144.
+Savol: Real kuchlanish manbasi bu: 
+
+- ichki qarshilikka ega bo‘lmagan EYUK
+- tok kuchlanishga bog‘liq bo‘lmagan manba
+- ichki qarshilikka ega bo‘lgan elektr yurituvchi kuch
+- kuchlanishi chiqish tokiga bog'liq bo'lmagan manba
+To'g'ri: C
+
+№ 145.
+Savol: Ideal tok manbasi bu: 
+
+- chiqishdagi elektr toki kuchlanishga bog‘liq bo‘lgan manba
+- chiqishdagi kuchlanish tokka bog‘liq bo‘lmagan manba
+- chiqishdagi elektr toki kuchlanishga bog‘liq bo‘lmagan manba
+- chiqishdagi tok qarshilikka bog‘liq bo‘lgan manba
+To'g'ri: C
+
+№ 146.
+Savol: Ketma-ket tebranish konturida qanaqa rezonans hosil bo‘ladi? 
+
+- quvvat rezonansi
+- tok rezonansi
+- kuchlanish rezonansi
+- sig‘im va induktivlik rezonansi
+To'g'ri: C
+
+№ 147.
+Savol: Parallel tebranish konturida qanaqa rezonans hosil bo‘ladi? 
+
+- Quvvat balansi
+- Tugun potensiali rezonansi
+- Tok rezonansi
+- Kuchlanish rezonansi
+To'g'ri: C
+
+№ 148.
+Savol: Shaxobchaga ta’rif bering. 
+
+- Zanjirning berk qismi
+- Zanjirdagi uchta element tutashgan nuqtasi
+- Bir xil tok oqib o‘tadigan zanjirning qismi
+- Ikkita shaxobcha ulangan nuqta
+To'g'ri: C
+
+№ 149.
+Savol: Tugun deb nimaga aytiladi? 
+
+- elektr manba va yuklamani ulangan joyi
+- ikki va undan ortiq konturlarni ulangan joyi
+- uchta va undan ortiq shaxobchalarning tutashgan nuqtasi
+- ketma-ket ulangan qarshiliklar to‘plami
+To'g'ri: C
+
+№ 150.
+Savol: Parallel ulangan shaxobchalar deb nimaga aytiladi? 
+
+- bitta tugunga ulangan shaxobchalar
+- har xil tugunga ulangan shaxobchalar
+- bir juft tugunga ulangan shaxobchalar
+- uchta shaxobcha ulangan nuqta
+To'g'ri: C
+
+ 
+
+№ 151.
+Savol: Kirxgofning birinchi qonuniga asosan qaysi toklar musbat ishorali? 
+
+- tugunga kiruvchi toklar manfiy
+- tugundan chiquvchi toklar musbat
+- tugunga kiruvchi toklar musbat ishorali
+- ishoralar inobatga olinmaydi
+To'g'ri: C
+
+№ 152.
+Savol: Uchta L=5 Hn induktivlik g‘altaklari ketma-ket ulangan. Umumiy induktivlikni toping. 
+
+- 100 Hn
+- 50 Hn
+- 15 Hn
+- 45 Hn
+To'g'ri: C  
+
+№ 153.
+Savol: Uchta L=10 Hn induktivlik g‘altaklari ketma-ket ulangan. Umumiy induktivlikni toping. 
+
+- 100 Hn
+- 50 Hn
+- 30 Hn
+- 45 Hn
+To'g'ri: C  
+
+№ 154.
+Savol: Ikkita L=50 Hn induktivlik g‘altaklari ketma-ket ulangan. Umumiy induktivlik: 
+
+- 76 Hn
+- 68 Hn
+- 100 Hn
+- 42 Hn
+To'g'ri: C  
+
+№ 155.
+Savol: Ikkita C=40 mkF kondensatorlar ketma-ket ulangan. Umumiy sig‘im: 
+
+- 72 mkF
+- 47 mkF
+- 20 mkF
+- 51 mkF
+To'g'ri: C  
+
+№ 156.
+Savol: Ikkita C=10 mkF kondensatorlar ketma-ket ulangan. Umumiy sig‘im: 
+
+- 7 mkF
+- 41 mkF
+- 5 mkF
+- 18 mkF
+To'g'ri: C  
+
+№ 157.
+Savol: Ikkita C=25 mkF kondensatorlar parallel ulangan. Umumiy sig‘im: 
+
+- 79 mkF
+- 41 mkF
+- 50 mkF
+- 18 mkF
+To'g'ri: C  
+№ 158.
+Savol: Uchta C=10 mkF kondensatorlar parallel ulangan. Umumiy sig‘im: 
+
+- 89 mkF
+- 31 mkF
+- 30 mkF
+- 28 mkF
+To'g'ri: C  
+
+№ 159.
+Savol: Uchta C=20 mkF kondensatorlar parallel ulangan. Umumiy sig‘im: 
+
+- 9 mkF
+- 1 mkF
+- 60 mkF
+- 13 mkF
+To'g'ri: C  
+
+№ 160.
+Savol: Arsenid galiyning taqiqlangan zonasi qiymati: 
+
+- > 3eV
+
+
+- 1,12eV
+- 1,43eV
+- 0,67eV
+To'g'ri: C
+
+№ 161.
+Savol: Germaniy elementining taqiqlangan zonasi qiymati: 
+
+- 1,43eV
+- > 3eV
+
+
+- 0,67eV
+- 1,12eV
+To'g'ri: C
+
+№ 162.
+Savol: Dielektriklarning taqiqlangan zonasi qiymati: 
+
+- 1,12eV
+- 0,67eV
+- > 3eV
+
+
+- 1,43eV
+To'g'ri: C
+
+№ 163.
+Savol: Kremniy elementining taqiqlangan zonasi qiymati: 
+
+- > 3eV
+
+
+- 0,67eV
+- 1,12eV
+- 1,43eV
+To'g'ri: C
+
+№ 164.
+Savol: n-turdagi yarimo‘tkazgichda asosiy zaryad tashuvchilar: 
+
+- kovaklar
+- musbat ionlar
+- elektronlar
+- manfiy ionlar
+To'g'ri: C
+
+№ 165.
+Savol: n-turdagi yarimo‘tkazgichda qaysi zaryad tashuvchilar tok hosil qiladi? 
+
+- kovaklar
+- musbat ionlar
+- elektronlar
+- manfiy ionlar
+To'g'ri: C
+
+№ 166.
+Savol: p-turdagi yarimo‘tkazgichda asosiy zaryad tashuvchilar: 
+
+- musbat ionlar
+- manfiy ionlar
+- kovaklar
+- elektronlar
+To'g'ri: C
+
+№ 167.
+Savol: p-turdagi yarimo‘tkazgichda qaysi zaryad tashuvchilar tok hosil qiladi? 
+
+- musbat ionlar
+- manfiy ionlar
+- kovaklar
+- elektronlar
+To'g'ri: C
+
+№ 168.
+Savol: p-turdagi yarimo‘tkazgich bu qanday yarimo‘tkazgich? 
+
+- to‘liqsiz yarimo‘tkazgich
+- konsentratsiyalar teng yarimo‘tkazich
+- akseptorli yarimo‘tkazgich
+- donorli yarimo‘tkazgich
+To'g'ri: C
+
+№ 169.
+Savol: i-turdagi yarim o‘tkazgich bu: 
+
+- akseptorli yarimo‘tkazgich
+- konsentratsiyalar teng yarimo‘tkazich
+- xususiy yarimo‘tkazgich
+- donorli yarimo‘tkazgich
+To'g'ri: C
+
+№ 170.
+Savol: n-turdagi yarimo‘tkazgich bu: 
+
+- xususiy yarimo‘tkazgich
+- akseptorli yarimo‘tkazgich
+- donorli yarimo‘tkazgich
+- konsentratsiyalar teng yarimo‘tkazich
+To'g'ri: C
+
+№ 171.
+Savol: Qaysi element elektr maydon energiyasini zaxira qilish qobiliyatiga ega? 
+
+- Transformator
+- Generator
+- Kondensator
+- Rezistor
+To'g'ri: C
+
+№ 172.
+Savol: Ketma-ket ulangan 9 Om dan 3 ta rezistorning umumiy qarshiligi: 
+
+- 3 Om
+- 36 Om
+- 27 Om
+- 18 Om
+To'g'ri: C  
+
+№ 173.
+Savol: Parallel ulangan 9 Om dan 3 ta rezistorning umumiy qarshiligi: 
+
+- 27 Om
+- 36 Om
+- 3 Om
+- 18 Om
+To'g'ri: C  
+
+№ 174.
+Savol: Kuchlanish o‘zgarmas bo‘lganda qarshilik 2 marta kamaysa, tok qanday o‘zgaradi? 
+
+- 2 marta kamayadi
+- o‘zgarmaydi
+- 2 marta ortadi
+- 4 marta ortadi
+To'g'ri: C
+
+№ 175.
+Savol: "Inpendans" so‘zining ma’nosi nima? 
+
+- zanjirning berk qismi uchun tok qiymati
+- zanjirda kuchlanishni keskin ortishi
+- zanjirning ikki tugun orasidagi kompleks qarshiligi
+- kuchlanishni keskin kamayishi
+To'g'ri: C
+
+№ 176.
+Savol: Tugunga I1=5A, I2=10A, I3=5A kiruvchi toklar ulangan bo‘lsa, chiquvchi I4 qancha? 
+
+- -10A
+- 25A
+- 20 A
+- 0 A
+To'g'ri: C  
+
+№ 177.
+Savol: Tugunga I1=2A, I2=8A, I3=8A kiruvchi toklar ulangan bo‘lsa, chiquvchi I4 qancha? 
+
+- -18A
+- 10A
+- 18 A
+- 0 A
+To'g'ri: C  
+
+№ 178.
+Savol: Tugunga I1=3A, I2=5A, I3=5A kiruvchi toklar ulangan bo‘lsa, chiquvchi I4 qancha? 
+
+- -8A
+- 15A
+- 13 A
+- 20 A
+To'g'ri: C 
+
+№ 179.
+Savol: U=20V, R=10 Om bo‘lgan ketma-ket tebranish konturida rezonans paytidagi tok: 
+
+- 1A
+- 2,5A
+- 2 A
+- 0,5A
+To'g'ri: C 
+
+№ 180.
+Savol: R=10 Om bo‘lgan ketma-ket zanjirda kuchlanish rezonansi paytidagi to‘liq qarshilik Z: 
+
+- 200 Om
+- 100 Om
+- 10 Om
+- 210 Om
+To'g'ri: C  
+ 
+
+№ 181.
+Savol: R=5 Om bo‘lgan ketma-ket zanjirda kuchlanish rezonansi paytidagi to‘liq qarshilik Z: 
+
+- 202 Om
+- 101 Om
+- 5 Om
+- 210 Om
+To'g'ri: C  
+
+№ 182.
+Savol: Parallel ulangan R1=1, R2=2, R3=3, R4=4, R5=5 rezistorlarning qaysidan eng katta tok oqadi? 
+
+- R2 dan
+- hammasidan bir xil
+- R1 dan
+- R4 va R5 dan
+To'g'ri: C  
+
+№ 183.
+Savol: Parallel ulangan R1=1, R2=2, R3=3, R4=4, R5=5 rezistorlarning qaysidan eng kam tok oqadi? 
+
+- R1 dan
+- hammasidan bir xil
+- R5 dan
+- R2 dan
+To'g'ri: C  
+
+№ 184.
+Savol: Kuchlanishning ta’sir etuvchi qiymati 100 V bo‘lsa, amplituda qiymati qancha? 
+
+- 120V
+- 220V
+- 141 V
+- 380V
+To'g'ri: C  
+
+№ 185.
+Savol: Sinusoidal kuchlanish amplitudasi 100 V bo‘lsa, ta’sir etuvchi qiymati qancha? 
+
+- 120V
+- 220V
+- 70,7 V
+- 141V
+To'g'ri: C  
+
+№ 186.
+Savol: Tok chastotasi 50 Hz bo‘lsa, uning davri qancha? 
+
+- 0,002 sek
+- 0,2 sek
+- 0,02 sek
+- 2 sek
+To'g'ri: C  
+
+№ 187.
+Savol: Tok chastotasi 100 Hz bo‘lsa, uning davri qancha? 
+
+- 0,002 sek
+- 0,2 sek
+- 0,01 sek
+- 2 sek
+To'g'ri: C  
+
+№ 188.
+Savol: Qarshilik 10 Om, tok 5 A bo‘lsa, kuchlanish qancha? 
+
+- 32V
+- 73V
+- 50 V
+- 91V
+To'g'ri: C  
+
+№ 189.
+Savol: Rezonansda U=100 V, R=100 Om bo‘lsa, tok miqdori qancha? 
+
+- 2A
+- 2,5A
+- 1 A
+- 0,5A
+To'g'ri: C  
+
+№ 190.
+Savol: Rezonansda U=10 V, R=5 Om bo‘lsa, tok miqdori qancha? 
+
+- 2,6A
+- 3,6A
+- 2 A
+- 7,9A
+To'g'ri: C  
+№ 191.
+Savol: Qarshilik 100 Om, tok 6 mA bo‘lsa, kuchlanish qancha? 
+
+- 50V
+- 5V
+- 0,6 V
+- 30V
+To'g'ri: C  
+
+№ 192.
+Savol: Zanjirda sig‘im (kondensator) qanday energiya yig‘adi? 
+
+- magnit maydon
+- issiqlik
+- elektr maydon
+- mexanik
+To'g'ri: C
+
+№ 193.
+Savol: Tok kuchining asosiy birligi qaysi? 
+
+- Volt
+- Om
+- Amper
+- Vatt
+To'g'ri: C
+
+№ 194.
+Savol: Kuchlanishning asosiy birligi qaysi? 
+
+- Amper
+- Om
+- Volt
+- Vatt
+To'g'ri: C
+
+№ 195.
+Savol: Zanjirning bir qismi uchun Om qonuni: 
+
+- I = U - R
+- I = R / U
+- I = U / R
+- I = U + R
+To'g'ri: C
+
+№ 196.
+Savol: O‘tkazuvchanlik birligi nima? 
+
+- Om
+- Volt
+- Simens
+- Amper
+To'g'ri: C
+
+№ 197.
+Savol: Aktiv quvvat birligi nima? 
+
+- VAR
+- VA
+- Vatt
+- Om
+To'g'ri: C
+
+№ 198.
+Savol: Reaktiv quvvat birligi nima? 
+
+- Vatt
+- VA
+- VAR (Volt-Amper reaktiv)
+- Volt
+To'g'ri: C
+
+№ 199.
+Savol: To‘la quvvat birligi nima? 
+
+- Vatt
+- VAR
+- VA (Volt-Amper)
+- Amper
+To'g'ri: C
+
+№ 200.
+Savol: Kondensator sig‘imi birligi nima? 
+
+- Genri
+- Om
+- Farad
+- Volt
+To'g'ri: C
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ OPTIKA TEST OPTIKA TEST OPTIKA TEST OPTIKA TESTOPTIKA TEST OPTIKA TESTOPTIKA TEST OPTIKA TESTOPTIKA TESTOPTIKA TEST OPTIKA TEST
+
+
+
+
+
+ 
+Savol: Optik aloqa qanday tasniflanadi? 
+
+- оchiq optik aloqa va tolali optik aloqa
+- оchiq optik aloqa
+- тolali optik aloqa
+- suv osti va xavo optik aloqasi
+To'g'ri: A
+
+Savol: Ochiq optik aloqa bu qanday aloqa turi? 
+
+- axborotni yorug’lik nuri ko’rinishida ochiq fazo (atmosfera)da uzatiladigan aloqa
+- axborot elektr kabel bo’ylab uzatiladigan aloqa
+- axborot yoruglik nuri ko’rinishida optik tola bo’ylab uzatiladigan aloqa
+- ahborotlar radioreley liniyalar bo'ylab uzatiladigan aloqa
+To'g'ri: A
+
+Savol: Ochiq optik aloqaning ishonchli ishlashi qanday omillarga boq'liq? 
+
+- ochiq optik aloqaning ishonchli ishlashi muqitda to'sqinlik bo'lmasligiga boqliq
+- ochiq optik aloqaning ishonchli ishlashi texnik vositaning ishonchligiga boq'liq
+- ochiq optik aloqaning ishonchli ishlashi masofaga boq'liq
+- ochiq optik aloqaning ishonchli ishlashi qurilmani balandligiga boq'liq
+To'g'ri: A
+
+Savol: Tolali optik aloqa bu qanday optik aloqa turi? 
+
+- Axborot yorug’lik nuri ko’rinishida optik tola vositasida uzatiladigan aloqa turi
+- Axborot elektr kabel bo’ylab uzatiladigan aloqa turi
+- Axborot yorug’lik nuri ko’rinishida uzatiladigan aloqa turi
+- Axborotlar radioreley liniyalar bo'ylab uzatiladigan aloqa turi
+To'g'ri: A
+
+Savol: ТОА tarmog’i deganda nimani tushunasiz? 
+
+- Tugunlar orasi optik aloqa liniyalari orqali bog’langan aloqa tarmog’ini tushunamiz
+- Tugunlar orasi elektr kabeli liniyalar orqali bog’langan aloqa tarmog’ini tushunamiz
+- Tugunlar orasi radioreley liniyalari orqali bog’langan aloqa tarmog’ini tushunamiz
+- Tugunlar orasi radioreley liniyalari orqali bog’langan aloqa tarmog’ini tushunamiz
+To'g'ri: A
+
+Savol: Qo’llaniladigan modulyatsiya turiga ko’ra OA tizimlarining qanday turlari mavjud? 
+
+- analog va raqamli tizimlar
+- maxalliy va zonaviy tizimlar
+- magistral tizimlar
+- qishloq va shahar tizimlari
+To'g'ri: A
+
+Savol: ТОА liniyalarini zichlashtirishning qanday asosiy usullarini bilasiz? 
+
+- vaqt, chastota, to’lqin uzunligi bo’yicha zichlashtirish usuli
+- vaqt bo’yicha zichlashtirish usuli
+- to’lqin uzunligi bo’yicha zichlashtirish usuli
+- chastota bo’yicha zichlashtirish usuli
+To'g'ri: A
+
+Savol: ТОА tizimlarida optik eltuvchining chastotasi nechaga teng? 
+
+- 1014 Gts
+- 1011 Gts
+- 109 Gts
+- 1016 Gts
+To'g'ri: A
+
+Savol: Tolali оptik uzatish tizimi bu.......majmui 
+
+- ma’lumotlarni masofaga optik to‘lqinlar va signallar yordamida optik tola orqali uzatuvchi passiv va aktiv qurilmalar
+- texnik vositalar va qurilmalar
+- signallarni qayta tiklovchi qurilmalar
+- signallarni qabul qilish va uzatish qurilmalari
+To'g'ri: A
+
+Savol: ТОА tizimining tuzilish sxemasidagi qaysi qurilma elektr signallarini optik signallarga o’zgartirish vazifasini bajaradi? 
+
+- optoelektron uzatuvchi modul (ОUz) 
+
+
+- uzatish tizimi (UT)
+- moslashtiruvchi qurilma (MQ)
+- optoelektron qabul qiluvchi modul
+To'g'ri: A
+
+Savol: ТОА liniyalarini zichlashtirish usullaridan qaysi biri maksimal axborot sig’imiga ega? 
+
+- to’lqin uzunligi bo’yicha zichlashtirish 
+
+
+- vaqt bo’yicha zichlashtirish
+- chastota bo’yicha zichlashtirish
+- barcha zichlashtirish usullari
+To'g'ri: A
+
+Savol: Turli axborot manbalarinig boshlang’ich signallariga aniq chastota oralig’i ajratish amalga oshiriladigan zichlashtirish turi 
+
+- chastota bo’yicha zichlashtirish
+- vaqt bo’yicha zichlashtirish
+- to’lqin uzunligi bo‘yicha zichlashtirish
+- hamma zichlashtirish usullari amalga oshiriladi
+To'g'ri: A
+
+Savol: ТОА tiziminig tuzilish sxemasidagi qaysi qurilma uzatish tizimining boshlang’ich signallarini,optik liniya trakti bo’ylab uzatishga moslab beradi? 
+
+- moslashtiruvchi qurilma (МQ) 
+
+
+- optoelektron uzatuvchi modul (ОUz)
+- uzatish tizimi (UT)
+- optoelektron qabul qiluvci modul (ОQq)
+To'g'ri: A
+
+Savol: ТОА tizimining tuzilish sxemasidagi qaysi qurilma optik siganallarni elektr signallariga o’zgartirish vazifasini bajaradi? 
+
+- optoelektron qabul qiluvchi modul (ОQq) 
+
+
+- optoelektron uzatuvchi modul (ОUz
+- moslashtiruvchi qurilma (MQ)
+- uzatish tizimi (UT)
+To'g'ri: A
+
+Savol: ТОА tizimining tuzilish sxemasidagi qaysi qurilma fotodiod va kam shovqinli elektr kuchaytirgichidan iborat?
+
+- optoelektron qabul qiluvchi modul (ОQq)
+- optoelektron uzatuvchi modul (ОUz
+- moslashtiruvchi qurilma (MQ)
+- uzatish tizimi (UT)
+To'g'ri: A
+
+Savol: ТОА tizimining tuzilish sxemasidagi qaysi qurilmada yarim o’tkazgichli nurlanish manbai ishlatiladi?
+
+- optoelektron uzatuvchi modul (ОUz)
+- uzatish tizimi (UT)
+- moslashtiruvchi qurilma (MQ)
+- optoelektron qabul qiluvchi modul (ОQq)
+To'g'ri: A
+
+Savol: Analog TOA tizimlarida modulyatsiyaning qanday usullaridan foydalaniladi?
+
+- intensivlik bo’yicha, amplituda, chastota yoki faza bo’yicha modulyatsiyalar
+- chastota yoki faza bo’yicha modulyatsiyalar 
+
+
+- intensivlik bo’yicha modulyatsiya
+- amplituda bo’yicha modulyatsiya
+To'g'ri: A
+
+Savol: Raqamli TOA tizimlarida modulyatsiyaning qanday usullaridan foydalaniladi 
+
+- modulyatsiyaning diskret usullaridan
+- faza modulyatsiyasidan
+- intensivlik bo’yicha modulyatsiyadan
+- amplituda yoki chastota bo’yicha modulyatsiyalardan
+To'g'ri: A
+
+Savol: ТОА tizimlari vazifasi va signallarni uzatish masofasiga ko’ra qanday tasniflanadi? 
+
+- maxalliy, mintaqaviy va magistral TOA tizimlari 
+
+
+- maxalliy, mintaqaviy TOA tizimlari
+- mintaqaviy va magistral TOA tizimlari
+- maxalliy va magistral TOA tizimlari
+To'g'ri: A
+
+Savol: ТОА tizimlari liniya trakti tuzilishiga ko’ra qanday tasniflanadi? 
+
+- ikki tolali, bir polasali, bir kabelli; bir tolali, bir polasali, bir kabelli; bir tolali ko’p polasali, bir kabelli yoki to’lqin uzunligi bo’yicha zichlashtirilgan tizimlar 
+
+
+- ikki tolali, bir polasali, bir kabelli; bir tolali, bir polasali, bir kabelli 
+
+
+- bir tolali, bir polasali, bir kabelli; to’lqin uzunligi bo’yicha zichlashtirilgan tizimlar 
+
+
+- bir tolali ko’p polasali, bir kabelli yoki to’lqin uzunligi bo’yicha zichlashtirilgan tizimlar
+To'g'ri: A
+
+Savol: WDM (Wavelength Division Multiplehing) ning ma’nosi to’g’ri ko’rsatilgan variantlarni ko’rsating 
+
+- optik signallarni (kanallarni) to’lqin uzunligi bo’yicha zichlashtirish
+- optik signallarni vaqt bo’yicha zichlashtirish
+- optik signallarni chastota bo’yicha zichlashtirish
+- optik signallarni fazo bo’yicha zichlashtirish
+To'g'ri: A
+
+Savol: Optik tolaning xizmat muddati necha yilni tashkil etadi? 
+
+- 25 yil
+- 3 yil
+- 10 yil
+- 50 yil
+To'g'ri: A
+
+Savol: Optik tola qanday materialdan tayyorlanadi? 
+
+- kvarts shishasi (SiO2) dan va polimerlardan
+- Ge dan
+- InGaAs dan
+- InP dan
+To'g'ri: A
+
+Savol: Optik tola qanday tuzilgan? 
+
+- o’zak, qobiq va tashqi plastik qoplamdan
+- o’zak va qobiqdan
+- qobiq va tashqi plastik qoplamdan
+- tashqi plastik qoplamdan
+To'g'ri: A
+
+Savol: Optik signallarni uzatishda yorug’likning qaysi to’lqin uzunliklaridan foydalaniladi? 
+
+- 1,55 mkm;1,3 mkm; 0,85 mkm li to’lqin uzunliklaridan 
+
+
+- 1,8 mkm;1,3 mkm li to’lqin uzunliklaridan
+- 1,55 mkm;1,6 mkm li to’lqin uzunliklaridan
+- 2 mkm; 6 mkm li to’lqin uzunliklaridan 
+To'g'ri: A
+
+
+
+
+
+
+
+Savol: Qaysi shart bajarilganda yorug’lik nuri faqat o’zak bo’ylab tarqaladi? 
+
+- n1 > n2 
+
+
+- n1 = n2
+- n1 < n2
+- n1 < n2
+To'g'ri: A
+
+Savol: O’zak diametriga bog’liq ravishda optik tolalar (ОТ) qanday turlarga bo’linadi? 
+
+- bir modali va ko’p modali ОТ 
+
+
+- bir modali va pog’anali ОТ 
+
+
+- ko’p modali va gradientli OT 
+
+
+- pog’onali va gradiyent OT 
+To'g'ri: A
+
+
+
+Savol: ОТ ning kabel yo’qotishlari nimadan hosil bo’ladi? 
+
+- mikro va makro bukilishlardan 
+
+
+- sochilish yo’qotishlaridan 
+
+
+- yutilish yo’qotishlaridan 
+
+
+- xususiy yo’qotishlardan 
+To'g'ri: A
+
+
+
+Savol: Modalararo dispersiya qaysi optik tolalarga xos? 
+
+- ko’p modali optik tolaga 
+
+
+- bir modali OTga 
+
+
+- pog’onali sindirish ko’rsatkichli OTga 
+
+
+- maxsus sindirish ko’rsatkichli OTga 
+To'g'ri: A
+
+
+
+Savol: Xromatik dispersiya qanday tashkil etuvchilardan iborat? 
+
+- material dispersiyasi va to’lqin uzatish bilan bog’liq dispersiyasidan 
+
+
+- modalararo va qutblangan moda dispersiyasidan 
+
+
+- modalararo dispersiyadan 
+
+
+- qutblangan moda dispersiyasidan 
+To'g'ri: A
+
+
+
+Savol: Bir modali optik tolaning o’zak diametri nechaga teng? 
+
+To'g'ri: A
+
+Savol: Yo'qotishlarning qaysi turi yutilish va sochilish bilan bog'liq? 
+
+- xususiy yo'qotishlar turi 
+
+
+- kabel yo'qotishlar turi 
+
+
+- umumiy so'nishlar xisobiga yo'qotishlar turi 
+
+
+- makrobukilishlardan qosil bo'ladigan yo'qotishlar turi 
+To'g'ri: A
+
+
+
+
+
+Savol: DSF dispersiyani kompensatsiyalovchi tolalarining vazifasi nima? 
+
+- dispersiyani kompensatsiyalash 
+
+
+- dispersiyani oshirish 
+
+
+- so'nishni oshirish 
+
+
+- so'nishni kamaytirish 
+To'g'ri: A
+
+
+
+Savol: Vazifasiga ko'ra optik kabelning turlari qanday? 
+
+- magistral, mintaqaviy (xududiy), mahalliy turi 
+
+
+- magistral, xududiy turi 
+
+
+- magistral, korparatsion turi 
+
+
+- korparatsion turi 
+To'g'ri: A
+
+
+
+Savol: Magistral aloqa liniyalarini tashkil qilishda qanday tolali optik kabellardan foydalaniladi? 
+
+- bir modali kabellardan 
+
+
+- ko’p modali kabellardan 
+
+
+- ko’p modali gradientli kabellardan 
+
+
+- ko’p modali pog’onalili kabellardan 
+To'g'ri: A
+
+
+
+Savol: Sindirish ko’rsatgichining ko’rinishi bo’yicha bir modali OT lar qanday turlarga bo’linadi? 
+
+- pog’onali va maxsus sindirish ko’rsatkichli OT lar 
+
+
+- pog’onali va gradientli sindirish ko’rsatkichli ОТ lar 
+
+
+- maxsus va gradientli sindirish ko’rsatkichli ОТ lar 
+
+
+- maxsus sindirish ko’rsatkichli ОТ lar 
+To'g'ri: A
+
+
+
+Savol: Sindirish ko’rsatkichining ko’rinishi bo’yicha ko’p modali ОТ lar qanday turlarga bo’linadi? 
+
+- pog’onali va gradientli sindirish ko’rsatkichli ОТ lar 
+
+
+- pog’onali va maxsus sindirish ko’rsatkichli ОТ lar 
+
+
+- maxsus va gradientli sindirish ko’rsatkichli ОТ lar 
+
+
+- maxsus sindirish ko’rsatkichli ОТ lar 
+To'g'ri: A
+
+
+
+
+
+Savol: Qaysi to’lqin uzunligi eng minimal so’nish qiymatiga ega? 
+
+- 1,55 mkm 
+
+
+- 1,3 mkm 
+
+
+- 0,85 mkm 
+
+
+- 1,28 mkm 
+To'g'ri: A
+
+
+
+Savol: Bir modali optik tolaning minimal bukish ruxsat etilgan minimal radiusi nechaga teng? 
+
+- 10 sm 
+
+
+- 20 sm 
+
+
+- 15 sm 
+
+
+- bir modali tolalarga minimal bukilishlarga chegara mavjud emas 
+To'g'ri: A
+
+
+
+Savol: To'lqin o'tkazuvchi tola dispersiyasi tolaning qanday parametrlariga bog’liq? 
+
+- tolaning geometrik shakliga va tolaning sindirish ko'rsatkichi profiliga 
+
+
+- tolaning sindirish ko'rsatkichi profiliga 
+
+
+- tolaning parametrlariga boqliq emas 
+
+
+- o'zak diametriga 
+To'g'ri: A
+
+
+
+Savol: Sonli apertura nimaga boqliq? 
+
+- tolaga kirish burchak aperturasiga 
+
+
+- tolaga kiritilayotgan to'lqinning uzunligiga 
+
+
+- o'zakning sindirish ko'rsatkichiga 
+
+
+- dispersiyaga 
+To'g'ri: A
+
+
+
+Savol: Standart bir modali SF tolalarda shaffoflik darchalarining qaysi birida dispersiya 0 ga teng? 
+
+- ikkinchi shaffoflik darchasida 
+
+
+- birinchi shaffoflik darchasida 
+
+
+- uchinchi shaffoflik darchasida 
+
+
+- xech birida 
+To'g'ri: A
+
+
+
+Savol: 3- shaffovlik darchasida dispersiya qiymatini 0 ga teng bo'lishi uchun nima qilinadi? 
+
+- optik tola ishlab chiqarishda kvars shishasini legirlanadi 
+
+
+- uzatish tezligi kamaytiriladi 
+
+
+- uzatish liniyasining uzunligi oshirilmaydi 
+
+
+- uzatish liniyasining uzunligi oshiriladi 
+To'g'ri: A
+
+
+
+Savol: Modalararo dispersiyaning sodir bo'lish sababi nimada? 
+
+- modalarning tola bo'ylab turli yo'nalishda tarqalishidan va modalarning tola bo'ylab turli vaqtda tarqalishidan 
+
+
+- modalarning tola bo'ylab turli vaqtda tarqalishidan 
+
+
+- toladagi makrobukilish-lardan 
+
+
+- toladagi mikrobukilishlardan 
+To'g'ri: A
+
+
+
+
+Savol: Optik signal qaysi to’lqin uzunligida uzatilganda so’nish qiymati minimal bo’ladi? 
+
+- 1,55 mkm 
+
+
+- 1,33 mkm 
+
+
+- 0,9 mkm 
+
+
+- 0,85 mkm 
+To'g'ri: A
+
+
+
+
+
+Savol: Optik quvvat qaysi o’lchov qurilmasi yordamida o’lchanadi? 
+
+- optik tester 
+
+
+- optik izolyator 
+
+
+- fotoqabulqilgich 
+
+
+- regerenator 
+To'g'ri: A
+
+
+
+Savol: Dispersiya bu - 
+
+- impulslar davomiyligining kengayishi 
+
+
+- optik signal quvvatining kamayishi 
+
+
+- yorug’lik nurlanishining sochilishi 
+
+
+- yorug’lik nurlanishining yutilishi 
+To'g'ri: A
+
+
+
+
+Savol: Qutblangan moda dispersiyasi deganda nimani tushinasiz? 
+
+- bir modaning ikki tashkil etuvchisining ovalligi buzilgan OT bo’ylab uzatilganda, bir biridan fazalar bo’yicha farqlanishini 
+
+
+- optik signalning kuchayishini 
+
+
+- optik nurlanishni OTga yo’qotishlarsiz samarali kiritish va OT dan qabul qilishni 
+
+
+- optik signallar oqimini bir necha oqimlarga ajratishni 
+To'g'ri: A
+
+
+
+Savol: Bir modali OT da qobiq diametri necha mkm ni tashkil etadi? 
+
+- 125 mkm 
+
+
+- 70 mkm 
+
+
+- 60 mkm - 
+To'g'ri: A
+
+
+
+Savol: ТОА tizimining tuzilish sxemasidagi qaysi qurilma optik siganallarni elektr signallariga o’zgartirish vazifasini bajaradi? 
+
+- optoelektron qabul qiluvchi modul (ОQq) 
+
+
+- optoelektron uzatuvchi modul (ОUz 
+
+
+- moslashtiruvchi qurilma (MQ) 
+
+
+- uzatish tizimi (UT) 
+To'g'ri: A
+
+
+
+Savol: Ko’p modali OT da qobiq diametri necha mkm ni tashkil etadi? 
+
+- 125 mkm; 200 mkm; 250 mkm 
+
+
+- 100 mkm 
+
+
+- 50 mkm - 
+To'g'ri: A
+
+
+
+Savol: OT qanday geometrik parametrlar bilan tavsiflanadi? 
+
+- o’zak va qobiq diametrlari, apertura burchagi, normallashtirilgan chastota, kesish to’lqin uzunligi 
+
+
+- o’zak va qobiq diametrlari 
+
+
+- qobiq diametri va apertura burchagi 
+
+
+- o’zak diametri va normallashtirilgan chastota 
+To'g'ri: A
+
+
+
+Savol: Optik tolaning uzatuvchi muhit sifatidagi noyobligi nima bilan belgilanadi? 
+
+- tashqi elektr va magnit maydonlarining dielektriklik hossasiga ega bo’lgan optik tolaga singmasligida va shu sababli halaqitlarga yuqori darajada bardoshligida 
+
+
+- tashqi elektr maydon tasiriga bardoshligida 
+
+
+- tashqi magnit maydon tasiriga bardoshligida 
+
+
+- tashqi akustik halaqitlarga bardoshligida 
+To'g'ri: A
+
+
+
+
+
+Savol: Yorug’lik diodi quyidagi xususiyatlarga ega bo’lgan nurlanish chiqaradi 
+
+- nokogerent, nomonoxramatik nurlanish chiqaradi 
+
+
+- monoxramatik nurlanish chiqaradi 
+
+
+- kogerent nurlanish chiqaradi 
+
+
+- kogerent, monoxramatik nurlanish chiqaradi 
+To'g'ri: A
+
+
+
+Savol: Yorug’lik diodining quyidagi turlari mavjud: 
+
+- yuza sirtidan nurlantiruvchi va yon sirtidan nurlantiruvchi diodlar 
+
+
+- bir modali diod 
+
+
+- ko'p modali diod 
+
+
+- o’q kesimi bo’yicha nurlantiruvchi diodlar 
+To'g'ri: A
+
+
+
+Savol: Spontan nurlanish nima uchun nokogerent yoruqlik deyiladi? 
+
+- nurlanish chastotasi, fazasi, tarqalish yo'nalishi turlicha bo'lganligi uchun 
+
+
+- nurlanish chastotasi turlicha bo'lganligi uchun 
+
+
+- fazasi turlicha bo'lganligi uchun 
+
+
+- tarqalish yo'nalishi turlicha bo'lganligi uchun 
+To'g'ri: A
+
+
+
+Savol: Lazer diod quyidagi xususiyatlarga ega bo’lgan nurlanish chiqaradi: 
+
+- kogerent, monoxramatik nurlanish chiqaradi 
+
+
+- nokogerent, nomonoxramatik nurlanish chiqaradi 
+
+
+- kogerent nurlanish chiqaradi 
+
+
+- nомонохроматик nurlanish chiqaradi 
+To'g'ri: A
+
+
+
+
+
+Savol: Spontan nurlanishli manbalarga qaysi nurlanish manbalari kiradi? 
+
+- yorug’lik diodi 
+
+
+- fotodiod 
+
+
+- lazer diodi 
+
+
+- generator 
+To'g'ri: A
+
+
+
+Savol: YoD lar asosan qanday tizimlarda axborotni uzatishda qo’llaniladi? 
+
+- past va o’rta tezlikli tizimlarda 
+
+
+- past tezlikli tizimlarda 
+
+
+- o’rta tezlikli tizimlarda 
+
+
+- yuqori tezlikli tizimlarda 
+To'g'ri: A
+
+
+
+Savol: Lazer diodlar qanday tizimlarda qo’llaniladi? 
+
+- yuqori tezlikli tizimlarda 
+
+
+- past tezlikli tizimlarda 
+
+
+- past quvvatli tizimlarda 
+
+
+- o’rta tezlikli tizimlarda 
+To'g'ri: A
+
+
+
+
+
+Savol: Yorug’lik diodi quyidagi yarim o’tkazgich materiallaridan tayyorlanadi: 
+
+- arsenid galliy, fosfid galliy 
+
+
+- germaniy, galliy fosfidi 
+
+
+- germaniy, karbid kremniy 
+
+
+- arsenid galliy, germaniy, kremniy 
+To'g'ri: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Savol: Lazer diodi nurlanish spektrining kengligi nimaga sabab bo’ladi? 
+
+- dispersiyaning oshishiga 
+
+
+- dispersiyaning kamayishiga 
+
+
+- kodlashni qiyinlashtiradi 
+
+
+- so’nishning  oshishiga 
+To'g'ri: A
+
+
+
+Savol: Qaysi nurlanish manbalari induksiyalangan (majburiy nurlanishli) manbalari sirasiga kiradi? 
+
+- lazer diodlari 
+
+
+- yorug’lik diodi 
+
+
+- fotodiod 
+
+
+- p-i-n fotodiod 
+To'g'ri: A
+
+
+
+Savol: Qaysi kamchiliklar yorug’lik diodlarini tolali optik aloqada qo’llanilishini chegaralaydi? 
+
+- nurlanish spektrining kengligi,  nurlantiruvchi chastota oralig’i torligi, tezkor emasligi 
+
+
+- nurlantiruvchi chastota oralig’ining torligi 
+
+
+- tezkor emasligi 
+
+
+- sinfaz optik to'lqinlarni nurlantirgani uchun 
+To'g'ri: A
+
+
+
+Savol: YoD ning nurlanish spektri qanday kenglikka ega? 
+
+- 60 nm gacha kenglikka 
+
+
+- 20-30 nm kenglikka 
+
+
+- 30-40 nm kenglikka 
+
+
+- 20-40 nm kenglikka 
+To'g'ri: A
+
+
+
+Savol: Magistral aloqa liniyalarida qanday yorug’lik manbalaridan foydalanish kerak? 
+
+- lazer diodlaridan 
+
+
+- YoD laridan 
+
+
+- lazer va yorug’lik diodlaridan 
+
+
+- super lyuminestsent yorug’lik diodlaridan 
+To'g'ri: A
+
+
+
+Savol: LD larida spektr kengligining ortishi nimaga olib keladi? 
+
+- dispersiyaning ortishiga 
+
+
+- nurlanish chastotasing ortishiga 
+
+
+- nurlanish amplitudasining ortishiga 
+
+
+- LD tezkorliging ortishiga 
+To'g'ri: A
+
+
+
+Savol: Yorug’lik diodi qanday quvvatli nurlanish nurlantiradi? 
+
+- mkVt va mVt 
+
+
+- bir necha Vt 
+
+
+- 10 Vt 
+
+
+- 100 Vt 
+To'g'ri: A
+
+
+
+Savol: Lazer diodi qanday quvvatli murlanish nurlantiradi? 
+
+- 1-10 mVt 
+
+
+- bir necha Vt 
+
+
+- 100 Vt 
+
+
+- 200 Vt 
+To'g'ri: A
+
+
+
+Savol: Uzatuvchi optik modulning ishchi xarorati necha ˚ C ni tashkil etadi? 
+
+- 25˚ C 
+
+
+- 10˚ C 
+
+
+- 50˚ C 
+
+
+- 100˚ C 
+To'g'ri: A
+
+
+
+Savol: Yorug’lik diodi qanday xarakteristikalar bilan tavsiflanadi? 
+
+- vatt-amper xarakteristika; volt-amper xarakteristika; spektral xarakteristikalari, yo’nalganlik diagrammasi bilan 
+
+
+- nurlanish quvvati bilan 
+
+
+- nurlanish to’lqin uzunligi bilan 
+
+
+- kesish to’lqin uzunligi bilan 
+To'g'ri: A
+
+
+
+Savol: Yorug’lik diodi qanday parametrlar bilan tavsiflanadi? 
+
+- nurlanish to’lqin uzunligi; nurlasnish quvvati; yo’nalganlik diagrammasi; ulash va uzish vaqtlari bilan 
+
+
+- nurlanish to’lqin uzunligi, nurlanish quvvati bilan 
+
+
+- nurlanish quvvati, yo’nalganlik diagrammasi bilan 
+
+
+- ulash va uzish vaqtlari bilan 
+To'g'ri: A
+
+
+
+Savol: Uzatuvchi optik modulda xaroratning mo’tadilligini ta’minlash uchun qanday qurilmadan foydalaniladi? 
+
+- mikrosovitgishdan 
+
+
+- kondensatordan 
+
+
+- attenyuatordan 
+
+
+- transformatordan 
+To'g'ri: A
+
+
+
+Savol: Tashqi muhit xarorati lazer diodning nurlanish spektri va quvvatiga qanday ta’sir ko’rsatadi? 
+
+- nurlanish to’lqin uzunligi kattalashadi, nurlanish quvvati kamayadi 
+
+
+- nurlanish quvvati oshadi, nurlanish to’lqin uzunligi kamayadi 
+
+
+- nurlanish spektri torayadi 
+
+
+- ta’sir ko’rsatmaydi 
+To'g'ri: A
+
+
+
+ 
+
+Savol: Lazer diodining ish prinsipi kvant mehanikasini qanday jarayonlaridan foydalanishga asoslagan? 
+
+- energetik sathlarning teskari egallanganligi; majburiy nurlanish jarayonlaridan foydalanishga asoslangan 
+
+
+- energetik sathlarning teskari egallanganligi; spontan nurlanish jarayonlaridan foydalanishga asoslangan 
+
+
+- spontan nurlanish jarayonlari; majburiy nurlanish jarayonidan foydalanishga asoslangan 
+
+
+- energetik sathlarning odatiy egallanganligi; majburiy nurlanish jarayonlaridan foydalanishga asoslangan 
+To'g'ri: A
+
+
+
+Savol: Spontan nurlanishga tarif bering 
+
+- kvant zarrachalari – elektronlar, atomlar, ionlarning yuqori energetik sathdan ixtiyoriy (o’z-o’zidan) o’tishi natijasida hosil bo’ladigan nurlanish spontan nurlanish deb ataladi 
+
+
+- zarrachalarning bir energetik sathdan ikkinchi energetik sathga ixtiyoriy (o’z-o’zidan) o’tishi natijasida hosil bo’ladigan nurlanish spontan nurlanish  deb ataladi 
+
+
+- molekulalarning  bir energetik sathdan boshqa energetik sathga majburiy o’tishida hosil bo’ladigan  nurlanish spontan o’tish deb ataladi 
+
+
+- ionlarning bir energetik sathdan quyi energetik sathga ixtiyoriy o’tishida hosil bo’ladigan nurlanish spontan nurlanish deb ataladi 
+To'g'ri: A
+
+
+
+ 
+
+Savol: Yorug’lik nurlanishining modasi tushunchasiga ta’rif bering: 
+
+- yorug’lik nurining to’lqin uzunligi va tarqakish yo’nalishi bir hil bo’lgan tashkil etuvchisi moda deb ataladi 
+
+
+- yorug’lik nurining to’lqin uzunligi bir hil bo’lgan tashkil etuvchisi moda deb ataladi 
+
+
+- yorug’lik nurining bir hil yo’nalishga ega bo’lgan tashkil etuvchisi moda deb ataladi 
+
+
+- yorug’lik nurining bir hil to’lqin uzunligiga va har hil tarqalish yo’nalishiga ega bo’lgan tashkil etuvchilari moda deb ataladi 
+To'g'ri: A
+
+
+
+Savol: TOAT larda keng qo’llaniladigan fotoqabulqilgichlarning qanday turlarini bilasiz? 
+
+- p-i-n fotodiodi, ko’chkili fotodiod 
+
+
+- p-i-n fotodiodi 
+
+
+- ko’chkili fotodiod 
+
+
+- fototranzistor 
+To'g'ri: A
+
+
+
+Savol: Fotoqabulqilgichlar qanday materialdan tayyorlanadi? 
+
+- kremniy, germaniy,  GaAs, InGaAs lardan 
+
+
+- kremniydan 
+
+
+- GaAs, InGaAs lardan 
+
+
+- germaniydan 
+To'g'ri: A
+
+
+
+Savol: TOAT larda qo’llaniladigan fotoqabulqilgichlar qanday talablarga javob berishi kerak? 
+
+- sezgirligi yuqori, tezkorligi katta, dinamik diapazoni keng bo’lishi kerak 
+
+
+- sezgirligi yuqori, dinamik diapazoni keng bo’lishi kerak 
+
+
+- sezgirligi yuqori, tezkorligi katta bo’lishi kerak 
+
+
+- sezgirligi yuqori bo’lishi kerak 
+To'g'ri: A
+
+
+
+Savol: Fotodiodning sezgirligi qaysi munosabat  bo,yicha  aniqlanadi? 
+
+- munosabat bo’yicha 
+
+
+- munosabat bo’yicha 
+
+
+- munosabat bo’yicha 
+
+
+- munosabat bo’yicha 
+To'g'ri: A
+
+
+ 
+
+Savol: Optik signalni qabul qiluvchi modul (QqOM) ning vazifasi nimadan iborat? 
+
+- OT dan qabul qilingan optik signalni elektr signalga o’zgartirish va unga elektr qurilmalar yordamida kuchaytirish 
+
+
+- optik signalni elektr signaliga o’zgartirish 
+
+
+- optik signalni qabul qilish 
+
+
+- elekr signalini optik signalga o’zgartirish 
+To'g'ri: A
+
+
+
+Savol: Fotodiod qanday parametrlar bilan tavsiflanadi? 
+
+- sezgirligi; kvant samaradorligi; tezkorligi; shovqin sathining pastligi; qorong’ilik toki bilan 
+
+
+- sezgirligi; tezkorligi bilan 
+
+
+- tezkorligi; shovqin sathi bilan 
+
+
+- tezkorligi; qorong’ilik toki bilan 
+To'g'ri: A
+
+
+
+Savol: To’lqin uzunligi turlicha bo’lgan bir necha optik signallarni bir vaqtda kuchaytira oladigan retranslyator turini aniqlang: 
+
+- optik kuchaytirgich 
+
+
+- Regenerator 
+
+
+- optik ulagich 
+
+
+- bunday turi mavjud emas 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgichlarda elektron sxema qo’llaniladimi? 
+
+- elektron sxema qo’llanilmaydi 
+
+
+- elektron sxema qisman qo’llaniladi 
+
+
+- elektron sxema qo’llanilishi shart 
+
+
+- elektron sxema to’liq qo’llaniladi 
+To'g'ri: A
+
+
+
+Savol: Optik kuchytirgichlarning regeneratorlardan asosiy farqi nimada? 
+
+- bir vaqtning o’zida bir necha optik kanal signallarini kuchaytirish imkoniyatida, signallarni uzatish tezligiga bog’liq emasligida,  tuzilishining oddiyligi 
+
+
+- signallarni uzatish tezligiga bog’liq emasligida 
+
+
+- tuzilishining oddiyligida 
+
+
+- har bir kanal uchun alohida optik kuchaytirgich ishlatilishida 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgichlar vazifasiga qarab qanday turlarga bo’linadi? 
+
+- dastlabki, liniya, quvvat kuchaytirgichlari 
+
+
+- quvvat kuchaytirgichi 
+
+
+- liniya kuchaytirgichi 
+
+
+- satx kuchaytigichi 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgichlarni qanday asoslarda ishlab chiqarish mumkin? 
+
+- yarim o’tkazgichli p-n o’tish va aralashmali optik tolalar asosida 
+
+
+- yarim o’tkazgichli p-n o’tish asosida 
+
+
+- aralashmali optik tolalar asosida 
+
+
+- germaniy asosida 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgich tuzilishida optik izolyator qo’llaniladimi? 
+
+- qo’llaniladi 
+
+
+- yo’q 
+
+
+- umuman qo’llanilmaydi 
+
+
+- qo’llanilishi mumkin emas 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgich qanday vazifani bajaradi? 
+
+- optik signallarni kuchaytiradi 
+
+
+- optik signalni korreksiyalaydi 
+
+
+- optik signal quvvatini kamaytiradi 
+
+
+- optik signalni regeneratsiyalaydi 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgichning ish printsipi qanday fundamental fizik jarayonlarga asoslangan? 
+
+- kogerent majburiy nurlanish natijasida boshlang’ich 
+
+
+- nokogerent nurlanishga 
+
+
+- spontan nurlanishga 
+
+
+- Dispersiyaga 
+To'g'ri: A
+
+
+
+Savol: Rаman optik kuchaytirgichi qaysi davlat olimining sharafiga qo’yilgan? 
+
+- hind olimi 
+
+
+- nemis olimi 
+
+
+- rus olimi 
+
+
+- fransuz olimi 
+To'g'ri: A
+
+
+
+Savol: Rаman optik kuchaytirgichning ish printsipi qanday fundamental fizik jarayonlarga asoslangan? 
+
+- yorug’likning rаman sochilishi jarayoniga 
+
+
+- dispersiya jarayoniga 
+
+
+- so’nish jarayoniga 
+
+
+- regeneratsiyalash jarayoniga 
+To'g'ri: A
+
+
+
+Savol: To’lqin uzunligi bo’yicha zichlashtirilgan WDM tizimlarida qaysi turdagi optik kuchaytirgichlar keng qo’llanish topgan? 
+
+- EDFA va Rаman optik kuchaytirgichlari 
+
+
+- EDFA 
+
+
+- yarim o’tkazgichli optik kuchaytirgich 
+
+
+- bir to’lqin uzunligini kuchaytiruvchi optik kuchaytirgich 
+To'g'ri: A
+
+
+ 
+
+Savol: Optik kuchaytirgichlarda kuchaygan spontan emissiya shovqinlari qaysi holatda yuzaga keladi? 
+
+- optik kuchaytirgich kirishida signal mavjud bo’lmaganda 
+
+
+- signal kuchayganda 
+
+
+- signal qayta ishlanganda 
+
+
+- kuchaytirgich to’yinganda 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgich qanday asosiy parametrlar bilan tavsiflanadi? 
+
+- kuchayish koeffitsienti; to’yinish quvvati; shovqin omili; kuchaytirish diapozoni; kuchaytirish xarakteristikasining notekisligi; damlash to’lqin uzunligi 
+
+
+- kuchayish koeffitsienti; damlash to’lqin uzunligi 
+
+
+- kuchayish koeffitsienti; kuchaytirish xarakteristikasining notekisligi 
+
+
+- kuchaytirish diapozoni; nurlanish to’lqin uzunligi 
+To'g'ri: A
+
+
+
+ 
+
+Savol: EDFA optik kuchaytirgichining maksimal kuchaytirish satxi necha dB ni tashkil etadi? 
+
+- 40 dB 
+
+
+- 20 dB 
+
+
+- 60 dB 
+
+
+- 100 dB 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgichlarda opto-elektron va elektro-optik o’zgartirish bajariladimi? 
+
+- bajarilmaydi 
+
+
+- ha 
+
+
+- shart emas 
+
+
+- bajariladi 
+To'g'ri: A
+
+
+
+Savol: EDFA optik kuchaytirgich qaysi shaffoflik darchalarida ishlaydi? 
+
+- to’rtinchi va beshinchi 
+
+
+- Birinchi 
+
+
+- Ikkinchi 
+
+
+- uchinchi 
+To'g'ri: A
+
+
+
+Savol: Aralashma tolali optik kuchaytirgichning kuchaytirish xarakteristikasi   diapazonda chiziqlimi? 
+
+- nochiziqli 
+
+
+- chiziqli 
+
+
+- chiziqli bo’lishi shart emas 
+
+
+- chiziqli bo’lishi mumkin emas 
+To'g'ri: A
+
+
+
+Savol: EDFA optik kuchaytirgich kuchaytirish xarakteristikasini tekislash uchun qo’llaniladigan qurilma nima? 
+
+- Bregg panjarasi 
+
+
+- regenerator 
+
+
+- birlashtiruvchi qurilma 
+
+
+- boshqaruvchi qurilma 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgichlarda signallarni qayta tiklash, to’g’rilash bajariladimi? 
+
+- yo’q 
+
+
+- ha 
+
+
+- shart emas 
+
+
+- mumkin emas 
+To'g'ri: A
+
+
+
+Savol: EDFA optik kuchaytirgichning aktiv qismi nimadan iborat? 
+
+- erbiy bilan legirlangan bir modali OTdan 
+
+
+- ko’p modali OTdan 
+
+
+- tuliy bilan legirlangan OTdan 
+
+
+- prazeodim bilan legirlangan OTdan 
+To'g'ri: A
+
+
+
+Savol: Aralashmali optik kuchaytirgichlarni yaratishda aralashma sifatida qaysi kimyoviy elementlardan foydalanish mumkin? 
+
+- erbiy, neodim, prazeodim, tulliy ionlaridan 
+
+
+- kremniy atomlaridan 
+
+
+- Germaniy atomlaridan 
+
+
+- Volfram atomlaridan 
+To'g'ri: A
+
+
+
+Savol: Optik kuchaytirgich tarkibidagi selektiv tarmoqlagich qanday vazifani bajaradi? 
+
+- kuchaytirgich chiqishga kuchaygan optik signalni o’tkazib, damlash lazeri nurlanishini o’tkazmaydi 
+
+
+- kuchaytirgich chiqishga kuchaygan optik signalni ham otkazib, damlash lazeri nurlanishini ham o’tkazadi 
+
+
+- kuchaytirgich chiqishga damlash lazeri nurlanishini o’tkazmaydi 
+
+
+- kuchaytirgich chiqishga kuchaygan optik signalni o’tkazmaydi 
+To'g'ri: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Savol: Optik modulyatorlarning vazifasi nimadan iborat? 
+
+- yorug’lik oqimi parametrini kirish elektr signaliga monand ravishda ozgartirish
+- yorug’lik signalini elektr signaliga o'zgartirish
+- yorug’lik oqimi holatini boshqarish
+- elektr signalini yorug’lik signaliga o'zgartirish
+To'g'ri: A
+
+Savol: Optik modulyatsiyalashning qanday usullari mavjud? 
+
+- ichki va tashqi modulyatsiyalash usullari
+- ichki modulyatsiyalash usullari
+- tashqi modulyatsiyalash usullari
+- to'g’ridan-to'g’ri modulyaciyalash
+To'g'ri: A
+
+Savol: Optik modulyatorlarning qanday turlari mavjud? 
+
+- akustooptik, magnitooptik, elektrooptik, yupqa pardali yarim o’tkazgichli turlari
+- akustooptik, magnitooptik turlari
+- elektrooptik, yupqa pardali yarim o’tkazgichli turlari
+- yupqa pardali yarim o’tkazgichlituri
+To'g'ri: A
+
+Savol: Optik modulyatorlarning qanday parametrlarini bilasiz? 
+
+- modulyatsiya chuqurligi , modulyatsiya aslligi tezkorligi
+- modulyatsiya chuqurligi
+- modulyatsiya aslligi
+- modulyatsiya tezkorligi
+To'g'ri: A
+
+Savol: Qaysi turdagi optik modulyator eng katta tezkorlikka ega? 
+
+- yarim o’tkazgichli yupqa pardali optik modulyator
+- akustooptik modulyator
+- magnitooptik modulyator
+- elektrooptik modulyator
+To'g'ri: A
+
+Savol: Passiv optik qurilmalarni ko'rsating: 
+
+- ulagichlar, attenyuatorlar, filtrlar, izolyatorlar, tarmoqlagichlar
+- YoD, FD, filtrlar, ulagichlar, attenyuatorlar
+- YoD, FD, filtrlar, ulagichlar
+- lazer diodi
+To'g'ri: A
+
+Savol: Optik ulagichlarning necha xil turi mavjud? 
+
+- ikki xil turi mavjud
+- uch xil turi mavjud
+- to’rt xil turi mavjud
+- besh xil turi mavjud
+To'g'ri: A
+
+Savol: Tarmoqlagichlarning asosiy turlarini ko'rsating: 
+
+- shahoblagichlar, daraxtsimon va yulduzsimon tarmoqlagichlar turi
+- shahoblagichlar, daraxtsimon tarmoqlagichlar turi
+- daraxtsimon, yulduzsimon turi
+- nuqta-nuqta turi
+To'g'ri: A
+
+Savol: TOA tizimlarining regeneratsiyalash uchastkasida ajraladigan optik ulagichlar soni nechta bo’ladi? 
+
+- ikki
+- bir
+- besh
+- olti
+To'g'ri: A
+
+ 
+
+Savol: Passiv optik qurilma bu - 
+
+- optik signalni bir ko’rinishdan ikkinchi ko’rinishga o’zgartirmaydigan, tashqi elektr manba talab qilmaydigan qurilma
+- optik signalni bir ko’rinishdan ikkinchi ko’rinishga o’zgartirmaydigan qurilma
+- tashqi elektr manba talab qilmaydigan qurilma
+- optik signalni kuchatirmaydigan qurilma
+To'g'ri: A
+
+Savol: Optik nurlanishni OT ga kiritish va chiqarish qurilmasi qanday vazifani bajaradi? 
+
+- optik nurlanishni OT ga samarali kiritish va OT dan qabul qilish vazifani bajaradi
+- optik signalni kuchaytirish vazifani bajaradi
+- optik signalni regeneratsiyalsh vazifani bajaradi
+- optik signalni uzatish vazifani bajaradi
+To'g'ri: A
+
+Savol: Optik tarmoqlagichning vazifasi nimadan iborat? 
+
+- optik signallar oqimini bir necha oqimlarga tarmoqlash
+- optik signalni korreksiyalash
+- optik signalni kuchaytirish
+- optik signalni regeneratsiyalsh
+To'g'ri: A
+
+Savol: Optik attenyuatorlar qanday maqsadlarda qo’llaniladi? 
+
+- kirish optik signallarining quvvatini kamaytirish maqsadida
+- kirish optik signallarining quvvatini oshirish maqsadida
+- optik signallarni dispersiyasini kamaytirish maqsadida
+- optik signallarni kodlash maqsadida
+To'g'ri: A
+
+Savol: Optik izolyatorning vazifasi nimadan iborat? 
+
+- optik nurlanishni bir yo’nalishda deyarli yo’qotishlarsiz uzatish va teskari yo’nalishga o’tkazmaslikni ta’minlash
+- yorug’likni teskari yo’nalishda o’tkazmaslikni ta’minlash
+- optik signallarni quvvatini oshirish
+- optik dispersiyasini kamaytirish uchun
+To'g'ri: A
+
+Savol: Umumiy uzatilayotgan optik spektrdan optik kanallarni ajratish vazifasini qanday asbob bajaradi? 
+
+- optik filtr
+- optik izolyator
+- optik attenyuator
+- analizator
+To'g'ri: A
+
+Savol: Attenyuatorlarning ishlash prinsipi bo’yicha qanday turlari mavjud? 
+
+- so’nish qiymati bo’yicha o’zgaruvchan va so’nish qiymati qayd etilgan turlari
+- so’nish qiymati bo’yicha o’zgarmas turi
+- so’nish qiymati qayd etilgan turi
+- so’nish qiymati bo’yicha o’zgaruvchan turi
+To'g'ri: A
+
+Savol: Optik multipleksor va demultipleksorlarning ishi to’lqin uzunligiga sezgirligi quyidagi omillarga asoslanadi 
+
+- burhak dispersiyasi va difraksiyaga
+- difraksiyaga
+- to’lqin uzunligiga sezgir emas
+- qutblanish tekisligiga
+To'g'ri: A
+
+Savol: Optik multipleksorning vazifasi nimadan iborat? 
+
+- bir necha yorug’lik signallari oqimini bitta guruxli oqimga birlashtirish, zichlashtirish
+- optik signallar oqimini bir necha oqimlarga ajratish
+- optik nurlanishni OTga samarali (yo’qotishlarsiz) kiritish
+- optik signalni kuchaytirish
+To'g'ri: A
+
+Savol: Optik demultipleksorning vazifasi nimadan iborat? 
+
+- guruxli oqimdan bir necha kanallarning optik signallarini ajratish
+- optik nurlanishni OTga samarali (yo’qotishlarsiz) kiritish
+- bir necha yorug’lik signallari oqimini bitta guruxli oqimga birlashtirish
+- optik signalni korreksiyalash
+To'g'ri: A
+
+Savol: Retranslyatorlarning qanday turlari bor? 
+
+- regenerator va optik kuchaytirgich turlari
+- generator turi
+- multipleksor turi
+- optik kuchaytirgich turi
+To'g'ri: A
+
+Savol: Optik signalni regeneratsiyalash faqat……… shaklda amalga oshiriladi 
+
+- elektrik
+- optoelektron
+- virtual
+- optik
+To'g'ri: A
+
+Savol: Optik regeneratorning optik kuchaytirgichdan farqi nimada? 
+
+- optik signallarni elektr signallariga aylantirib, tiklab, regeneratsiyala-shida, xar bir kanal uchun alohida optik regenerator ishlatilishida
+- har bir kanal uchun alohida optik regenerator ishlatilishida
+- farqi mavjud emas
+- bir necha kanallar uchun bitta optik regenerator ishlatilishida
+To'g'ri: A
+
+Savol: Optik liniya kodlarining elektr kodlardan asosiy farqi nimada? 
+
+- bir qutbliligida
+- ikki qutbliligida
+- spektr oralig’ining kengligida
+- farqi mavjud emas
+To'g'ri: A
+
+Savol: Optik tolali uzatish tizimlarida boshlang’ich kod sifatida qaysi koddan foydalaniladi? 
+
+- NRZ kodidan
+- BI – L kodidan
+- BI – M kodidan
+- AMI, 1B2B kodidan
+To'g'ri: A
+
+Savol: Optik kuchaytirgichlarda elektron sxema qo'llaniladimi? 
+
+- elektron sxema qo'llanilmaydi
+- elektron sxema qisman qo'llaniladi
+- elektron sxema qo'llanilishi shart
+- elektron sxema to'liq qo'llaniladi
+To'g'ri: A
+
+Savol: λ=1,3 mkm to'lqin uzinligida regenerator orasidagi masofa necha km. ni tashkil etadi? 
+
+- ni tashkil etadi
+- ni tashkil etadi
+- ni tashkil etadi
+- ni tashkil etadi
+To'g'ri: A
+
+Savol: λ =1,55 mkm to’lqin uzunligida regenerator orasidagi masofa necha km.ni tashkil etadi? 
+
+- ni tashkil etadi
+- ni tashkil etadi
+- ni tashkil etadi
+- ni tashkil etadi
+To'g'ri: A
+
+Savol: NRZ kodi qanday kod hisoblanadi? 
+
+- nolga qaytmaslik kodi
+- nolga teng kod
+- elektrik kod
+- manchestr kodi
+To'g'ri: A
+
+Savol: RZ kodi qanday kod? 
+
+- nolga qaytish kodi
+- nolga teng kod
+- elektrik kod
+- manchestr kodi
+To'g'ri: A
+
+Savol: 1B 2B kodida liniyaga uzatiladigon impulslar soni boshlang’ich koddagi impulslar sonidan necha marta ko’p? 
+
+- ikki marta
+- uch marta
+- besh marta
+- o’n marta
+To'g'ri: A
+
+ 
+
+Savol: Optik tarmoqlar qanday tasniflanadi? 
+
+- mahalliy mintaqaviy, magistral, transport, abonentga ulanish tarmoqlari
+- mahalliy mintaqaviy tarmoqlari
+- magistral, transport tarmoqlari
+- abonentga ulanish tarmoq’i
+To'g'ri: A
+
+Savol: Mahalliy optik tarmoqlar bu -? 
+
+- shaxar va qishloq optik tarmoqlari
+- shaxarlar orasidagi tarmoq
+- qishloqlar orasidagi tarmoq
+- mintaqalar orasidagi tarmoq
+To'g'ri: A
+
+Savol: Mintaqaviy tarmoq bu -? 
+
+- mintaqaning shaxar va qishloqlari orasidagi tarmoq
+- mamlakatlar orasidagi tarmoq
+- shaxarlar va qishloqlar orasidagi tarmoq
+- abonentlar orasidagi tarmoq
+To'g'ri: A
+
+Savol: Magistral optik tarmoqlar bu -? 
+
+- davlatlar, mintaqalararo optik tarmoqlar
+- mintaqalar, viloyatlar orasidagi optik tarmoqlar
+- shaxarlar va qishloqlar orasidagi optik tarmoqlar
+- mintaqaviy optik tarmoqlar
+To'g'ri: A
+
+Savol: Guruhli oqimdan kanal signallarini ajratib olishni qaysi qurilma bajaradi? 
+
+- optik demultipleksor
+- optik multipleksor
+- optik demultipleksor va optik multipleksor
+- optik ulagichlar
+To'g'ri: A
+
+Savol: Kanalli signallarni guruhli oqimga birlashtirishni qaysi qurilma bajaradi? 
+
+- optik multipleksor
+- optik demultipleksor
+- optik demultipleksor va optik multipleksor
+- optik ulagichlar
+To'g'ri: A
+
+Savol: To’liq optik tarmoqlar bu -? 
+
+- barcha operatsiyalar va funksiyalar –kommutatsiya, signallarni kuchaytirish, tarmoqni boshqarish va bosqalar optik usulda amalga oshiriladigan tarmoq
+- barcha operatsiyalar va funksiyalar optik usulda amalga oshiriladigan tarmoq
+- kommutatsiya optik usulda amalga oshiriladigan tarmoq
+- tarmoqni boshqarish optik usulda amalga oshiriladigan tarmoq
+To'g'ri: A
+
+Savol: Bir modali optik tolalardan qaysi turgagi optik tarmoqlarda foydalaniladi? 
+
+- magistral, mintaqaviy, mahalliy, tarmoqlangan lokal optik tarmoqlarda
+- magistral va mintaqaviy optik tarmoqlarda
+- tarmoqlangan lokal optik tarmoqlarda
+- mahalliy optik tarmoqlarda
+To'g'ri: A
+
+Savol: Ko’p modali optik tolalardan qaysi turdagi optik tarmoqlarda foydalaniladi? 
+
+- uzunligi 15 km bo’lgan mahalliy va lokal optik tarmoqlarda
+- mintaqaviy optik tarmoqlarda
+- moslashtiruvchi qurilma (MQ)
+- mahalliy optik tarmoqlarda
+To'g'ri: A
+
+Savol: Ma’lumot bu… 
+
+- Axborot uzatuvchi manbadan qabul qiluvchi manbagacha bo‘lgan jarayon
+- Axborotni taqdim etiladigan shakli
+- Axborotning boshqa turi
+- Elektrik signal
+To'g'ri: A
+
+Savol: .............. signal deyiladi 
+
+- Uzatilayotgan ma’lumotni aks ettiruvchi, moddiy eltuvchi yoki fizik jarayon
+- Elektromagnit to‘lqinga
+- Fizik jarayonga
+- Uzatiladigan ma’lumotga
+To'g'ri: A
+
+Savol: Raqamli uzatish tizimlarida qaysi operatsiyalar ketma-ketligi yordamida analog signal raqamliga o‘zgaradi? 
+
+- Diskretizatsiyalash, kvantlash, kodlash
+- Dekoderlash, quyi chastotali filtrlash, AIM signal
+- Quyi chastotali filtrlash, kodlash, kvantlash
+- Quyi chastotali filtrlash
+To'g'ri: A
+
+Savol: Birlamchi raqamli uzatish tizimlarining sikli nechta kanal intervalidan iborat? 
+
+- 32
+- 48
+- 64
+- 30
+To'g'ri: A
+
+Savol: Birlamchi raqamli uzatish tizimi siklining qaysi kanal intervalida yuqori siklli sinxronizatsiya va SUV signallari uzatiladi? 
+
+- 16
+- 32
+- 0
+- 10
+To'g'ri: A
+
+Savol: Kodeklar deb nimaga aytiladi? 
+
+- ARO‘ va RAO‘ uchun mo‘ljallangan koderlar va dekoderlar to’plamiga
+- ARO‘ mo‘ljallangan koderlar to‘plamiga
+- RAO‘ uchun mo‘ljallangan dekoderlar to‘plamiga
+- Texnik vositalar to‘plamiga
+To'g'ri: A
+
+Savol: Taktli sinxronizatsiya nima uchun zarur? 
+
+- Qabul qiluvchi va uzatuvchi stansiyalarning generator uskunalarini sinxron ishlashini ta’minlash
+- Boshqaruvchi va bog‘lanuvchi signallarni ajratish uchun
+- Ikkilik kodni kvaziuchlik kodga o‘zgartirish uchun
+- Siklli sinxrosignalni ajratish uchun
+To'g'ri: A
+
+Savol: Raqamli signallarni regeneratsiyalash bu............ 
+
+- Signallarni barcha parametrlari bo‘yicha qayta tiklash
+- So‘ngan signallarni kuchaytirish
+- Signallarni parametrlarini o‘lchash
+- Signal parametrlarini kuzatish
+To'g'ri: A
+
+Savol: STM – 1 ning uzatish tezligi qanday? 
+
+- 155 Mbit/s
+- 140 Mbit/s
+- 230 Mbit/s
+- 622 Mbit/s
+To'g'ri: A
+
+Savol: SDH tarmoqlarining xususiyati nimada? 
+
+- Tarmoqning soddaligi, ishonchliligi, moslashuvchanligi, shaffofligi, o‘tkazuvchanlik qobiliyatining yuqoriligi
+- Tarmoq himoyasi
+- Tizim himoyasi
+- Boshqarish tizimi himoyasi
+To'g'ri: A
+
+Savol: Virtual konteyner bu........ 
+
+- Logik ob’ekt
+- Fizik ob’ekt
+- SDH triblari
+- Komponent signallar
+To'g'ri: A
+
+Savol: STM-1 nima? 
+
+- Sinxron transport moduli
+- Sinxron raqamli ierarxiya
+- Foydali yuklama
+- Kirish/chiqishli multipleksor
+To'g'ri: A
+
+Savol: STM-4 ning uzatish tezligi 
+
+- 0,622 Gbit/s
+- 2 Mbit/s
+- 8 Mbit/s
+- 0,155 Gbit/s
+To'g'ri: A
+
+Savol: STM-16 ning uzatish tezligi 
+
+- 2,5 Gbit/s
+- 10 Gbit/s
+- 155 Mbit/s
+- 64 Kbit/s
+To'g'ri: A
+
+Savol: STM-64 ning uzatish tezligi 
+
+- 10 Gbit/s
+- 34 Mbit/s
+- 8 Mbit/s
+- 155 Mbit/s
+To'g'ri: A
+
+Savol: STM-256 ning uzatish tezligi 
+
+- 40 Gbit/s
+- 10 Gbit/s
+- 64 Kbit/s
+- 155 Mbit/s
+To'g'ri: A
+
+Savol: STM-1 ning tezligini aniqlash formulasi qaysi qatorda to‘g‘ri ko‘rsatilgan? 
+
+- 270x9x8x8
+- 261x9x8x8
+- 32x8x8
+- 290x64
+To'g'ri: A
+
+Savol: SOH seksiya sarlavhasi..........dan tashkil topgan 
+
+- Regeneratsiyalash seksiyasi (RSOH) sarlavhasi va multipleksorlash seksiyasi (MSOH) sarlavhasi
+- Regeneratsiyalash seksiyasi (RSOH) sarlavhasi
+- Multipleksorlash seksiyasi (MSOH) sarlavhasi
+- POH sarlovxasi
+To'g'ri: A
+
+Savol: SDH da signalning asosiy formati sifatida ..........qabul qilingan 
+
+- Uzatish tezligi 155,52 Mbit/s bo‘lgan, STM sinxron transport moduli
+- Uzatish tezligi 622 Mbit/s bo‘lgan, STM sinxron transport moduli
+- Uzatish tezligi 2 Mbit/s bo‘lgan IKM-30
+- Uzatish tezligi 64 Kbit/s bo‘lgan asosiy raqamli kanal
+To'g'ri: A
+
+Savol: SDH tarmoqlarida qaysi topologiya keng tarqalgan? 
+
+- Halqa
+- Nuqta-nuqta
+- Yacheykali
+- Yulduz
+To'g'ri: A
+
+Savol: SDH tizimlarida sinxronizatsiya buzilishi nimaga olib keladi? 
+
+- Ko‘rsatkichlarning siljishiga, axborotlarni yo‘qolishiga
+- Ko‘rsatkichlarning surilishiga
+- Xatoliklarning yuzaga kelishiga
+- Axborotlarni yo‘qolishiga
+To'g'ri: A
+
+Savol: WDM texnologiyasida signallarni uzatish nimaga asoslangan? 
+
+- To‘lqinli zichlashtirishga
+- Vaqtli zichlashtirishga
+- Chastotaviy zichlashtirishga
+- To‘lqinli, chastotaviy, vaqtli zichlashtirishga
+To'g'ri: A
+
+Savol: WDM bu.......... 
+
+- To‘lqinli zichlashtiruvchi texnologiyaga
+- Fazoviy zichlashtiruvchi texnologiya
+- Yuqori tezlikli signallarni vaqtli zichlashtiruvchi texnologiya
+- Yuqori tezlikli signallarni chastotaviyzichlashtiruvchi texnologiya
+To'g'ri: A
+
+Savol: DWDM regeneratorlari orasidagi masofa.......... dan iborat 
+
+- 500 600 km
+- 100 200 km
+- 600 700 km
+- 60 80 km
+To'g'ri: A
+
+Savol: DWDM multipleksorlari orasidagi masofa.......... dan iborat 
+
+- 100 km
+- 80 km
+- 600 km
+- 200 km
+To'g'ri: A
+
+Savol: DWDMning chastotaviy rejasi 
+
+- 50 GHz
+- 20 GHz
+- 240 nm
+- 40 nm
+To'g'ri: A
+
+Savol: CWDM diapazoni 
+
+- O, E, S, C, L
+- S, C, L
+- C, L
+- O, E, S
+To'g'ri: A
+
+Savol: CWDM texnologiyasida nechta optik kanalni uzatish mumkin? 
+
+- Maksimum 18 ta
+- Maksimum 100
+- Maksimum 60
+- Maksimum 16
+To'g'ri: A
+
+Savol: CWDM texnologiyasi: 
+
+- Shahar tarmoqlarida qo‘llaniladi
+- Mahalliy tarmoqlarda qo‘llaniladi
+- Magistral tarmoqlarda qo‘llaniladi
+- Mahalliy va magistral tarmoqlarda qo‘llaniladi
+To'g'ri: A
+
+Savol: Yuqori tezlikli abonent optik liniyalarida qaysi texnologiya keng tarqalgan? 
+
+- GPON
+- SDSL
+- VDSL
+- RADSL
+To'g'ri: A
+
+Savol: xDSL texnologiyasi sinflari qaysi qatorda to‘g‘ri ko‘rsatilgan? 
+
+- HDSL, SDSL, ADSL, VDSL
+- ADSL, VDSL, PON, GPON
+- HDSL, SDSL, STM-1, IKM-30
+- PON, GPON, STM-1, IKM-30
+To'g'ri: A
+
+Savol: PON texnologiyasining qanday sinflari mavjud? 
+
+- A-PON, E-PON, B-PON, G-PON
+- R-PON, V-PON, F-PON, D-PON
+- A-PON, F-PON, D-PON, E-PON
+- G-PON, F-PON, R-PON, A-PON
+To'g'ri: A
+
+Savol: Passiv optik tarmoqlarni qurish uchun ............. qo‘llaniladi 
+
+- Passiv optik tarmoqlagichlar
+- Halqa
+- Nuqta-nuqta
+- Aktiv tugunli daraxt
+To'g'ri: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORNATILGAN TIZMLAR ORNATILGAN TIZMLAR ORNATILGAN TIZMLAR ORNATILGAN TIZMLAR ORNATILGAN TIZMLAR ORNATILGAN TIZMLAR ORNATILGAN TIZMLAR 
+
+
+
+
+
+
+
+Savol: O‘rnatilgan tizim (Embedded System) nima? 
+
+- Maxsus vazifalarni bajaruvchi mikroprotsessor asosidagi tizim 
+
+
+- O‘yin kompyuterlari 
+
+
+- Ish stoli kompyuterlari 
+
+
+- Umumiy maqsadli dasturlash tizimi 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning asosiy xususiyati nima? 
+
+- Maxsus vazifalarni bajarishga mo‘ljallanganligi 
+
+
+- Yuqori grafik imkoniyatlarga ega bo‘lishi 
+
+
+- Doimiy Internetga ulanib ishlashi 
+
+
+- Faqat dasturchilar tomonidan boshqarilishi 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar qaysi sohalarda keng qo‘llaniladi? 
+
+- Telekommunikatsiya, avtomobil sanoati, tibbiyot, sanoat avtomatlashtirish 
+
+
+- Faqat kompyuter o‘yinlarida 
+
+
+- Faqat Internet xizmatlarida 
+
+
+- Faqat matn muharrirlarida 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar qanday platformalarda ishlaydi? 
+
+- Maxsus real vaqt tizimlarida (RTOS) yoki apparat platformasida 
+
+
+- Faqat Windows operatsion tizimida 
+
+
+- Faqat Linux asosida 
+
+
+- Faqat mobil operatsion tizimlarda 
+To'g'ri: A
+
+
+
+Savol: Qaysi qurilma o‘rnatilgan tizimga misol bo‘la oladi? 
+
+- Mikrokontroller asosidagi robot 
+
+
+- Ish stoli kompyuteri 
+
+
+- Ofis printer 
+
+
+- O‘yin konsoli 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning muhim parametrlari qaysilar? 
+
+- Kam quvvat sarfi, ishonchlilik, real vaqt rejimida ishlash 
+
+
+- Katta o‘lchamli operativ xotira va tezkor protsessor 
+
+
+- Faqat kuchli grafik ishlov berish 
+
+
+- Internetga ulanib ishlash 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar asosan qanday operatsion tizimlardan foydalanadi? 
+
+- Real vaqt operatsion tizimlari (RTOS) va maxsus tizimlar 
+
+
+- Windows va MacOS 
+
+
+- Faqat Android 
+
+
+- MS-DOS 
+To'g'ri: A
+
+
+
+Savol: Real vaqt tizimlari qanday xususiyatga ega? 
+
+- Muayyan vaqt oralig‘ida muhim jarayonlarni bajarishi shart 
+
+
+- Vazifalarni istalgan vaqtda bajarishi mumkin 
+
+
+- Faqat sun’iy intellekt tizimlarida ishlaydi 
+
+
+- Faqat katta xotira talab qiladi 
+To'g'ri: A
+
+
+
+Savol: Qaysi qurilma real vaqt tizimi bo‘lishi mumkin? 
+
+- Tibbiyot uchun yurak monitori 
+
+
+- Ish stoli kompyuteri 
+
+
+- O‘yin noutbuki 
+
+
+- Veb-brauzer 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning asosiy komponentlari qaysilar? 
+
+- Protsessor, xotira, kirish-chiqish interfeyslari, dasturiy ta’minot 
+
+
+- Faqat dasturiy ta’minot 
+
+
+- Faqat apparat qurilmalari 
+
+
+- Printer va skaner 
+To'g'ri: A
+
+
+
+Savol: Real vaqt operatsion tizimlari qanday ishlaydi? 
+
+- Muayyan vaqt chegarasida muhim jarayonlarni bajaradi 
+
+
+- Faqat ofis dasturlarini ishga tushiradi 
+
+
+- Tasodifiy vaqtlarda vazifalarni bajaradi 
+
+
+- Faqat Linux asosida ishlaydi 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning quvvat sarfi qanday bo‘lishi kerak? 
+
+- Minimal quvvat sarfi talab qilinadi 
+
+
+- Juda ko‘p energiya talab qilad 
+
+
+- Faqat quyosh energiyasidan foydalanadi 
+
+
+- Quvvat sarfi muhim emas 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar qanday xotira turlaridan foydalanadi? 
+
+- Faqat qattiq diskdan 
+
+
+- ROM, RAM, Flash xotira 
+
+
+- Faqat USB fleshka 
+
+
+- Faqat operativ xotira 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar uchun eng muhim omil nima? 
+
+- Xavfsizlik, ishonchlilik va kam quvvat sarfi 
+
+
+- Ko‘plab dasturlarni bir vaqtning o‘zida ishga tushirish 
+
+
+- Internetga doimiy ulanib turish 
+
+
+- O‘yinga moslashganligi 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda ishlatiladigan protsessorlar qanday bo‘ladi? 
+
+- Maxsus vazifalarga mo‘ljallangan, energiya tejamkor protsessorlar 
+
+
+- Asosan yuqori tezlikda ishlovchi protsessorlar 
+
+
+- Faqat Intel protsessorlari 
+
+
+- Faqat 64-bitli protsessorlar 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar uchun qaysi dasturlash tili keng qo‘llaniladi? 
+
+- C/C++ 
+
+
+- HTML 
+
+
+- PHP 
+
+
+- JavaScript 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning ishlash tezligi qanday belgilanadi?
+
+- Yozilgan kod sifati va apparat resurslariga bog‘liq
+- Faqat protsessor chastotasi bilan
+- Internet tezligi bilan
+- Faqat operativ xotira hajmi bilan
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlar uchun qanday operatsion tizim keng tarqalgan? 
+
+- FreeRTOS, VxWorks, QNX 
+
+
+- Windows XP 
+
+
+- MacOS 
+
+
+- Ubuntu 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar qayerda qo‘llaniladi?
+
+- Tibbiyot uskunalarida, avtomobillarda, sanoat robotlarida
+- Smartfon va planshetlarda
+- Faqat mobil ilovalarda
+- Faqat superkompyuterlarda
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarning asosiy maqsadi nima? 
+
+- Maxsus vazifalarni samarali bajarish 
+
+
+- Ko‘p vazifali umumiy hisoblash tizimi yaratish 
+
+
+- Faqat grafik interfeys yaratish 
+
+
+- Faqat ma’lumotlarni saqlash 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarga qo‘yiladigan asosiy talablar qaysilar? 
+
+- Kam quvvat sarfi, ishonchlilik, real vaqt rejimida ishlash 
+
+
+- Yuqori grafik imkoniyatlarga ega bo‘lishi 
+
+
+- Faqat katta xotira hajmiga ega bo‘lishi 
+
+
+- Doimiy Internetga ulanib ishlashi 
+To'g'ri: A
+
+
+
+Savol: Boshqariluvchi obyekt datchiklari qanday vazifani bajaradi? 
+
+- Tashqi fizikaviy kattaliklarni o‘lchab, elektr signaliga aylantiradi 
+
+
+- Elektr signallarni kuchaytiradi 
+
+
+- Faqat dasturiy ta’minot bilan ishlaydi 
+
+
+- Faqat analog signallarni uzatadi 
+To'g'ri: A
+
+
+
+Savol: Qaysi qurilma analog-raqam (ADC) o‘zgartirgich vazifasini bajaradi? 
+
+- Mikrokontroller ichidagi ADC moduli 
+
+
+- Sensor ekran 
+
+
+- USB fleshka 
+
+
+- Printer 
+To'g'ri: A
+
+
+
+Savol: Raqam-analog (DAC) o‘zgartirgichning vazifasi nima? 
+
+- Raqamli signalni analog signalga aylantirish 
+
+
+- Analog signalni raqamli signalga aylantirish 
+
+
+- Faqat kodni bajarish 
+
+
+- Elektr energiyasini uzatish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda signallarni uzatuvchi interfeys qanday ishlaydi? 
+
+- Signalni raqamli formatga o‘zgartiradi va uzatadi 
+
+
+- Signalni faqat kuchaytiradi 
+
+
+- Faqat raqamli signallarni qabul qiladi 
+
+
+- Signalni faqat xotirada saqlaydi 
+To'g'ri: A
+
+
+
+Savol: Analog signallar qanday ma’lumot turi hisoblanadi? 
+
+- Davomli (uzluksiz) 
+
+
+- Diskret (raqamli) 
+
+
+- Matn shaklida 
+
+
+- Faqat impulsli 
+To'g'ri: A
+
+
+
+Savol: Raqamli signallar qanday xususiyatga ega?
+
+- Diskret (uzlukli) qiymatlarga ega bo‘ladi
+- Davomli o‘zgaruvchan qiymatlarga ega bo‘ladi
+- Faqat kuchaytiruvchi qurilmalar orqali uzatiladi
+- O‘z-o‘zidan qayta ishlanadi
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda ishlatiladigan eng keng tarqalgan interfeys turi qaysi? 
+
+- RS-232, I2C, SPI, UART 
+
+
+- Bluetooth, Wi-Fi 
+
+
+- Faqat HDMI 
+
+
+- Faqat USB 
+To'g'ri: A
+
+
+
+Savol: Boshqariluvchi obyekt datchiklaridan qaysi biri haroratni o‘lchaydi? 
+
+- DHT11 (harorat va namlik datchigi) 
+
+
+- LDR (yorug‘lik datchigi) 
+
+
+- MQ-2 (gaz datchigi) 
+
+
+- HC-SR04 (ultratovushli datchik) 
+To'g'ri: A
+
+
+
+Savol: I2C interfeysi qanday ishlaydi? 
+
+- Seriyali ikki simli protokol asosida ishlaydi 
+
+
+- Parallel ravishda ma’lumot uzatadi 
+
+
+- Faqat analog signal uzatadi 
+
+
+- Faqat elektr quvvati uzatadi 
+To'g'ri: A
+
+
+
+Savol: Analog signalni raqamli signalga aylantirishda qanday parametr muhim? 
+
+- Konvertatsiya tezligi 
+
+
+- Ekran rangi 
+
+
+- Dastur versiyasi 
+
+
+- Xotira hajmi 
+To'g'ri: A
+
+
+
+Savol: SPI interfeysining asosiy xususiyati nima?
+
+- Yuqori tezlikda seriyali ma’lumot uzatish
+- Faqat simsiz ulanish orqali ishlash
+- Parallel ma’lumot uzatish
+- Faqat audio signal uzatish
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda qaysi interfeys real vaqt rejimida ishlash uchun samarali? 
+
+- SPI 
+
+
+- USB 
+
+
+- HDMI 
+
+
+- Ethernet 
+To'g'ri: A
+
+
+
+Savol: UART interfeysi qanday ishlaydi?
+
+- Asinxron seriyali aloqa orqali
+- Faqat simsiz aloqa uchun ishlatiladi
+- Faqat raqamli signallarni qabul qiladi
+- Elektr energiyasini uzatadi
+To'g'ri: A
+
+Savol: Boshqariluvchi obyekt datchiklari qanday signallarni ishlab chiqarishi mumkin? 
+
+- Analog va raqamli 
+
+
+- Faqat analog 
+
+
+- Faqat raqamli 
+
+
+- Faqat chastotaviy 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda qaysi datchik harakatni aniqlash uchun ishlatiladi? 
+
+- MPU6050 (gyroskop va akselerometr) 
+
+
+- LM35 (harorat datchigi) 
+
+
+- MQ-7 (gaz datchigi) 
+
+
+- DS18B20 (harorat datchigi) 
+To'g'ri: A
+
+
+
+Savol: ADC qurilmalari qanday ishlaydi? 
+
+- Analog signalni raqamli ko‘rinishga o‘tkazadi 
+
+
+- Raqamli signalni kuchaytiradi 
+
+
+- Analog signalni saqlaydi 
+
+
+- Signalni filtrlash uchun ishlatiladi 
+To'g'ri: A
+
+
+
+Savol: Raqam-analog o‘zgartirgich (DAC) qanday signallarni hosil qiladi? 
+
+- Analog 
+
+
+- Faqat raqamli 
+
+
+- Matnli 
+
+
+- Faqat impulsli 
+To'g'ri: A
+
+
+
+Savol: Boshqariluvchi obyekt datchiklarining asosiy vazifasi nima?
+
+- Tashqi fizik jarayonlarni o‘lchash va ularga javob qaytarish
+- Signalni shifrlash
+- Signalni faqat mustaqil saqlash
+- Faqat tasvir hosil qilish
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda signallarni uzatuvchi interfeyslarning ahamiyati nimada? 
+
+- Ma’lumotlarni ishonchli uzatish va qabul qilish 
+
+
+- Faqat elektr quvvati uzatish 
+
+
+- Faqat audio signallar bilan ishlash 
+
+
+- Operatsion tizimlarni yangilash 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizim qurilmalarini boshqarish obyekt bilan qanday vositalar o‘rqali ulanadi? 
+
+- Datchiklar va aktuatorlar orqali 
+
+
+- Faqat Wi-Fi orqali 
+
+
+- Faqat Bluetooth orqali 
+
+
+- Faqat kabel orqali 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda datchiklar qanday rol o‘ynaydi? 
+
+- Fizikaviy kattaliklarni o‘lchab, signal shaklida uzatadi 
+
+
+- Faqat ma’lumot saqlaydi 
+
+
+- Dastur yozish uchun ishlatiladi 
+
+
+- Faqat kuchlanishni oshirish uchun ishlatiladi 
+To'g'ri: A
+
+
+
+Savol: Mikrokontrollerning asosiy tarkibiy qismlaridan biri qaysi? 
+
+- Markaziy protsessor (CPU), xotira, kirish-chiqish portlari 
+
+
+- Ish stoli kompyuteri 
+
+
+- Faqat operativ xotira 
+
+
+- O‘yinga moslashtirilgan grafik protsessor 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizim protsessorlarining asosiy turlari qaysilar? 
+
+- RISC va CISC protsessorlari 
+
+
+- Faqat x86 protsessorlari 
+
+
+- Faqat grafik protsessorlar 
+
+
+- Faqat ARM protsessorlar 
+To'g'ri: A
+
+
+
+Savol: Mikrokontroller qanday qurilma? 
+
+- Protsessor, xotira va kirish-chiqish interfeyslarini o‘z ichiga olgan mustaqil tizim 
+
+
+- Faqat ma’lumot saqlash uchun ishlatiladi 
+
+
+- Faqat grafik ishlov berish uchun ishlatiladi 
+
+
+- Internetga ulanish uchun ishlatiladi 
+To'g'ri: A
+
+
+
+Savol: Mikrokontrollerning xotira turlari qanday? 
+
+- ROM, RAM va EEPROM 
+
+
+- Faqat qattiq disk 
+
+
+- Faqat flesh xotira 
+
+
+- Faqat operativ xotira 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizim protsessorlari ko‘pincha qanday arxitekturaga ega bo‘ladi? 
+
+- RISC (Reduced Instruction Set Computing) 
+
+
+- CISC (Complex Instruction Set Computing) 
+
+
+- Faqat x86 arxitekturasiga ega bo‘ladi 
+
+
+- Faqat FPGA asosida qurilgan bo‘ladi 
+To'g'ri: A
+
+
+
+Savol: Mikrokontrollerlarning eng mashhur oilalaridan biri qaysi? 
+
+- AVR, PIC, ARM 
+
+
+- Intel Core i7 
+
+
+- AMD Ryzen 
+
+
+- Nvidia Tegra 
+To'g'ri: A
+
+
+
+Savol: Mikrokontroller qanday dasturlanadi?
+
+- Assembly, C, C++ yordamida
+- Faqat HTML va CSS orqali
+- Faqat JavaScript orqali
+- Faqat Windows muhitida
+To'g'ri: A
+
+Savol: Mikrokontrollerning asosiy xususiyati nima? 
+
+- Kam quvvat sarflaydi va maxsus vazifalarni bajaradi 
+
+
+- Ko‘p dasturlarni bir vaqtning o‘zida ishga tushiradi 
+
+
+- Faqat katta o‘lchamli operativ xotiraga ega 
+
+
+- Faqat grafik ishlov berish uchun ishlatiladi 
+To'g'ri: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Savol: Mikrokontroller ichidagi ALU (Arithmetic Logic Unit) qanday vazifa bajaradi? 
+
+- Arifmetik va mantiqiy amallarni bajaradi
+- Ma’lumotlarni doimiy saqlaydi
+- Grafiklarni qayta ishlaydi
+- Faqat signal uzatadi
+To'g'ri: A
+
+Savol: O‘rnatilgan tizim protsessorlari qanday interfeyslar bilan bog‘lanadi? 
+
+- UART, I2C, SPI, USB
+- Faqat HDMI
+- Faqat Ethernet
+- Faqat Wi-Fi
+To'g'ri: A
+
+Savol: Mikrokontrollerning soat chastotasi nimani belgilaydi? 
+
+- Protsessor qancha tez ishlashini
+- Qurilmaning fizik o‘lchamini
+- Qancha elektr quvvati talab qilinishini
+- Operativ xotira hajmini
+To'g'ri: A
+
+Savol: Mikrokontrollerlar qanday turdagi operatsion tizimlardan foydalanadi? 
+
+- RTOS (Real-Time Operating System) yoki yalang‘och apparat tizimi
+- Faqat Windows OS
+- Faqat Linux OS
+- Faqat Android OS
+To'g'ri: A
+
+Savol: Qaysi protsessor turi o‘rnatilgan tizimlarda eng ko‘p qo‘llaniladi? 
+
+- ARM
+- Intel Xeon
+- AMD Threadripper
+- Nvidia RTX
+To'g'ri: A
+
+Savol: Mikrokontrollerlarning asosiy xususiyati nima?
+
+- Dasturiy ta’minot va apparat vositalarini birgalikda boshqarish
+- Faqat grafik interfeys ishlatish
+- Faqat yuqori quvvat sarflash
+- Faqat ma’lumot saqlash
+To'g'ri: A
+
+Savol: Mikrokontrollerda kirish-chiqish pinlari nima uchun kerak? 
+
+- Tashqi qurilmalar bilan aloqa o‘rnatish uchun
+- Operativ xotira hajmini oshirish uchun
+- Protsessor tezligini o‘zgartirish uchun
+- Faqat displey boshqarish uchun
+To'g'ri: A
+
+Savol: Mikrokontrollerdagi taymer va sanagichlarning vazifasi nima? 
+
+- Vaqtni hisoblash va jarayonlarni sinxronlashtirish
+- Operativ xotirani to‘ldirish
+- Faqat grafikni qayta ishlash
+- Faqat dastur yozish uchun
+To'g'ri: A
+
+Savol: Mikrokontrollerning asosiy energiya talabi qanday? 
+
+- Kam quvvat sarfi talab qilinadi
+- Juda ko‘p energiya talab qiladi
+- Faqat quyosh energiyasidan foydalanadi
+- Faqat elektr tarmog‘iga ulangan holda ishlaydi
+To'g'ri: A
+
+Savol: Mikrokontroller qaysi sohalarda keng qo‘llaniladi? 
+
+- Sanoat avtomatlashtirish, avtomobil sanoati, tibbiyot, smart qurilmalar
+- Faqat video o‘yinlar yaratishda
+- Faqat Internet xizmatlarida
+- Faqat superkompyuterlarda
+To'g'ri: A
+
+Savol: Uzulish (interruption) nima? 
+
+- Mikrokontroller ish jarayonini vaqtincha to‘xtatib, muhimroq vazifani bajarish mexanizmi
+- Xotirani tozalash jarayoni
+- Qurilmalarni doimiy ravishda qayta yuklash usuli
+- Elektr energiyasini boshqarish tizimi
+To'g'ri: A
+
+Savol: Uzulishning asosiy turlari qanday? 
+
+- Tashqi va ichki uzilishlar
+- Faqat tashqi uzilishlar
+- Faqat ichki uzilishlar
+- Parallel va ketma-ket uzilishlar
+To'g'ri: A
+
+Savol: Uzulishlarga ishlov beruvchi maxsus dastur nima deb ataladi? 
+
+- ISR (Interrupt Service Routine)
+- BIOS
+- RAM boshqaruvchi
+- Multitasking protsessor
+To'g'ri: A
+
+Savol: ISR nima vazifani bajaradi?
+
+- Uzulish sodir bo‘lganda, tegishli kodni bajaradi
+- Uzulishlarni butunlay o‘chirib qo‘yadi
+- Qurilmalarni uzluksiz ishlashini ta’minlaydi
+- Faqat protsessor tezligini oshiradi
+To'g'ri: A
+
+Savol: Tashqi qurilmalar qanday qilib uzilish hosil qiladi? 
+
+- Maxsus signal yuborish orqali
+- Dasturiy ta’minotni o‘zgartirish orqali
+- Elektr quvvatini pasaytirish orqali
+- Internet orqali ma’lumot olish orqali
+To'g'ri: A
+
+Savol: Ichki uzilishlar qanday hosil bo‘ladi? 
+
+- Taymer, xatolik yoki maxsus dasturiy signal orqali
+- Tashqi qurilmalar signallari orqali
+- Internet orqali uzatish orqali
+- USB orqali ulanadigan qurilmalar orqali
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda uzilishlarning asosiy afzalligi nima? 
+
+- Protsessor vaqtini samarali ishlatish
+- Faqatgina operativ xotira ishlashini yaxshilash
+- Qurilmalarning faqat tez ishlashini ta’minlash
+- Xotira sarfini ko‘paytirish
+To'g'ri: A
+
+Savol: Qaysi qurilmalar tashqi uzilish hosil qilishi mumkin? 
+
+- Klaviatura, sensorlar, tarmoq adapterlari
+- Faqat protsessor
+- Faqat xotira
+- Faqat ichki dasturiy ta’minot
+To'g'ri: A
+
+Savol: Uzulishlar qanday usullar bilan ustuvorlikka ega bo‘ladi? 
+
+- Uzulish darajasi yoki apparat ustuvorligi orqali
+- Faqat dasturiy ta’minot bilan
+- Tarmoq tezligini o‘zgartirish orqali
+- Operatsion tizimni qayta yuklash orqali
+To'g'ri: A
+
+Savol: Uzulishlar paytida protsessor qanday ma’lumotlarni saqlaydi? 
+
+- Joriy bajarilayotgan instruktsiya va registr qiymatlarini
+- Faqat kod segmentini
+- Faqat vaqt belgilarini
+- Operativ xotira tarkibini butunlay o‘chiradi
+To'g'ri: A
+
+Savol: Ishlov berishning vaqt ko‘rsatkichlari nimani ta’minlaydi? 
+
+- Real vaqt rejimida uzilishlarga javob berish imkoniyatini
+- Faqat xotira miqdorini oshirishni
+- Internet tezligini oshirishni
+- Qurilmaning haroratini pasaytirishni
+To'g'ri: A
+
+Savol: ISR dasturlarini yozishda eng muhim jihat nima? 
+
+- Tez bajarilishi va minimal kod ishlatilishi
+- Katta va murakkab kod yozish
+- Juda ko‘p funksiya chaqirish
+- Doimiy ravishda global o‘zgaruvchilarni o‘zgartirish
+To'g'ri: A
+
+Savol: Mikrokontrollerlarda uzilishlarni boshqarish uchun nima ishlatiladi? 
+
+- Interrupt vektor jadvali
+- BIOS
+- Faqat dastur kodlari
+- Operativ xotira
+To'g'ri: A
+
+Savol: Uzulish vektori nima?
+
+- Uzulishlarga ishlov berish uchun mo‘ljallangan manzillar jadvali
+- Qurilmalarning grafik interfeysi
+- Faqat dasturiy ta’minotni ishga tushirish uchun
+- Signal kuchaytiruvchi qurilma
+To'g'ri: A
+
+Savol: Qaysi komponent protsessorga uzilish signallarini yuboradi? 
+
+- IRQ (Interrupt Request) liniyalari
+- RAM
+- Qattiq disk
+- LCD display
+To'g'ri: A
+
+Savol: Uzulishlarni qayta ishlash qanday bosqichlardan iborat? 
+
+- Uzulishni aniqlash, uni qayta ishlash va bajarilayotgan vazifaga qaytish
+- Faqat yangi dastur yuklash
+- Operatsion tizimni o‘zgartirish
+- Xotira formatlash
+To'g'ri: A
+
+Savol: Real vaqt rejimida ishlov berish uchun qaysi mexanizm muhim? 
+
+- Uzilishlarni to‘g‘ri boshqarish va ustuvorlik belgilash
+- Ko‘p operativ xotira ishlatish
+- Faqat internetga ulanish
+- Elektr quvvatini oshirish
+To'g'ri: A
+
+Savol: ISR bajarilishida qaysi amallar bajarilishi kerak emas? 
+
+- Katta hajmli kod ishlatish va uzoq sikllarni bajarish
+- Minimal kod yozish va tez bajarilish
+- Registrlarni saqlash va tiklash
+- Uzulish vektoridan to‘g‘ri foydalanish
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda eng ko‘p qaysi uzilish mexanizmlari ishlatiladi? 
+
+- Vaqtli (timer) va tashqi qurilma uzilishlari
+- Faqat grafik interfeys uzilishlari
+- Faqat Internet orqali keladigan uzilishlar
+- Faqat tasodifiy signallar
+To'g'ri: A
+
+Savol: Uzulishlarni to‘g‘ri boshqarish nima uchun muhim? 
+
+- Tizimning barqaror va samarali ishlashini ta’minlash uchun
+- Faqat elektr energiyasini tejash uchun
+- Faqat xotira hajmini oshirish uchun
+- Faqat foydalanuvchi interfeysini yaxshilash uchun
+To'g'ri: A
+
+Savol: Kiritish-chiqarish interfeysi nima? 
+
+- Tashqi qurilmalar bilan o‘rnatilgan tizim o‘rtasida ma’lumot almashish vositasi
+- Faqat o‘rnatilgan tizimning operativ xotirasi
+- Dasturlarni saqlash uchun ichki xotira
+- Faqat ekran tasvirini boshqarish tizimi
+To'g'ri: A
+
+Savol: Kiritish-chiqarish interfeysining turlari qaysilar? 
+
+- Paralel va ketma-ket interfeyslar
+- Faqat Wi-Fi interfeysi
+- Faqat USB interfeysi
+- Faqat qattiq disk bilan ishlovchi interfeys
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda ishlatiladigan eng keng tarqalgan ketma-ket interfeys qaysi? 
+
+- UART (Universal Asynchronous Receiver-Transmitter)
+- VGA
+- HDMI
+- PS/2
+To'g'ri: A
+
+Savol: Kiritish/chiqarish qurilmasining kontrolleri nima vazifani bajaradi?
+
+- Qurilma bilan protsessor o‘rtasidagi ma’lumot almashinuvini boshqaradi
+- Faqat xotirani boshqaradi
+- Elektr ta’minotini nazorat qiladi
+- Operatsion tizimni yuklash bilan shug‘ullanadi
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda ishlatiladigan asosiy ketma-ket interfeyslar qaysilar? 
+
+- UART, SPI, I2C
+- Faqat HDMI
+- Faqat PCIe
+- Faqat DisplayPort
+To'g'ri: A
+
+Savol: Paralel interfeys qanday ishlaydi?
+
+- 0 uzatadi
+- Faqat bitta bitni uzatadi
+- Faqat simsiz aloqa uchun ishlatiladi
+- Faqat audio signal uzatadi
+To'g'ri: A
+
+Savol: USB interfeysi qaysi turga kiradi? 
+
+- Ketma-ket interfeys
+- Paralel interfeys
+- Analog interfeys
+- Faqat simsiz interfeys
+To'g'ri: A
+
+Savol: SPI interfeysi qaysi ma’lumot almashish usuliga asoslangan? 
+
+- Sinxron ketma-ket aloqa
+- Asinxron ketma-ket aloqa
+- Faqat simsiz aloqa
+- Faqat tasvir uzatish
+To'g'ri: A
+
+Savol: Kiritish-chiqarish apparat interfeysi nima uchun kerak? 
+
+- O‘rnatilgan tizim va tashqi qurilmalar o‘rtasidagi ma’lumot almashuvini ta’minlash uchun
+- Faqat tizimni elektr ta’minoti bilan ta’minlash uchun
+- Operativ xotirani oshirish uchun
+- Faqat grafik tasvirlarni qayta ishlash uchun
+To'g'ri: A
+
+Savol: I2C interfeysi qanday xususiyatga ega? 
+
+- Ikkita sim orqali ko‘p qurilmalar bilan aloqa o‘rnata oladi
+- Faqat bitta qurilma bilan ishlaydi
+- Faqat tezkor ma’lumot uzatish uchun mo‘ljallangan
+- Faqat audio uzatish uchun ishlatiladi
+To'g'ri: A
+
+Savol: Tarmoq interfeysining asosiy vazifasi nima? 
+
+- O‘rnatilgan tizimlarni lokal yoki global tarmoqlarga ulash
+- Faqat qurilmani zaryadlash
+- Faqat ichki xotira bilan ishlash
+- Operatsion tizimni yangilash
+To'g'ri: A
+
+Savol: Ethernet interfeysi qanday ma’lumot uzatish usuliga asoslangan? 
+
+- Simli aloqa
+- Simsiz aloqa
+- Faqat infraqizil aloqa
+- Faqat ultratovush signallari
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarda ishlatiladigan simsiz interfeyslar qaysilar? 
+
+- Wi-Fi, Bluetooth, Zigbee
+- Faqat HDMI
+- Faqat USB
+- Faqat DisplayPort
+To'g'ri: A
+
+Savol: Qaysi interfeys mobil aloqa vositalarida keng qo‘llaniladi?
+
+- Bluetooth
+- VGA
+- RS-232
+- LPT
+To'g'ri: A
+
+Savol: CAN interfeysi qayerda keng qo‘llaniladi? 
+
+- Avtomobil elektronikasi va sanoat avtomatlashtirishida
+- Faqat ofis kompyuterlarida
+- Faqat televizorlarda
+- Faqat mobil telefonlarda
+To'g'ri: A
+
+Savol: GPIO nima uchun ishlatiladi? 
+
+- Umumiy maqsadli kiritish/chiqarish signallarini boshqarish uchun
+- Faqat ma’lumot saqlash uchun
+- Faqat elektr ta’minoti uchun
+- Faqat video signal uzatish uchun
+To'g'ri: A
+
+Savol: RS-232 interfeysi qaysi turga kiradi? 
+
+- Ketma-ket interfeys
+- Paralel interfeys
+- Faqat simsiz interfeys
+- Faqat audio interfeys
+To'g'ri: A
+
+Savol: Kiritish-chiqarish interfeyslarining muhim xususiyatlari qaysilar? 
+
+- Ma’lumot uzatish tezligi, ulanish turi va ishonchliligi
+- Faqat interfeys uzunligi
+- Faqat elektr quvvat sarfi
+- Faqat dasturiy ta’minot bilan mosligi
+To'g'ri: A
+
+Savol: USB interfeysining asosiy afzalliklari qaysilar? 
+
+- Yuqori tezlikda ma’lumot uzatish va universal ulanish
+- Faqat quvvat manbai sifatida ishlatilishi
+- Faqat grafik interfeys
+- Faqat audio signal uzatish
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlar qaysi interfeyslar orqali internetga ulanadi? 
+
+- Ethernet, Wi-Fi, LTE
+- Faqat HDMI
+- Faqat USB
+- Faqat RS-232
+To'g'ri: A
+
+ 
+
+
+Savol: O‘rnatilgan tizimlar uchun operatsion tizimlarning asosiy vazifasi nima? 
+
+- Dasturlarni boshqarish va tizim resurslarini samarali taqsimlash 
+
+
+- Faqat grafik interfeys taqdim etish 
+
+
+- Faqat internetga ulanishni ta’minlash 
+
+
+- Faqat apparat qurilmalarni boshqarish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar uchun operatsion tizimlarning muhim talablari qaysilar? 
+
+- Resurslarni samarali boshqarish, real vaqt rejimida ishlash va ishonchlilik 
+
+
+- Faqat grafik interfeysning mavjudligi 
+
+
+- Faqat katta hajmdagi xotira talab qilish 
+
+
+- Faqat foydalanuvchilar uchun qulaylik yaratish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda ishlatiladigan eng mashhur real vaqt operatsion tizimlari (RTOS) qaysilar? 
+
+- FreeRTOS, VxWorks, QNX 
+
+
+- Windows XP, MacOS, Ubuntu 
+
+
+- Faqat Linux 
+
+
+- Faqat Android 
+To'g'ri: A
+
+
+
+Savol: Monolit operatsion tizim arxitekturasi qanday ishlaydi? 
+
+- Barcha tizim xizmatlari yadro ichida bajariladi 
+
+
+- Har bir dastur alohida yadroni ishlatadi 
+
+
+- Har bir xizmat mustaqil modullar sifatida ishlaydi 
+
+
+- Faqat apparat bilan bog‘langan tizim 
+To'g'ri: A
+
+
+
+Savol: Monolit yadrolarning asosiy afzalligi nima? 
+
+- Yuqori ishlash tezligi va kam kechikish 
+
+
+- Juda kichik hajmda bo‘lishi 
+
+
+- Barcha xizmatlarning alohida ishlashi 
+
+
+- Faqat ma’lumot saqlashni ta’minlashi 
+To'g'ri: A
+
+
+
+Savol: Monolit yadro operatsion tizimiga misol keltiring. 
+
+- Linux 
+
+
+- Windows NT 
+
+
+- FreeRTOS 
+
+
+- MacOS 
+To'g'ri: A
+
+
+
+Savol: Modulli arxitektura qanday ishlaydi?
+
+- Operatsion tizim komponentlari mustaqil modullar shaklida bo‘ladi
+- Barcha kodlar yadroga joylashgan bo‘ladi
+- Faqat mijoz-server modelidan foydalanadi
+- Faqat grafik interfeysni ta’minlaydi
+To'g'ri: A
+
+Savol: Modulli arxitekturaning afzalligi nimada? 
+
+- Tizimni oson sozlash va kengaytirish mumkin 
+
+
+- Har doim tez ishlaydi 
+
+
+- Faqat real vaqt tizimlari uchun ishlatiladi 
+
+
+- Faqat Linux yadrosi uchun mo‘ljallangan 
+To'g'ri: A
+
+
+
+Savol: Modulli arxitekturaga misol keltiring. 
+
+- Linux yadrosi 
+
+
+- DOS 
+
+
+- Windows 3.1 
+
+
+- FreeDOS 
+To'g'ri: A
+
+
+
+Savol: Mikroyadro nima?
+
+- Minimal xizmatlarni ta’minlovchi yadro arxitekturasi
+- Operatsion tizim yadrosining eng katta versiyasi
+- Faqat grafik interfeysni ta’minlaydi
+- Faqat Windows operatsion tizimlari uchun ishlatiladi
+To'g'ri: A
+
+Savol: Mikroyadro arxitekturasining asosiy afzalligi nima? 
+
+- Tizimning ishonchliligi va xavfsizligini oshiradi 
+
+
+- Operatsion tizimni sekinlashtiradi 
+
+
+- Faqat katta hajmdagi xotira talab qiladi 
+
+
+- Faqat mijoz-server modelini qo‘llab-quvvatlaydi 
+To'g'ri: A
+
+
+
+Savol: Mikroyadro operatsion tizimlariga misollar qaysilar? 
+
+- QNX, Minix, L4 
+
+
+- MS-DOS, FreeDOS 
+
+
+- Windows 98, MacOS 
+
+
+- FreeBSD, Solaris 
+To'g'ri: A
+
+
+
+Savol: Mijoz-server modeli qanday ishlaydi? 
+
+- Xizmatlar alohida jarayonlar sifatida bajariladi va yadroga minimal yuk tushadi 
+
+
+- Barcha xizmatlar yadro ichida bajariladi 
+
+
+- Faqat bitta mijoz ishlashi mumkin 
+
+
+- Faqat foydalanuvchilar uchun mo‘ljallangan 
+To'g'ri: A
+
+
+
+Savol: Qaysi operatsion tizim mijoz-server modeli asosida ishlaydi? 
+
+- QNX 
+
+
+- MS-DOS 
+
+
+- Windows 95 
+
+
+- FreeDOS 
+To'g'ri: A
+
+
+
+Savol: Monolit va mikroyadro tizimlari o‘rtasidagi asosiy farq nima?
+
+- Monolit tizimda barcha xizmatlar yadro ichida bajariladi, mikroyadroda esa xizmatlar alohida jarayonlar sifatida ishlaydi
+- Monolit tizimda xizmatlar alohida ishlaydi, mikroyadroda esa barchasi bir joyda bajariladi
+- Mikroyadroda faqat real vaqt rejimida ishlash mumkin
+- Monolit tizim faqat Windows uchun ishlatiladi
+To'g'ri: A
+
+Savol: Qaysi operatsion tizim mikroyadro arxitekturasidan foydalanadi? 
+
+- QNX 
+
+
+- DOS 
+
+
+- Windows XP 
+
+
+- Linux 
+To'g'ri: A
+
+
+
+Savol: Mikroyadro tizimida xizmatlarning ishlashi qanday tashkil etiladi?
+
+- Har bir xizmat alohida jarayon sifatida ishlaydi
+- Barcha xizmatlar yagona yadro ichida joylashadi
+- Faqat bitta jarayon ishlashi mumkin
+- Operatsion tizim grafik interfeyssiz ishlaydi
+To'g'ri: A
+
+Savol: Monolit yadroda xatoliklar qanday ta’sir qiladi? 
+
+- Barcha tizimga ta’sir qiladi va tizim ishdan chiqishi mumkin 
+
+
+- Xatolik faqat bitta jarayonga ta’sir qiladi 
+
+
+- Hech qanday ta’sir qilmaydi 
+
+
+- Faqat tarmoq xizmatlariga ta’sir qiladi 
+To'g'ri: A
+
+
+
+Savol: Mikroyadro tizimida xatoliklar qanday ta’sir qiladi? 
+
+- Xatolik faqat muayyan xizmatga ta’sir qiladi 
+
+
+- Butun tizim ishdan chiqadi 
+
+
+- Barcha jarayonlar to‘xtaydi 
+
+
+- Faqat grafik interfeys o‘chadi 
+To'g'ri: A
+
+
+
+Savol: Operatsion tizimlar uchun eng muhim omillar qaysilar? 
+
+- Ishonchlilik, tezlik, xavfsizlik va samaradorlik 
+
+
+- Faqat grafik interfeys 
+
+
+- Faqat tarmoq xizmatlari 
+
+
+- Faqat xotira hajmi 
+To'g'ri: A
+
+
+
+Savol: Arduino nima? 
+
+- Ochiq kodli apparat va dasturiy ta’minot platformasi 
+
+
+- Faqat grafik interfeysga ega bo‘lgan dastur 
+
+
+- Ish stoli kompyuterlari uchun mo‘ljallangan operatsion tizim 
+
+
+- Faqat robototexnikada ishlatiladigan dastur 
+To'g'ri: A
+
+
+
+Savol: Arduino loyihalarida ishlatiladigan asosiy dasturlash tili qaysi? 
+
+- C/C++ 
+
+
+- Python 
+
+
+- Java 
+
+
+- HTML 
+To'g'ri: A
+
+
+
+Savol: Arduino platalarida ishlatiladigan asosiy mikrokontroller qaysi?
+
+- Atmel (Microchip) AVR va ARM Cortex-M
+- Intel Core i7
+- AMD Ryzen
+- NVIDIA Tegra
+To'g'ri: A
+
+Savol: Arduino tizimi qanday dasturiy ta’minot yordamida dasturlanadi? 
+
+- Arduino IDE 
+
+
+- Microsoft Word 
+
+
+- Adobe Photoshop 
+
+
+- Windows Explorer 
+To'g'ri: A
+
+
+
+Savol: Arduino platalari qanday interfeys orqali kompyuterga ulanadi?
+
+- USB
+- HDMI
+- VGA
+- Ethernet
+To'g'ri: A
+
+Savol: Arduino Uno platasida qaysi mikrokontroller ishlatiladi? 
+
+- ATmega328P 
+
+
+- STM32F103 
+
+
+- ESP8266 
+
+
+- PIC16F877A 
+To'g'ri: A
+
+
+
+Savol: Arduino Mega 2560 platasining asosiy xususiyati nima?
+
+- Ko‘proq kirish-chiqarish pinlariga ega
+- O‘ta kichik o‘lchamga ega
+- Faqat Wi-Fi bilan ishlaydi
+- Faqat quvvatni boshqarish uchun ishlatiladi
+To'g'ri: A
+
+Savol: Qaysi Arduino modeli Wi-Fi bilan integratsiyalashgan? 
+
+- Arduino Uno WiFi 
+
+
+- Arduino Mega 
+
+
+- Arduino Nano 
+
+
+- Arduino Due 
+To'g'ri: A
+
+
+
+Savol: Arduino Due platasining asosiy afzalligi nima? 
+
+- ARM Cortex-M3 yadrosiga ega bo‘lishi 
+
+
+- Faqat LEDlarni boshqarish imkoniyati 
+
+
+- Juda kichik o‘lchamga ega bo‘lishi 
+
+
+- Faqat ma’lumot uzatish uchun ishlatilishi 
+To'g'ri: A
+
+
+
+Savol: Arduino Nano qanday ishlaydi? 
+
+- Arduino Uno'ning ixcham versiyasi bo‘lib, USB orqali dasturlanadi 
+
+
+- Faqat Wi-Fi moduli sifatida ishlaydi 
+
+
+- Faqat grafik interfeys uchun ishlatiladi 
+
+
+- Ko‘p yadroli protsessorni o‘z ichiga oladi 
+To'g'ri: A
+
+
+
+Savol: Arduino LilyPad qayerda ishlatiladi? 
+
+- Kiyim-kechakka tikiladigan elektron tizimlarda 
+
+
+- Sun’iy yo‘ldosh boshqaruvida 
+
+
+- Smartfon protsessorlarida 
+
+
+- Faqat televizor pultlarida 
+To'g'ri: A
+
+
+
+Savol: Arduino platalari qanday asosiy apparat interfeyslariga ega? 
+
+- Digital va analog pinlar, UART, SPI, I2C 
+
+
+- Faqat USB 
+
+
+- Faqat HDMI 
+
+
+- Faqat Bluetooth 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar uchun ARM arxitekturasining asosiy afzalligi nima? 
+
+- Kam quvvat sarfi va yuqori unumdorlik 
+
+
+- Juda qimmat bo‘lishi 
+
+
+- Faqat katta hajmdagi xotira talab qilishi 
+
+
+- Faqat katta hajmdagi grafik interfeyslarni qo‘llab-quvvatlashi 
+To'g'ri: A
+
+
+
+Savol: ARM arxitekturasiga asoslangan qaysi mikrokontrollerlar Arduino platalarida ishlatiladi? 
+
+- STM32, SAM3X8E 
+
+
+- Intel Pentium 
+
+
+- AMD Ryzen 
+
+
+- NVIDIA GPU 
+To'g'ri: A
+
+
+
+Savol: Arduino platalarida qanday dastur yozish mumkin? 
+
+- Mikrokontrollerga mos keladigan har qanday C/C++ kodi 
+
+
+- Faqat grafik interfeys dasturlari 
+
+
+- Faqat Linux operatsion tizimlarini boshqarish dasturlari 
+
+
+- Faqat JavaScript bilan ishlaydigan dasturlar 
+To'g'ri: A
+
+
+
+Savol: Arduino IDE qanday tilda yozilgan? 
+
+- Java 
+
+
+- Python 
+
+
+- HTML 
+
+
+- Bash Script 
+To'g'ri: A
+
+
+
+Savol: Arduino platalarida qaysi dasturlash modeli ishlatiladi?
+
+- Loop va Setup funksiyalaridan iborat
+- Faqat obyektga yo‘naltirilgan dasturlash
+- Faqat server-klient modeli
+- Faqat voqealarga asoslangan dasturlash
+To'g'ri: A
+
+Savol: Arduino orqali qanday sensorlarni ulash mumkin? 
+
+- Temperaturali, bosimli, namlik, harakat datchiklari 
+
+
+- Faqat video kameralar 
+
+
+- Faqat ovoz chiqaruvchi qurilmalar 
+
+
+- Faqat Wi-Fi modular 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda ARM protsessorlarining muhim xususiyati nima? 
+
+- Kam quvvat iste’mol qilishi va yuqori unumdorlik 
+
+
+- Faqat ma’lumotlarni saqlash uchun ishlatilishi 
+
+
+- Juda katta hajmda bo‘lishi 
+
+
+- Faqat grafik ishlov berish uchun ishlatilishi 
+To'g'ri: A
+
+
+
+Savol: Arduino bilan ishlovchi ARM protsessorli mikrokontrollerlar qaysilar? 
+
+- STM32F103, SAM3X8E 
+
+
+- Intel Core i5, Core i7 
+
+
+- AMD Ryzen 9, Ryzen 7 
+
+
+- NVIDIA Tegra X1 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda tashxislash (diagnostika) nima? 
+
+- Tizimning ishlashini tekshirish va muammolarni aniqlash jarayoni 
+
+
+- Faqat tizimga dastur yozish jarayoni 
+
+
+- Faqat apparat vositalarni ishlab chiqarish jarayoni 
+
+
+- Qurilmalarning elektr quvvati iste’molini hisoblash jarayoni 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarni tashxislashda qaysi vositalar ishlatiladi? 
+
+- Oscilloscope, Logic Analyzer, JTAG debuggers 
+
+
+- Faqat multimetr 
+
+
+- Faqat LED indikatorlar 
+
+
+- Faqat operatsion tizim 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda eng keng tarqalgan dasturiy tashxislash vositasi qaysi? 
+
+- GDB (GNU Debugger) 
+
+
+- Microsoft Word 
+
+
+- Photoshop 
+
+
+- VLC Media Player 
+To'g'ri: A
+
+
+
+Savol: Logic Analyzer qaysi maqsadda ishlatiladi? 
+
+- Raqamli signallarni tahlil qilish uchun 
+
+
+- Elektr toki kuchini o‘lchash uchun 
+
+
+- Analog signallarni tahlil qilish uchun 
+
+
+- Faoliyat vaqtini o‘lchash uchun 
+To'g'ri: A
+
+
+
+Savol: JTAG debuggers qanday ishlaydi? 
+
+- Mikrokontroller ichki registrlari va dasturlarini tahlil qilish uchun 
+
+
+- Faqat elektr toki o‘lchash uchun 
+
+
+- Faqat USB orqali ulanish uchun 
+
+
+- Faqat tarmoq signallarini tekshirish uchun 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda real vaqt tashxislash qanday amalga oshiriladi? 
+
+- Real vaqt operatsion tizimlari va maxsus diagnostika vositalari orqali 
+
+
+- Faqat LED indikatorlar yordamida 
+
+
+- Faqat elektr kuchlanishini o‘lchash orqali 
+
+
+- Barcha tizimni o‘chirib, qayta yoqish orqali 
+To'g'ri: A
+
+
+
+Savol: Debugging nima? 
+
+- Dasturdagi xatolarni topish va ularni tuzatish jarayoni 
+
+
+- Faqat kod yozish jarayoni 
+
+
+- Qurilmalarni elektr tarmog‘iga ulash jarayoni 
+
+
+- Qurilmalarning fizik o‘lchamlarini hisoblash jarayoni 
+To'g'ri: A
+
+
+
+Savol: Mikrokontrollerlarni tashxislashda Breakpoint nima uchun ishlatiladi? 
+
+- Dastur bajarilishini muayyan joyda to‘xtatish uchun 
+
+
+- Dastur kodining hajmini oshirish uchun 
+
+
+- Qurilmaning ishlash vaqtini pasaytirish uchun 
+
+
+- Signalni kuchaytirish uchun 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarni tashxislashning eng muhim bosqichi qaysi? 
+
+- Muammoni aniqlash va analiz qilish 
+
+
+- Faqat kod yozish 
+
+
+- Faqat quvvatni o‘lchash 
+
+
+- Tizimni qayta o‘rnatish 
+To'g'ri: A
+
+
+
+Savol: Tashxislash jarayonida real vaqt operatsion tizimlari qanday ahamiyatga ega? 
+
+- Ular tizimning ishlash vaqtini aniq o‘lchash imkonini beradi 
+
+
+- Faqat ma’lumotlarni saqlash uchun ishlatiladi 
+
+
+- Hech qanday ahamiyatga ega emas 
+
+
+- Faqat apparat sozlamalarini saqlash uchun ishlatiladi 
+To'g'ri: A
+
+
+
+Savol: Mikrokontrollerlar uchun eng keng tarqalgan tashxislash interfeysi qaysi? 
+
+- JTAG va SWD 
+
+
+- HDMI 
+
+
+- VGA 
+
+
+- Ethernet 
+To'g'ri: A
+
+
+
+Savol: Debugger nima?
+
+- Dastur bajarilishini nazorat qiluvchi va xatolarni topishga yordam beruvchi vosita
+- Qurilmalarni quvvat bilan ta’minlovchi qurilma
+- Qurilmalarni faqat ishlab chiqarish jarayoni
+- Tizimlarni qayta yoqish jarayoni
+To'g'ri: A
+
+Savol: O‘rnatilgan tizimlarning tashxislash jarayonida “Watchdog Timer” qanday ishlaydi? 
+
+- Tizim ishdan chiqsa, uni avtomatik qayta yuklash orqali muammoni bartaraf etadi 
+
+
+- Elektr quvvatini nazorat qiladi 
+
+
+- Internet ulanishini tekshiradi 
+
+
+- Faqat dasturiy ta’minotni yuklaydi 
+To'g'ri: A
+
+
+
+Savol: Mikrokontrollerlarni tashxislashda oscilloscope nima uchun ishlatiladi? 
+
+- Analog va raqamli signallarni ko‘rish va tahlil qilish uchun 
+
+
+- USB interfeysini tekshirish uchun 
+
+
+- Faqat tarmoq tezligini o‘lchash uchun 
+
+
+- Faqat dasturlarni yozish uchun 
+To'g'ri: A
+
+
+
+Savol: Qaysi debugging usuli eng kam invaziv hisoblanadi? 
+
+- JTAG va SWD interfeyslari orqali debugging 
+
+
+- Print statement debugging 
+
+
+- LED blinking debugging 
+
+
+- Dasturiy emulyatsiya orqali debugging 
+To'g'ri: A
+
+
+
+Savol: Mikrokontroller tizimlarida "Watchpoint" nima? 
+
+- Muayyan xotira maydoni o‘zgarishini kuzatish imkonini beruvchi debugging texnikasi 
+
+
+- Elektr quvvati nazorati tizimi 
+
+
+- Qurilma haroratini o‘lchovchi datchik 
+
+
+- Internet signalini kuchaytiruvchi moslama 
+To'g'ri: A
+
+
+
+Savol: Tashxislash jarayonida “Stepping” nima? 
+
+- Dastur bajarilishini bosqichma-bosqich tekshirish jarayoni 
+
+
+- Signal kuchaytirish usuli 
+
+
+- Elektr manbaini nazorat qilish texnikasi 
+
+
+- Faqat kodni kompilyatsiya qilish 
+To'g'ri: A
+
+
+
+Savol: Dasturiy debugging vositalari qaysilar? 
+
+- GDB, OpenOCD, Keil uVision 
+
+
+- Excel va Word 
+
+
+- Photoshop va AutoCAD 
+
+
+- Windows Media Player 
+To'g'ri: A
+
+
+
+Savol: Logic Analyzer yordamida qanday signallar tahlil qilinadi? 
+
+- Raqamli signallar 
+
+
+- Faqat audio signallar 
+
+
+- Faqat video signallar 
+
+
+- Faqat elektr kuchlanishi 
+To'g'ri: A
+
+
+
+Savol: Debugging jarayonida qaysi usul eng samarali hisoblanadi? 
+
+- JTAG debugging va real vaqt monitoring 
+
+
+- Faqat LED yordamida tekshirish 
+
+
+- Faqat qayta yuklash 
+
+
+- Qurilmani almashtirish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning dasturiy ta’minoti qanday qismlardan iborat? 
+
+- Tizimli, amaliy va instrumental dasturiy ta’minot 
+
+
+- Faqat tizimli dasturiy ta’minot 
+
+
+- Faqat amaliy dasturiy ta’minot 
+
+
+- Faqat instrumental dasturiy ta’minot 
+To'g'ri: A
+
+
+
+Savol: Tizimli dasturiy ta’minotning asosiy vazifasi nima? 
+
+- Tizimning apparat vositalari bilan ishlashini ta’minlash 
+
+
+- Faqat foydalanuvchi dasturlarini yaratish 
+
+
+- Faqat internetga ulanadigan ilovalarni boshqarish 
+
+
+- Faqat grafik interfeysni yaratish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar uchun eng mashhur tizimli dasturiy ta’minot turlaridan biri qaysi? 
+
+- Real vaqt operatsion tizimlari (RTOS) 
+
+
+- Photoshop 
+
+
+- Microsoft Office 
+
+
+- VLC Media Player 
+To'g'ri: A
+
+
+
+Savol: Amaliy dasturiy ta’minotning asosiy vazifasi nima? 
+
+- Foydalanuvchi va tizim ehtiyojlariga mos xizmatlarni ta’minlash 
+
+
+- Faqat operatsion tizimni boshqarish 
+
+
+- Faqat apparat vositalarni boshqarish 
+
+
+- Faqat internetga ulanishni ta’minlash 
+To'g'ri: A
+
+
+
+Savol: Instrumental dasturiy ta’minot nima uchun ishlatiladi? 
+
+- Dasturlarni ishlab chiqish va sinovdan o‘tkazish uchun 
+
+
+- Faqat ma’lumotlarni tahlil qilish uchun 
+
+
+- Faqat internetdan foydalanish uchun 
+
+
+- Faqat audio va video fayllarni qayta ishlash uchun 
+To'g'ri: A
+
+
+
+Savol: Qaysi dasturiy ta’minot turi operatsion tizim tarkibiga kiradi? 
+
+- Drayverlar, yadro va tizimli kutubxonalar 
+
+
+- Faqat grafik dasturlar 
+
+
+- Faqat ofis dasturlari 
+
+
+- Faqat antivirus dasturlari 
+To'g'ri: A
+
+
+
+Savol: Real vaqt operatsion tizimlari (RTOS) qanday tizimlar uchun zarur? 
+
+- Vaqt kritik bo‘lgan o‘rnatilgan tizimlar uchun 
+
+
+- Oddiy ofis kompyuterlarida ishlash uchun 
+
+
+- Faqat multimedia tizimlari uchun 
+
+
+- Faqat mobil qurilmalar uchun 
+To'g'ri: A
+
+
+
+Savol: Tizimli dasturiy ta’minotning tarkibiy qismlaridan biri bo‘lgan bootloaderning vazifasi nima? 
+
+- Operatsion tizimni yuklash 
+
+
+- Faqat internetga ulanish 
+
+
+- Faqat xotirani boshqarish 
+
+
+- Faqat grafik interfeysni yaratish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarning dasturiy ta’minoti qanday til yordamida yoziladi? 
+
+- C/C++, Python, Assembly 
+
+
+- Faqat HTML 
+
+
+- Faqat Microsoft Excel 
+
+
+- Faqat JavaScript 
+To'g'ri: A
+
+
+
+Savol: Dasturiy ta’minotni yaratish bosqichlari qanday? 
+
+- Talablarni aniqlash, loyihalash, dasturlash, sinov va integratsiya, foydalanish 
+
+
+- Faqat kod yozish 
+
+
+- Faqat ma’lumotlarni saqlash 
+
+
+- Faqat grafik interfeys yaratish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlar uchun dasturiy ta’minot loyihalashda qaysi jihatlar muhim? 
+
+- Xotira samaradorligi, tezkorlik va energiya iste’moli 
+
+
+- Faqat grafik dizayn 
+
+
+- Faqat foydalanuvchi interfeysi 
+
+
+- Faqat internetga ulanish tezligi 
+To'g'ri: A
+
+
+
+Savol: Amaliy dasturiy ta’minotga misol bo‘ladigan dasturlar qaysilar? 
+
+- Signalni qayta ishlash, avtomatlashtirish va monitoring dasturlari 
+
+
+- Faqat antivirus dasturlari 
+
+
+- Faqat matn muharrirlari 
+
+
+- Faqat video pleerlar 
+To'g'ri: A
+
+
+
+Savol: Tizimli dasturiy ta’minotning yadro (kernel) qismi qanday vazifani bajaradi? 
+
+- Resurslarni boshqarish va jarayonlarni taqsimlash 
+
+
+- Faqat rasm va videolarni qayta ishlash 
+
+
+- Faqat internet tarmog‘ini boshqarish 
+
+
+- Faqat matn tahrirlash 
+To'g'ri: A
+
+
+
+Savol: Dasturiy ta’minotni yaratishda testlashning asosiy maqsadi nima? 
+
+- Xatolarni aniqlash va tuzatish 
+
+
+- Faqat kod yozish tezligini oshirish 
+
+
+- Faqat grafik interfeys yaratish 
+
+
+- Faqat internetga ulanishni ta’minlash 
+To'g'ri: A
+
+
+
+Savol: Dasturiy ta’minotning texnik xizmat ko‘rsatish bosqichi nimani anglatadi? 
+
+- Dasturiy ta’minotni yangilash va xatolarni bartaraf etish 
+
+
+- Faqat dastur kodini o‘chirish 
+
+
+- Faqat dastur grafik interfeysini o‘zgartirish 
+
+
+- Faqat kompyuterning quvvat sarfini kamaytirish 
+To'g'ri: A
+
+
+
+Savol: Embedded Linux nima? 
+
+- O‘rnatilgan tizimlar uchun moslashtirilgan Linux distributivi 
+
+
+- Faqat mobil telefonlar uchun tizim 
+
+
+- Faqat Windows muhitida ishlaydi 
+
+
+- Faqat shaxsiy kompyuterlar uchun operatsion tizim 
+To'g'ri: A
+
+
+
+Savol: FreeRTOS nima? 
+
+- Ochiq kodli real vaqt operatsion tizimi 
+
+
+- Matn muharriri 
+
+
+- Internet tarmog‘ini boshqaruvchi dastur 
+
+
+- Grafik dastur 
+To'g'ri: A
+
+
+
+Savol: Dasturiy ta’minotning interfeys qismi qanday maqsadda ishlatiladi? 
+
+- Foydalanuvchilar va tizim o‘rtasida aloqa o‘rnatish uchun 
+
+
+- Faqat xotira boshqarish uchun 
+
+
+- Faqat protsessor yuklanishini tekshirish uchun 
+
+
+- Faqat internetga ulanish uchun 
+To'g'ri: A
+
+
+
+Savol: Tizimli dasturiy ta’minotning muhim komponentlaridan biri bu...
+
+- Drayverlar
+- Faqat video pleer
+- Faqat ofis dasturlari
+- Faqat audio dasturlar
+To'g'ri: A
+
+Savol: Kompilyator qanday vazifani bajaradi? 
+
+- Dastur kodini mashina kodiga aylantirish 
+
+
+- Faqat internet tarmog‘ini nazorat qilish 
+
+
+- Faqat matn tahrirlash 
+
+
+- Faqat video yaratish 
+To'g'ri: A
+
+
+
+Savol: O‘rnatilgan tizimlarda aktuator nima vazifani bajaradi? 
+
+- Elektr signalni mexanik yoki fizik harakatga aylantiradi 
+
+
+- Ma’lumotni saqlaydi 
+
+
+- Signalni o‘lchaydi 
+
+
+- Dastur kodini bajaradi 
+To'g'ri: A
+
+
+
+Savol: Aktuatorlarga misol qaysi? 
+
+- Servo motor 
+
+
+- Sensor 
+
+
+- ADC 
+
+
+- EEPROM 
+To'g'ri: A
+
+
+
+Savol: PWM (Pulse Width Modulation) nima uchun ishlatiladi?
+
+- Quvvat va tezlikni boshqarish uchun
+- Ma’lumot uzatish uchun
+- Xotira boshqarish uchun
+- Interrupt yaratish uchun
+To'g'ri: A
+
+Savol: PWM asosan qaysi qurilmalarni boshqarishda ishlatiladi? 
+
+- Motor va LED 
+
+
+- Xotira 
+
+
+- Sensor 
+
+
+- Protsessor 
+To'g'ri: A
+
+
+
+Savol: Embedded tizimlarda watchdog reset qachon yuz beradi?
+
+- Dastur javob bermaganda
+- Normal ishlaganda
+- Sensor ishlaganda
+- Quvvat ko‘payganda
+To'g'ri: A
+
+Savol: Bare-metal dasturlash nima? 
+
+- Operatsion tizimsiz to‘g‘ridan-to‘g‘ri apparatda dasturlash 
+
+
+- RTOS bilan ishlash 
+
+
+- Linux ishlatish 
+
+
+- Virtual muhit 
+To'g'ri: A
+
+
+
+Savol: Bare-metal tizimlarning afzalligi nimada? 
+
+- Minimal kechikish va yuqori tezlik 
+
+
+- Katta grafik imkoniyat 
+
+
+- Internet qo‘llab-quvvatlashi 
+
+
+- Katta xotira 
+To'g'ri: A
+
+
+
+Savol: RTOS va bare-metal o‘rtasidagi asosiy farq nima? 
+
+- Task boshqaruvi va rejalashtirish mavjudligi 
+
+
+- Xotira turi 
+
+
+- Sensor turi 
+
+
+- Quvvat manbai 
+To'g'ri: A
+
+
+
+Savol: Embedded tizimlarda polling nima? 
+
+- Qurilma holatini doimiy tekshirib turish usuli 
+
+
+- Uzilish mexanizmi 
+
+
+- Xotira boshqaruvi 
+
+
+- Reset mexanizmi 
+To'g'ri: A
+
+
+
+Savol: Pollingning asosiy kamchiligi nimada? 
+
+- Protsessor vaqtini samarasiz ishlatishi 
+
+
+- Murakkablik 
+
+
+- Xotira ko‘pligi 
+
+
+- Dastur yozish qiyinligi 
+To'g'ri: A
+
+
+
+Savol: Interrupt-based boshqaruvning afzalligi nimada? 
+
+- Protsessor vaqtini tejaydi 
+
+
+- Doimiy tekshiruv 
+
+
+- Sekin ishlaydi 
+
+
+- Katta xotira talab qiladi 
+To'g'ri: A
+
+
+
+Savol: Edge-triggered interrupt nimani anglatadi? 
+
+- Signal o‘zgarish lahzasida ishlaydi 
+
+
+- Doimiy signal 
+
+
+- Faqat past darajada 
+
+
+- Faqat yuqori darajada 
+To'g'ri: A
+
+
+
+Savol: Level-triggered interrupt xususiyati? 
+
+- Signal darajasi saqlanib turganda faol bo‘ladi 
+
+
+- O‘zgarishda ishlaydi 
+
+
+- Faqat bir marta ishlaydi 
+
+
+- Faqat timer uchun 
+To'g'ri: A
+
+
+
+Savol: Embedded tizimlarda debounce nima? 
+
+- Mexanik tugma shovqinini filtrlash 
+
+
+- Xotira tozalash 
+
+
+- Signal kuchaytirish 
+
+
+- Quvvat boshqarish 
+To'g'ri: A
+
+
+
+Savol: Debounce qaysi qurilmada muhim?
+
+- Tugmalar (button)
+- ADC
+- UART
+- EEPROM
+To'g'ri: A
+
+Savol: Cross-compilation nima? 
+
+- Bir platformada yozib, boshqa platforma uchun kompilyatsiya qilish 
+
+
+- Bir xil platformada 
+
+
+- Virtual mashina 
+
+
+- Emulyatsiya 
+To'g'ri: A
+
+
+
+Savol: Cross-compiler nimaga kerak? 
+
+- Embedded protsessor uchun kod yaratish 
+
+
+- Grafika uchun 
+
+
+- Sensor o‘qish uchun 
+
+
+- Internet uchun 
+To'g'ri: A
+
+
+
+Savol: Embedded tizimlarda latency nimani bildiradi?
+
+- Hodisaga javob berish kechikishi
+- Tezlik
+- Xotira
+- Chastota
+To'g'ri: A
+
+Savol: Jitter tushunchasi nimani anglatadi? 
+
+- Vaqt javobining o‘zgaruvchanligi 
+
+
+- O‘rtacha tezlik 
+
+
+- Xotira xatosi 
+
+
+- Signal kuchayishi 
+To'g'ri: A
+
+
+
+Savol: Deterministik tizim nima?
+
+- Bir xil sharoitda bir xil javob beradi
+- Tasodifiy ishlaydi
+- Internetga bog‘liq
+- Grafik tizim
+To'g'ri: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MULTIMEDIALI ALOQA TIZIMLARI MULTIMEDIALI ALOQA TIZIMLARI MULTIMEDIALI ALOQA TIZIMLARIMULTIMEDIALI ALOQA TIZIMLARIMULTIMEDIALI ALOQA TIZIMLARI
+
+
+
+
+
+
+
+
+Savol: Infokommunikatsiya xizmatlarining vazifasi nima uchun belgilangan? 
+
+- Global axborotlashgan infrastrukturadagi axborot resurslariga imkoniylik uchun 
+
+
+- Ovoz signallarini uzatish uchun 
+
+
+- Ma’lumotlarni uzatish uchun 
+
+
+- Ma’lumot va ovoz signallarini uzatish uchun 
+To'g'ri: A
+
+
+
+Savol: An’anaviy aloqa tarmog‘i xizmatlarining infokommunikatsiya xizmatlaridan farqi? 
+
+- Infokommunikatsiya xizmatlari OSI modelining yuqori sathida amalga oshiriladi, aloqa xizmatlari tarmoq sathida bo‘ladi klient va server qismlarining borligi, klient qismi foydalanuvchi qurilmasida, server qismi-xizmat tugunida va ulanishning murakkabligi va aniq konfig 
+
+
+- Infokommunikatsiya xizmatlari OSI modelining yuqori sathida amalga oshiriladi, aloqa xizmatlari esa tarmoq sathida bo‘ladi 
+
+
+- Klient va server qismlarining borligi, klient qismi foydalanuvchi qurilmasida, server qismi-xizmat tugunida 
+
+
+- Ulanishning murakkab ko‘p aniqlikdagi konfiguratsiyasi 
+To'g'ri: A
+
+
+
+Savol: Quyidagi talablarni qaysi xizmat turiga kiritish mumkin: “mobillik”,“tez va aniq qurish imkoniyligi”, “kafolatlangan sifatli xizmat”? 
+
+- Yangi turdagi aloqa xizmatiga 
+
+
+- Sotali tarmoq xizmatiga 
+
+
+- Infokommunikatsiya xizmatlariga 
+
+
+- Aloqa xizmatlariga 
+To'g'ri: A
+
+
+
+Savol: Tarmoq qurilishiga asosiy talab nimadan iborat(xizmat turlarini tashkil etuvchi no‘qtai nazaridan)? 
+
+- Tarmoqning sodda tadbiq etilishi 
+
+
+- Konfiguratsiyali qurilmalarga 
+
+
+- xizmat turlarini tashkil etuvchilar qurilmalaring birgalikda ishlashi 
+
+
+- Bitta ishlab chiqaruvchining qurilmalari 
+To'g'ri: A
+
+
+
+Savol: “Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas” ligini qanday tushunish mumkin? 
+
+- Multiservislik 
+
+
+- Keng polosalik 
+
+
+- Invariant imkoniylik 
+
+
+- Ko‘p operatorlik 
+To'g'ri: A
+
+
+
+Savol: “Keng polosali tarmoq” terminini qanday tushunish mumkin? 
+
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati 
+
+
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas 
+
+
+- Murakkab konfiguratsiyali ulanishni ishlatish va real vaqtda kerakli sinxronizatsiya bilan tarmoqning ko‘p komponentli axborotlarni uzatish qobiliyati (ovozli,ma’lumotlar, video,audio) 
+
+
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati 
+To'g'ri: A
+
+
+
+Savol: Murakkab konfiguratsiyali ulanishni ishlatish va real vaqtda kerakli sinxronizatsiya bilan tarmoqning ko‘p komponentli axborotlarini uzatish qobiliyati (ovozli,ma’lumotlar, video,audio) deganda nima tushuniladi? 
+
+- Multimediyalik 
+
+
+- Invariant imkoniylik 
+
+
+- Multiservislik 
+
+
+- Keng polosalik 
+To'g'ri: A
+
+
+
+Savol: “Tarmoq intellektualligi” termini ostida nima tushuniladi? 
+
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati 
+
+
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas 
+
+
+- Bir nechta operatorlarning xizmatlarni berish jarayonida va ularning faoliyat turiga qarab javobgarligini bo‘lishishda ishtiroki imkoniyati 
+
+
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati 
+To'g'ri: A
+
+
+
+Savol: “Invariantlik imkoniyati” termini ostida nima tushuniladi? 
+
+- Ishlatilayotgan texnologiyalardan qat’iy nazar xizmat turlariga imkoniylikni tashkil etish 
+
+
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati 
+
+
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas 
+
+
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati 
+To'g'ri: A
+
+
+
+Savol: NGN tarmog‘ida “Ko‘p operatorlik” termini ostida nima tushuniladi? 
+
+- Bir nechta operatorlarning xizmatlarni berish jarayonida va ularning faoliyat turiga qarab javobgarligini bo‘lishishda ishtiroki imkoniyati 
+
+
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas 
+
+
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati 
+
+
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati 
+To'g'ri: A
+
+
+
+Savol: Qaysi tarmoqlarning bazaviy prinsipi qayta uzatish va kommutatsiya funksiyalarini, chaqiriqlarni boshqarish va xizmatlarni boshqarish funksiyalarini bir biridan ajratadi? 
+
+- Keyingi avlod tarmoqlari (NGN) 
+
+
+- UFTfT 
+
+
+- Sotali tarmoqlar 
+
+
+- An’anaviy tarmoqlar 
+To'g'ri: A
+
+
+
+Savol: Keyingi avlod tarmoqlari berayotgan bazaviy xizmat turlariga nimalarni ajratish mumkin? 
+
+- Ikkita terminal o‘rtasida Keyingi avlod tarmog‘i (KAT) fragmentini ishlatib ulash o‘rnatishga yo‘naltirilgan xizmat turlari 
+
+
+- Qo‘shimcha ro‘yxat imkoniyatlarini qo‘llashga yo‘naltirilgan xizmat turlari 
+
+
+- KAT fragmenti elementlari tomonidan VPN ishlashini tashkil etish va qo‘llab quvvatlashga yo‘naltirilgan xizmat turlari 
+
+
+- KAT fragmenti tomonidan multimediya ilovalarini ishlashini ta’minlash va qo‘llab quvvatlashga yo‘naltirilgan xizmat turlari 
+To'g'ri: A
+
+
+
+Savol: Keyingi avlod tarmoqlari konsepsiyasi bazaviy prinsipi nama? 
+
+- Qayta uzatish va kommutatsiya funksiyalarini chaqiriqlarni boshqarish va xizmatlarni boshqarish funksiyalarini bir-biridan ajratish 
+
+
+- Qayta uzatish, kommutatsiya va chaqiriqlarni boshqarish funksiyalarini bir-biridan ajratish 
+
+
+- Chaqiriqlarni boshqarish va xizmatlarni boshqarish funksiyalarini bir-biridan ajratish 
+
+
+- Chaqiriqlarni boshqarish va qayta uzatish funksiyalarini bir-biridan ajratish 
+To'g'ri: A
+
+
+
+Savol: Xizmatlarni boshqarish darajasi nimadan tarkib topgan? 
+
+- xizmatlar mantiqini boshqarish funksiyalaridan 
+
+
+- Ilovalarni boshqarish funksiyalaridan 
+
+
+- Kommutatsiyani boshqarish funksiyalaridan 
+
+
+- Signallarni boshqarish funksiyasi 
+To'g'ri: A
+
+
+
+Savol: Xizmatlarni boshqarish darajasi funksiyalarini toping? 
+
+- Xizmat turlaridan qat’iy nazar boshqarish funksiyalari 
+
+
+- Kommutatsiyani boshqarish funksiyalaridan 
+
+
+- Ilovalarni boshqarish funksiyalari 
+
+
+- Imkoniylikni boshqarish funksiyalari 
+To'g'ri: A
+
+
+
+Savol: Qaysi daraja transport tarmog‘i va kirish tarmog‘i turiga bog‘liqsiz xizmatlar spesifikasi va bir xil xizmatlar mantiqiy dasturini qo‘llashni tadbiq etadi? 
+
+- Xizmatlarni boshqarish darajasi 
+
+
+- Transport darajasi 
+
+
+- Imkoniylik darajasi 
+
+
+- Kommutatsiyani boshqarish darajasi 
+To'g'ri: A
+
+
+
+Savol: Qaysi daraja qayta ishlash va trafikni marshrutlash uchun kerak bo‘ladigan mantiqiy boshqarishni qo‘llab quvvatlaydi? 
+
+- Kommutatsiyani boshqarish darajasi 
+
+
+- Imkoniylik darajasi 
+
+
+- Xizmatlarni boshqarish darajasi 
+
+
+- Transport darajasi 
+To'g'ri: A
+
+
+
+Savol: Imkoniylik darajasida qaysi texnologiya ishlatiladi? 
+
+- Wi-Fi, WiMAX; DOCSIS, DVB; xDSL; optik tolali PON texnologiyalari 
+
+
+- CORBA SOAP INAP, CAMEL, SIP 
+
+
+- JAIN, Parlay, OSA xDSL; optik tolali PON texnologiyalari 
+
+
+- SOAP INAP, CAMEL xDSL; Wi-Fi, WiMAX; 
+To'g'ri: A
+
+
+
+Savol: Qaysi protokollar NGN tarmog‘ining signal protokollari hisoblanadi? 
+
+- SIP, H.323, SIGTRAN, MEGACO/H.248, MGCP, SCTP, ISUP, BICC, SCCP, INAP 
+
+
+- BICC, SCCP, IP, ICMP, TCP, UDP, SIP 
+
+
+- RIP, IGRP, OSPF, H.323, SIGTRAN, MEGACO/H.248 
+
+
+- FTP, SMTP,BICC, SCCP LDAP, SNMP, SIP, H.323 
+To'g'ri: A
+
+
+
+Savol: Qaysi protokollar NGN tarmog‘ining xizmatlar protokollari hisoblanadi? 
+
+- FTP, SMTP, HTTP, kodeklar G.711, G.728 
+
+
+- BICC, SCCP, IP, TCP, UDP, SIP 
+
+
+- FTP, SMTP BICC, SCCP SIP, H.323 
+
+
+- Kodeklar G.711, G.728, H.323, SIGTRAN, MEGACO/H.248 
+To'g'ri: A
+
+
+
+Savol: Dasturiy kommutator (Softswitch) nima vazifani bajaradi.? 
+
+- uning domeniga ulanadigan foydalanuvchilarning abonent ma’lumotlarini to‘g‘ridan-to‘g‘ri yoki imkoniylik shlyuzlari orqali saqlash va boshqarish 
+
+
+- Tarmoq foydalanuvchilariga kengaytirilgan ro‘yxatli xizmatlarini ko‘rsatish uchun ilovalar serverlari bilan o‘zaro ishlash 
+
+
+- ma’lumotlarini to‘g‘ridan-to‘g‘ri yoki imkoniylik shlyuzlari orqali saqlash 
+
+
+- Billing tizimini tadbiq etish, uning domenida ishlatilayotgan hamma tur signalizatsiyalarga ishlov berish 
+To'g'ri: A
+
+
+
+Savol: Tarmoqlarning qaysi darajasiga quyidagi talablarni kiritish mumkin: tugun qurilmalarining yuqori ishonchliligi; trafikni boshqarish funksiyalarini qo‘llab quvvatlash, yaxshi masshtablilik? 
+
+- Transport darajasiga 
+
+
+- Imkoniylik darajasiga 
+
+
+- Kommutatsiyani boshqarish darajasiga 
+
+
+- Xizmatlarni boshqarish darajasiga 
+To'g'ri: A
+
+
+
+Savol: xDSL texnologiyasi qaysi darajada ishlatiladi? 
+
+- Imkoniylik darajasida 
+
+
+- Transport darajasida 
+
+
+- Kommutatsiyani boshqarish darajasida 
+
+
+- Xizmatlarni boshqarish darajasida 
+To'g'ri: A
+
+
+
+Savol: Transport darajasining vazifasi nima? 
+
+- Kommutatsiya va foydalanuvchiga axborotni to‘g‘ridan to‘g‘ri uzatish 
+
+
+- Qayta uzatish, kommutatsiya va chaqiriqlarni boshqarish funksiyalarini bir-biridan ajratish 
+
+
+- Tarmoq foydalanuvchilariga kengaytirilgan ro‘yxatli xizmatlarini ko‘rsatish uchun ilovalar serverlari bilan o‘zaro ishlash 
+
+
+- Hamma turdagi signalizatsiyani qayta ishlash 
+To'g'ri: A
+
+
+
+Savol: Multimediyali ilovalar uchun qaysi protokol asosiy transport protokoli hisoblanadi? 
+
+- RTP 
+
+
+- TCP 
+
+
+- RTCP 
+
+
+- IP 
+To'g'ri: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Savol: N.323 tarmog‘i tarkibiga qaysi qurilmalar kiradi?
+
+- N.323 terminali, gatekeeper (privratnik), shlyuz, ko‘p aniqlikli MCU konferensiyalarini boshqarish qurilmasi
+- Foydalanuvchi agentlari, proksi-serverlar va qaytamanzillash serverlari
+- Media Gateway MG shlyuzi, shlyuzlar nazoratchisi -Call Agent, signalizatsiya shlyuzi - Signaling Gateway SG
+- N.323 terminali, gatekeeper (zonalar nazoratchisi), qaytamanzillash serveri
+To'g'ri: A
+
+Savol: RAS signalizatsiyasini olib tashlangan holda N.323 protokoli ma’lumotlari qaysi paket turiga joylashtiriladi?
+
+- TCP/IP/Ethernet
+- RTP/UDP/IP
+- RTSP/UDP/IP
+- UDP/IP/Ethernet
+To'g'ri: A
+
+Savol: N.323 protokoli RAS signalizatsiyasi ma’lumotlari qaysi paket turiga joylashtiriladi?
+
+- UDP/IP/Ethernet
+- RTSP/UDP/IP
+- RTP/UDP/IP
+- TCP/IP/Ethernet
+To'g'ri: A
+
+Savol: SIP-tarmog‘ida SIP-so‘rovlarini kim ishlab chiqadi?
+
+- foydalanuvchi agenti - klient (User Agent Client – UAC)
+- Qayta manzillashtirish serveri (redirect server)
+- Joylashuv serveri (location server)
+- foydalanuvchi agenti -server (User Agent Server – UAS)
+To'g'ri: A
+
+Savol: SIP tarmog‘i tarkibiga qanday qurilmalar kiradi?
+
+- SIP klientlari, proksi-serverlar va qaytamanzillashtirish serveri, joylashuv joyini aniqlash serveri
+- terminal, gatekeeper (zonlar nazoratchisi), shlyuz, ko‘p aniqlikli MCU konferensiyalarini boshqarish qurilmasi
+- SIP klientlari, shlyuz Media Gateway MG, shlyuzlar nazoratchisi -Call Agent, signalizatsiya shlyuzi - Signaling Gateway SG
+- proksi-serverlar, gatekeeper (zonalar nazoratchisi), qaytamanzillash serveri, SIP klientlari
+To'g'ri: A
+
+Savol: SIP tarmog‘ining qaysi elementi foydalanuvchining kunlik manzilini saqlash uchun xizmat qiladi?
+
+- qayta manzillashtirish serveri
+- Joylashuv joyini aniqlash serveri
+- proksi-server
+- SIP terminali
+To'g'ri: A
+
+Savol: SIP tarmog‘ining qaysi elementi chaqiriqqa xizmat ko‘rsatishni boshqaradi ?
+
+- proksi-server
+- SIP terminali
+- qaytamanzillashtirish serveri
+- funksiya tarmoq elementlari o‘rtasida tarqatilgan
+To'g'ri: A
+
+Savol: MGCP protokolida shlyuz alohida qaysi funksional bloklarga bo‘lingan?
+
+- Transport shlyuzi, signalizatsiya shlyuzi, boshqaruv qurilmasi
+- signalizatsiya shlyuz – Signaling Gateway
+- Boshqaruv qurilmasi – Call Agent
+- transport shlyuzi – Media Gateway
+To'g'ri: A
+
+Savol: OKS7 signalizatsiya tizimida qaysi qurilma tranzit punkti vazifasini bajaradi?
+
+- signalizatsiya shlyuzi
+- transport shlyuzi
+- signalizatsiya shlyuzi va transport shlyuzi
+- signalizatsiya shlyuzi va boshqaruv qurilmasi
+To'g'ri: A
+
+Savol: IUA adaptatsiya protokoli nimani qo‘llab quvvatlaydi?
+
+- birlamchi va bazoviy imkoniylik ISDN
+- R2 signalizatsiyani uzatish
+- foydalanuvchining ma’lumotlarini uzatish
+- R1 signalizatsiyani uzatish
+To'g'ri: A
+
+Savol: Qaysi protokol bitta MTR2 zvenoni emulyatsiya qilishni ta’minlaydi?
+
+- M2UA
+- BICC
+- M3UA
+- IUA
+To'g'ri: A
+
+Savol: Softswitch bu ..........?
+
+- Kommutatsiyani boshqarish va axborotni uzatish funksiyasini va signalizatsiya funksiyasini o‘zgartirishni tadbiq etuvchi qurilma
+- Signalizatsiya funksiyasini o‘zgartirishni tadbiq etuvchi transport shlyuzi
+- Kommutatsiyani boshqarish va axborotni uzatish funksiyasini tadbiq etuvchi asosiy qurilma
+- Signalizatsiya funksiyasini o‘zgartirishni tadbiq etuvchi qurilma
+To'g'ri: A
+
+Savol: Turli manbaalardan tushayotgan chaqiriqlarga xizmat ko‘rsatishda Softswitchning quvvatini nima bilan tushuntirish mumkin?
+
+- Signal axborotlarining tushish xarakteri va ularning hajmiga hamda signal axborotlariga ishlov berish uchun yozilgan algoritmlariga asosan
+- Signal axborotlariga ishlov berish uchun yozilgan algoritmlariga asosan
+- Signal axborotlarining tushish xarakteri va ularning hajmiga asosan
+- Foydalanish trafigining turli hajmiga asosan
+To'g'ri: A
+
+Savol: Shlyuzlar qurilmasi nimani bajaradi?
+
+- Transport kanallari axborotini IP paketlarga o‘zgartirish funksiyasini, paketlar kommutatsiyasi bilan signal axborotlarini paketli tarmoq signal axborotiga o‘zgartirish funksiyasini bajaradi
+- Kommutatsiyani boshqarish darajasi va axborotlarni uzatish funksiyasini
+- Paketlar kommutatsiyasi bilan signal axborotlarini paketli tarmoq signal axborotiga o‘zgartirish funksiyasini bajaradi
+- Transport kanallari axborotini IP paketlarga o‘zgartirish funksiyasini bajaradi
+To'g'ri: A
+
+Savol: Shlyuzning qaysi turi bir vaqtda MG va SG funksiyalarini bajaradi?
+
+- tranking shlyuzi Trunking Gateway TGW
+- signal shlyuzi Signaling Gateway SG transpor shlyuzi Media Gateway MG
+- Imkoniylik shlyuzi Access Gateway AGW
+- Rezident imkoniylik shlyuzi Residential Access Gateway RAGW
+To'g'ri: A
+
+Savol: Paketli tarmoqda so‘zlashuv va multimediya xizmatlarini taqdim etuvchi qurilma qanday nomlanadi?
+
+- terminal qurilma
+- signalizatsiya shlyuz
+- Call Agent
+- Media Gateway
+To'g'ri: A
+
+Savol: Qaysi qurilma xizmatlar darajasidagi funksiyani bajaradi?
+
+- ilovalar serveri
+- Marshrutizator
+- Softswitch
+- Shlyuz
+To'g'ri: A
+
+Savol: IPCC konsorsiumi ishlab chiqgan Softswitch etalon arxitekturasining funksional tekisliklarini sanab bering?
+
+- transport, chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish, xizmatlar va ilovalar, ekspluatatsiyani boshqarish
+- transport, chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish, xizmatlar va ilovalar, xizmatlar i tarifikatsiya
+- xizmatlar va ilovalar, xizmatlar i tarifikatsiya, ekspluatatsiyani boshqarish, boshqarish va xizmat ko‘rsatish
+- imkoniylik,transport, chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish, xizmatlar va ilovalar
+To'g'ri: A
+
+Savol: Qaysi funksional tekislik aloqa tarmog‘i bo‘yicha ma’lumotlarni transportirovkasiga javob beradi?
+
+- transport
+- ekspluatatsiyani boshqarish
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish
+- Xizmatlar va ilovalar
+To'g'ri: A
+
+Savol: Transport tekisligidagi qaysi domen IP-telefoniya tarmog‘i orqali paketlarni transportirovka qilish uchun marshrutlashni va magistral tarmoqni qo‘llab quvvatlaydi?
+
+- IP protokoli bo‘yicha transportirovka qilish domeni
+- IP dan farqli imkoniylik domeni
+- O‘zaro harakat domeni
+- Transportirovka domeni
+To'g'ri: A
+
+Savol: Qaysi funksional tekislik qo‘shni tekislikdan tushayotgan signal ma’lumotlari asosida chaqiriqqa xizmat ko‘rsatishni hamda tarmoq bo‘yicha foydalanuvchi ma’lumotlarini uzatish uchun ulash va ajratishni boshqaradi?
+
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish
+- ekspluatatsiyani boshqarish
+- transport
+- Xizmatlar va ilovalar
+To'g'ri: A
+
+Savol: Qaysi funksional tekislikda Application Servers ilovalar serveri va qo‘shimcha xizmatlar serveri Feature Servers joylashgan ?
+
+- Xizmatlar va ilovalar tekisligida
+- ekspluatatsiyani boshqarish tekisligida
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish tekisligida
+- Transport tekisligida
+To'g'ri: A
+
+Savol: Qaysi funksional tekislik abonentlarni qo‘shish/ajratish, billing va tarmoq texnik ekspluatatsiyasining boshqa funksiyalarini qo‘llab quvvatlaydi?
+
+- ekspluatatsiyani boshqarish
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish
+- Xizmatlar va ilovalar
+- transport
+To'g'ri: A
+
+Savol: IAD imkoniylik integrallashgan qurilmasi qaysi funksiyalarni tadbiq etadi?
+
+- UFTfT terminal qurilmalari va ma’lumotlar uzatish terminallarini ulash, abonentning signal axborotlarini qayta ishlash, kanalli va paketli tarmoq orasida foydalaniladigan axborot oqimlarini o‘zgartirish
+- So‘zlashuv axborotlarini raqamliga o‘zgartirish, abonentning signal axborotlarini qayta ishlash
+- Analog telefonlarni ulash, abonentning signal axborotlarini qayta ishlash
+- Ethernet lokal tarmog‘i qurilmalarini ulash, kanalli va paketli tarmoq orasida foydalaniladigan axborot oqimlarini o‘zgartirish
+To'g'ri: A
+
+Savol: Softswitchni oxirgi taqsimlash stansiyasi sifatida qo‘llanilganda foydalaniladigan ulanishni kommutatsiyasi bo‘yicha funksiyani kim ta’minlaydi?
+
+- imkoniylik shlyuzi yoki IP-konsentratorlar (IP/H.323-telefonlar bo‘lganda)
+- Softswitch
+- shlyuzlarni boshqarish nazoratchisi (SIP/H.323-telefon bo‘lganda)
+- Konsentratorlar
+To'g'ri: A
+
+Savol: Aloqa tarmog‘i deb nimaga aytiladi?
+
+- Aloqa tizimining bir qismi bo‘lib, ma’lum bir belgisi bo‘yicha ajratilgan va abonentlar o‘rtasida axborot almashish uchun yaratilgan aloqa liniyalari va tugunlari majmuasidan iborat
+- aloqa tarmog‘i qurilmalari majmuasi
+- Umumiy boshqarish va ta’minlash bilan aloqa tarmog‘i qurilmalari majmuasi
+- Raqamli ma’lumotlar va matnlar, tovushli ma’lumotlar ko‘rinishida uzluksiz ma’lumotlarni uzatishni ta’minlaydigan aloqaga aytiladi
+To'g'ri: A
+
+Savol: Telekommunikatsiya tarmoqlarini qanday ierarxik darajalarga ajratish mumkin?
+
+- foydalanuvchi xonasidagi tarmoq, abonent kirish tarmog‘i,transport tarmog‘i
+- aloqa tarmog‘i
+- abonent kirish tarmog‘i, Maxalliy tarmoq
+- foydalanuvchi xonasidagi tarmoq,transport tarmog‘i
+To'g'ri: A
+
+Savol: Telekommunikatsiya tarmoqlari qanday omillarga ko‘ra sinflanadi?
+
+- uzatilayotgan axborot turi, axborot uzatish tezligi, kommutatsiya turi, egallagan xududi, aloqa kanali turi bo‘yicha
+- tarmoq resurslariga kirish usullari, uzatilayotgan axborot turi, kommutatsiya tezligi, egallagan xududi, aloqa kanali bo‘yicha
+- axborot uzatish tezligi, xududni tuzish usullari, aloqa kanali turi, aloqa kanali turi, tarmoq resurslariga kirish usullari
+- aloqa tarmog‘i qurilmalari bo‘yicha
+To'g'ri: A
+
+Savol: Transport tarmog‘i deganda nimani tushunish kerak?
+
+- uzatish tizimlari resurslarining yig‘indisi(kanallar, traktlar, seksiyalar yoki uzatish uchastkalari), ularga tegishli boshqaruv vositalari, operativ o‘tish, belgilangan punktlar oralig‘ida ma’lumot uzatishda rezervlash va boshqaruv
+- elektraloqa tarmog‘ini va uning xizmatlarini boshqarishda elektraloqa tarmog‘i komponentlari orasida o‘zaro aloqani tashkil qilish
+- Chastota polosasida elektraloqa signallarini uzatish yoki uzatish tizimini mos tezligini ta’minlovchi texnik vositalar majmui
+- boshqaruv vositalari, operativ o‘tish, belgilangan punktlar oralig‘ida ma’lumot uzatishda rezervlash va boshqaruv
+To'g'ri: A
+
+Savol: Transport tarmoqlarida OSI modelining qaysi darajalari ishlatiladi?
+
+- fizik va kanal
+- kanal va transport
+- fizik va tarmoq
+- Amaliy
+To'g'ri: A
+
+Savol: Transport tarmoqlarinig qanday modellari mavjud?
+
+- ATM, SDH, OTN, Ethernet
+- ATM, SDH, xDSL Ethernet
+- OSI
+- SONET
+To'g'ri: A
+
+Savol: Zamonaviy telekommunikatsiya tarmog‘i qanday darajalarga bo‘linadi?
+
+- Transport va kommutatsiyalanadigan tarmoq
+- Birlamchi va ikkilamchi tarmoq
+- Foydalanuvchi tarmog‘i va magistral tarmoq
+- Birlamchi tarmoq
+To'g'ri: A
+
+Savol: Liniya trakti deb nimaga aytiladi?
+
+- Chastota polosasida elektraloqa signallarini uzatish yoki uzatish tizimini mos tezligini ta’minlovchi texnik vositalar majmui
+- Aloqa tarmog‘iga xizmat qilish uchun qurilgan vositalar
+- Transport tarmog‘iga xizmat qilish uchun qurilgan vositalar
+- Xabarni ishonchli yetib borishini ta’minlovchi vositalar majmui
+To'g'ri: A
+
+Savol: Qanday model eng yuqori transport resursini ta’minlashi mumkin
+
+- OTN
+- SDH
+- ATM
+- PDH
+To'g'ri: A
+
+Savol: Transport tarmog‘ining qanday qurilmasi raqamli signalni qo‘shish yoki ajratish uchun mo‘ljallangan?
+
+- ADM multipleksori
+- Terminal multipleksor
+- Kross konnektor
+- Konnektor
+To'g'ri: A
+
+Savol: Bugungi kunda transport tarmog‘inig qanday topologiyasi eng dolzarb hisoblanadi?
+
+- ”halqa” Topologiyasi
+- “daraxtsimon” topologiya
+- “to‘g‘ri zanjir” topologiyasi
+- ”yulduz” topologiyasi
+To'g'ri: A
+
+Savol: Qanday sinxron transport moduli ma’lumotni 2488.320 Mbit/s tezlikda uzatishni ta’minlaydi?
+
+- STM-16
+- STM-64
+- STM-4
+- STM-1
+To'g'ri: A
+
+Savol: Qanday tarmoq kirish tarmog‘i deyiladi?
+
+- Transport tarmog‘i oxirgi tugunlariga terminal qurilmalarni bog‘lanishini ta’minlaydigan tarmoq
+- Turli xildagi ma’lumotlarni uzatishda xar hil protokollarni ishlatishni ta’minlaydigan tarmoq
+- Transport tarmog‘i oxirgi tugunlariga turli xildagi ma’lumotlarni uzatishni ta’minlaydigan tarmoq
+- turli xildagi ma’lumotlarni uzatishni ta’minlaydigan tarmoq
+To'g'ri: A
+
+Savol: Ana’naviy abonent kirish tarmog‘i texnologiya bazasida o‘zgartirish sababi nima?
+
+- barcha javoblar to‘g‘ri
+- multipleksorlash tizimining murakkablashishi, shlyuzlash va foydalanuvchi terminallari va magistral tarmoq tugunlari o‘rtasida ma’lumotlarni uzatish
+- bitta terminaldagi yuklamaning ortishi va shu yuklama statik xususiyatlarining o‘zgarishi; paketli transport texnologiyalariga bosqichma-bosqich o‘tish
+- Simsiz abonent kirish(WLL) tadbiq qilinishi; optik tolali kabel narxining tushishi; kirish tarmog‘i ekspluatatsiya xarajatlarining kamayishiga bo‘lgan talab;
+To'g'ri: A
+
+Savol: OLT nima?
+
+- OLT-stansiyada joylashgan optik liniya terinali
+- OLT-yuqori tezlikdagi ma’lumotlarni uzatish
+- OLT-telefon tarmog‘i
+- OLT-kirish tomondagi optik tarmoq bloki
+To'g'ri: A
+
+Savol: ONU nima?
+
+- ONU- kirish tomondagi optik tarmoq bloki
+- ONU- stansiyada joylashgan optik liniya terinali
+- ONU-yuqori tezlikdagi abonent liniyasi
+- ONU-ulovchi tarmoq kabeli
+To'g'ri: A
+
+Savol: MSAN dagi momaqaldiroqdan ximoya qiluvchi qurilma vazifasi nimadan iborat?
+
+- manba tizimini o‘zgaruvchan tokning momaqaldiroq natijasidagi kuchlanishning ortib ketishidan ximoyalash
+- o‘zgaruvchan tokni doimiy tokka o‘zgartirgich sifatida
+- Tashqi manbalardan begona elektr manbasi tushishidan ximoyalash
+- ONU shkafini yomg‘irdan himoyalash
+To'g'ri: A
+
+Savol: MSAN dagi oldindan ximoyalovchi nimaga xizmat qiladi?
+
+- yuqori kuchlanishdan ximoyalash va tok ortganda avariya signalizatsiyasi vazifasini bajarishga xizmat qiladi
+- abonent liniyasi kuchlanishini oshirishga xizmat qiladi
+- o‘zgaruvchan tokni doimiy tokka o‘zgartirgich sifatida
+- abonent liniyasiga tokni uzatishni ta’minlaydi
+To'g'ri: A
+
+Savol: MSAN dagi manbani taqsimlovchi blok nima uchun xizmat qiladi?
+
+- doimiy tok kirishidagi yuklamani ortib ketishini ximoyalashda ishlatiladi, qisqa tutashuv yoki doimiy tok chiqishidagi yuklamani ortib ketishi ximoyalashda ishlatiladi
+- doimiy tokni o‘zgaruvchan tokka o‘zgartirish uchun ishlatiladi
+- Momaqaldiroq kuchlanishining ortib ketishidan himoyalash
+- Elektrenergiya manbasi uzilganda manbani ta’minlovchi qurilma sifatida ishlatiladi
+To'g'ri: A
+
+Savol: MSAN dagi issiqlik sozlovchi blok nimalarni o‘z ichiga oladi?
+
+- Xavo konditsioneri yoki issiqlik almashuv
+- Ventilatsion shaxta
+- Momaqaldiroqdan himoya bloki
+- Manbani taqsimlovchi blok	
+To'g'ri: A
+
+Savol: SDH interfeysi turlarini keltiring
+
+- STM-1,STM-4, STM-16, STM-64
+- STM-16,STM-10,STM-8,STM-64
+- STM-4, STM-5, STM-6, STM-64
+- STM-1, STM-2, STM-3, STM-64
+To'g'ri: A
+
+Savol: MSAN taqdim etadigan xizmatlarni tanlang?
+
+- Multimedia va ovoz xizmati, ma’lumotlarni uzatish xizmati, Centrex, xavfsizlik xizmatlari
+- Centrex, xavfsizlik xizmatlari
+- Ovoz xizmati, ma’lumotlarni uzatish xizmati
+- Multimedia xizmatlari
+To'g'ri: A
+
+Savol: .....-bu real vaqt davomida IP protokoli asosida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+
+- IP-telefoniya yoki VoIP
+- VoIP
+- Internet-telefoniya
+- IP-telefoniya
+To'g'ri: A
+
+Savol: ….- bu real vaqt davomida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+
+- Internet-telefoniya
+- VoIP
+- IP-telefoniya ili VoIP
+- IP-telefoniya
+To'g'ri: A
+
+Savol: IP-telefoniya texnologiyasiga berilgan ta’rifni aniqlang?
+
+- real vaqt davomida IP protokoli asosida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+- Korporativ tarmoqlarda telefon xabarlarini uzatish uchun mo‘ljallangan texnologiya
+- real vaqt davomida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+- Teskari chaqiruvli (call back) va kam narxli marshrutlash
+To'g'ri: A
+
+
+
+
+
+Savol: Voice-over-IP texnologiyasiga berilgan ta’rifni aniqlang?
+
+- real vaqt davomida IP protokoli asosida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+- real vaqt davomida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+- Teskari chaqiruvli (call back) va kam narxli marshrutlash
+- Korporativ tarmoqlarda telefon xabarlarini uzatish uchun mo‘ljallangan texnologiya
+To'g'ri: A
+
+Savol: Internet-telefoniya texnologiyasiga berilgan ta’rifni aniqlang?
+
+- real vaqt davomida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+- Korporativ tarmoqlarda telefon xabarlarini uzatish uchun mo‘ljallangan texnologiya
+- Teskari chaqiruvli (call back) va kam narxli marshrutlash
+- real vaqt davomida IP protokoli asosida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+To'g'ri: A
+
+Savol: IP-telefoniya tarmog‘ida qanday turdagi ulanish(ulash o‘rnatish) qo‘llaniladi?
+
+- telefon- telefon,kompyuter- telefon,web-brauzer- telefon, kompyuter- kompyuter
+- kompyuter-kompyuter, telefon- telefon, kompyuter- telefon, web-brauzer- telefon
+- kompyuter-kompyuter, telefon- telefon, kompyuter- telefon, telefon-faks
+- Kompyuter-faks, telefon- telefon, kompyuter- telefon, telefon-faks
+To'g'ri: A
+
+Savol: Paketli tarmoqda ovozni uzatishda paketli gapni qayta ishlash qanday bosqichlarga bo‘linadi?
+
+- 1-ovozni raqamlash, 2-raqamlashtirilgan ma’lumotni kopresslash, 3-paketlarga ajratish va protokol ma’lumotini qo‘shish, 4-tarmoqqa yuborish
+- 1-ovozni raqamlash, 2-aproksimatsiya algoritmini qo‘shish, 3-paketlarga ajratish va protokol ma’lumotini qo‘shish, 4-tarmoqqa yuborish
+- 1-paketlarga ajratish va protokol ma’lumotini qo‘shish, 2-ovozni raqamlash, 3-raqamlashtirilgan ma’lumotni kopresslash, 4-tarmoqqa yuborish
+- 1-ovozni raqamlash, 2-raqamlashtirilgan ma’lumotni kopresslash, 3-paketlarga ajratish va protokol ma’lumotini qo‘shish, 4-tarmoqqa yuborish
+To'g'ri: A
+
+Savol: Qabul qilingan paketdan ovozli ma’lumotni ajratib olish ketma-ketligi to‘g‘ri keltirilgan javobni aniqlang?
+
+- 1-qabul qiluvchi terminalida ovozli paketlarni tartib ketma-ketligini tekshirish, 2-vaqtinchalik paketlarni jamlash, 3-aproksimatsiya algoritmini qo‘shish, 4-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish
+- 1-qabul qiluvchi terminalida raqamlashtilirgan ma’lumotni kompresserlash, 2-vaqtinchalik paketlarni jamlash, 3-aproksimatsiya algoritmini qo‘shish, 4-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish
+- 1-aproksimatsiya algoritmini qo‘shish, 2-qabul qiluvchi terminalida ovozli paketlarni tartib ketma-ketligini tekshirish, 3-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish, 4-vaqtinchalik paketlarni jamlash
+- 1-qabul qiluvchi terminalida ovozli paketlarni tartib ketma-ketligini tekshirish, 2-aproksimatsiya algoritmini qo‘shish, 3-paketlarga ajratish va protokol ma’lumotini qo‘shish, 4-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish
+To'g'ri: A
+
+Savol: Qabul qiluvchi terminalida paketlarni vaqtinchalik jamlash nima uchun amalga oshiriladi?
+
+- paketlarni boshlang‘ich ketma-ketligini va sinxronizatsiyani tiklash uchun
+- aproksimatsiya algoritmini qo‘shish uchun
+- Ma’lumotlarni audio-signalga o‘zgartirish va dekompresslash
+- Axborot uzatish uchun
+To'g'ri: A
+
+Savol: Qabul qiluvchi terminalida aproksimatsiya algoritmi nima uchun qo‘llaniladi?
+
+- paketlarni manzilga oborishda me’yoridan oshgan kechikish va yo‘qotilgan paketlarni taqribiy tiklash uchun
+- Paketlarni uzatish uchun
+- vaqtinchalik paketlarni jamlash, Ma’lumotlarni audio-signalga o‘zgartirish va dekompresslash uchun
+- paketlarni boshlang‘ich ketma-ketligini va sinxronizatsiyani tiklash uchun
+To'g'ri: A
+
+Savol: Qabul qiluvchi terminalda qanday ovozli paketlar uchun aproksimatsiya algoritmi ishlatiladi?
+
+- paketlarni manzilga oborishda me’yoridan oshgan kechikish va yo‘qotilgan paketlar uchun
+- Raqamlashtirilgan ma’lumotdan tashkil topgan siqilgan paketlar uchun
+- Raqamlashtirilgan qulay shovqin va pauza(to‘xtalish) ma’lumotidan tashkil topgan siqilgan paketlar
+- H.323,SIP protokoli siqilgan paketlari uchun
+To'g'ri: A
+
+Savol: SIP so‘zining kengaytmasini aniqlang?
+
+- Session Initiation Protocol
+- Subscriber Integreted Protocol
+- Session Integrated Protocol
+- Service Initiation Protocol
+To'g'ri: A
+
+Savol: IP-telefoniya arxitekturasiga nima sababli SIP protokoli kiritilgan?
+
+- H.323 signalizatsiya tizimining murakkab va o‘ta qiyinligi
+- H.321 signalizatsiya tizimining murakkab va o‘ta qiyinligi
+- Boshlang‘ich arxitektura xalaqit bardoshligini oshirish uchun
+- Boshlang‘ich arxitekturada sifat mexanizmi ta’minlanmaganligi
+To'g'ri: A
+
+Savol: SIP-klient nima?
+
+- Klient va server o‘rtasida aloqani ta’minlaydigan oxirgi nuqtadagi dastur
+- SIP xizmatidan foydalanuvchi jismoniy yoki yuridik shaxs
+- Xabarni manzillash uchun mo‘ljallangan dasturiy-apparat tizimi
+- manzilga ega bo‘lgan dasturiy-apparat tizim sip:ism@domen sip:telefon raqami@shlyuz
+To'g'ri: A
+
+Savol: SIP protokoli qanday rejimda ishlaydi?
+
+- so‘rov/javob
+- ha/yo‘q
+- buyruq/javob
+- boshliq/bo‘ysunuvchi
+To'g'ri: A
+
+Savol: Proksi-server qanday vazifani bajaradi?
+
+- SIP klientdan so‘rovlarni qabul qiladi, qayta ishlaydi va so‘rovning turiga qarab aniq xarakatni amalga oshiradi
+- Odatda foydalanilgan ma’lumotdan tashkil topgan bo‘ladi va klientga murojaat qilinganda aniq xarakatlarni amalga oshiradi
+- Manzillash
+- Paketlarni retranslyatsiyalash
+To'g'ri: A
+
+Savol: Qayta manzillash serveri nima uchun mo‘ljallangan?
+
+- chaqirilayotgan abonentning xozirgi manzilini aiqlash uchun
+- Barcha manzillar va psevdonim manzillarni xotirada saqlash uchun
+- Abonent raqami xaqida ovozli xabar yuborish uchun
+- Paketni qabul qilish va manzilga retranslyatsiya qilish uchun
+To'g'ri: A
+
+Savol: OSI modelining qaysi pog‘onasiga SIP protokolini kiritish mumkin?
+
+- Amaliy
+- Taqdimot
+- Kanal
+- Tarmoq
+To'g'ri: A
+
+Savol: SIP protokoli qaysi tashkilotning ishlanmasi hisoblanadi?
+
+- IETF
+- ETSI
+- ITU-T
+- TIPSAN
+To'g'ri: A
+
+Savol: Qaysi texnologiya SIP protokolini transport sifatida ishlatadi?
+
+- X.25, Frame Relay, IP
+- IP
+- Frame Relay
+- X.25
+To'g'ri: A
+
+Savol: SIP protokoli kamchiliklarini keltiring
+
+- kafolatlangan xizmat ko‘rsatish sifati mexanizmining yo‘lga qo‘yilmaganligi
+- Tarmoq resurslaridan foydalanish boshqaruvi va hisobi mexanizmining yo‘lga qo‘yilmaganligi
+- kafolatlangan xizmat ko‘rsatish sifati mexanizmining yo‘lga qo‘yilmaganligi va Tarmoq resurslaridan foydalanish boshqaruvi va hisobi mexanizmining yo‘lga qo‘yilmaganligi
+- foydalanish boshqaruvi mexanizmining yo‘lga qo‘yilmaganligi
+To'g'ri: A
+
+Savol: MGCP uchun qaysi tamoyil asosiy hisoblanadi?
+
+- shlyuzlarni dekompoziyalash tamoyili
+- Shlyuzlarni markazlashtirish tamoyili
+- shlyuzlarni ro‘yxatdan o‘tkazish tamoyili
+- foydalanish boshqaruvi tamoyili
+To'g'ri: A
+
+Savol: Qanday shlyuz MGCP shlyuzi xisoblanmaydi?
+
+- qayta manzillash shlyuzi
+- media shlyuz
+- signalizatsiya shlyuzi
+- Shlyuzlarni boshqarish qurilmasi
+To'g'ri: A
+
+Savol: MGCP protokoliga yangi signalizatsiya protokolini qo‘shish uchun o‘zgartirish kiritsh kerak.....
+
+- shlyuzlarni boshqarish qurilmasi
+- foydalanishni boshqaruvi
+- transport shlyuzi
+- signalizatsiya shlyuzi
+To'g'ri: A
+
+Savol: MGCP dagi media shlyuz vazifasini ko‘rsating?
+
+- UfTT tomonidan tushayotgan bir xil tezlikdagi ovozli ma’lumotni IP paketli manzillash tarmog‘iga yaroqli ko‘rinishda o‘zgartirish vazifasini bajaradi, va aksincha
+- shlyuzlarni boshqarish vazifasini bajaradi
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va siganlli ma’lumotni teskari yo‘nalishda uzatadi
+- foydalanish boshqaruvini bajaradi
+To'g'ri: A
+
+Savol: MGCP dagi shlyuzlar boshqaruvi vazifasini ko‘rsating
+
+- shlyuzlarni boshqarish vazifasini bajaradi
+- UfTT tomonidan tushayotgan bir xil tezlikdagi ovozli ma’lumotni IP paketli manzillash tarmog‘iga yaroqli ko‘rinishda o‘zgartirish vazifasini bajaradi, va aksincha
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va siganlli ma’lumotni teskari yo‘nalishda uzatadi
+- foydalanish boshqaruvi va hisobi mexanizmi vazifasi
+To'g'ri: A
+
+Savol: MGCP dagi signalizatsiya shlyuzi vazifasini ko‘rsating
+
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va siganlli ma’lumotni teskari yo‘nalishda uzatadi
+- ma’lumotni teskari yo‘nalishda uzatadi
+- shlyuzlarni boshqarish vazifasini bajaradi
+- UfTT tomonidan tushayotgan bir xil tezlikdagi ovozli ma’lumotni IP paketli manzillash tarmog‘iga yaroqli ko‘rinishda o‘zgartirish vazifasini bajaradi, va aksincha
+To'g'ri: A
+
+Savol: MGCP dagi Call Agent vazifasini keltiring?
+
+- shlyuzlarni boshqarish vazifasini bajaradi
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va signalli ma’lumotni teskari yo‘nalishda uzatadi
+- signalli ma’lumotni teskari yo‘nalishda uzatadi
+- Ovozli ma’lumotni RTP/UDP/IP paketlariga joylashtirish va koderlash vazifasini va teskari o‘zgartirishni bajarish
+To'g'ri: A
+
+Savol: .....-bu real vaqt davomida IP protokoli asosida halqaro, shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya?
+
+- IP-telefoniya  yoki  VoIP
+- Global-telefoniya
+- Internet-telefoniya
+- IP-telefoniya
+To'g'ri: A
+
+Savol: “Invariantlik imkoniyati” termini ostida nima tushuniladi?
+
+- Ishlatilayotgan texnologiyalardan qat’iy nazar xizmat turlariga imkoniylikni tashkil etish
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati
+To'g'ri: A
+
+Savol: “Keng polosali tarmoq” terminini qanday tushunish mumkin?
+
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati
+- Murakkab konfiguratsiyali ulanishni ishlatish va real vaqtda kerakli sinxronizatsiya bilan tarmoqning ko‘p komponentli axborotlarni uzatish qobiliyati (ovozli,ma’lumotlar, video,audio)
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas
+To'g'ri: A
+
+Savol: “Tarmoq intellektualligi” termini ostida nima tushuniladi?
+
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas
+- Bir nechta operatorlarning xizmatlarni berish jarayonida va ularning faoliyat turiga qarab javobgarligini bo‘lishishda ishtiroki imkoniyati
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati
+To'g'ri: A
+
+Savol: “Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas” ligini qanday tushunish mumkin?
+
+- Multiservislik
+- Ko‘p operatorlik
+- Invariant imkoniylik
+- Keng polosalik
+To'g'ri: A
+
+Savol: ….- bu real vaqt davomida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya?
+
+- Internet-telefoniya
+- IP-telefoniya
+- IP-telefoniya ili VoIP
+- Global-telefoniya
+To'g'ri: A
+
+Savol: IAD imkoniylik integrallashgan qurilmasi qaysi funksiyalarni tadbiq etadi?
+
+- UFTfT terminal qurilmalari va ma’lumotlar uzatish terminallarini ulash, abonentning signal axborotlarini qayta ishlash, kanalli va paketli tarmoq orasida foydalaniladigan axborot oqimlarini o‘zgartirish
+- So‘zlashuv axborotlarini raqamliga o‘zgartirish, abonentning signal axborotlarini qayta ishlash
+- Analog telefonlarni ulash, abonentning signal axborotlarini qayta ishlash
+- Ethernet lokal tarmog‘i qurilmalarini ulash, kanalli va paketli tarmoq orasida foydalaniladigan axborot oqimlarini o‘zgartirish
+To'g'ri: A
+
+Savol: IPCC konsorsiumi ishlab chiqgan Softswitch etalon arxitekturasining funksional tekisliklarini sanab bering.
+
+- transport, chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish, xizmatlar va ilovalar, ekspluatatsiyani boshqarish
+- transport, chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish, xizmatlar va ilovalar, xizmatlar i tarifikatsiya
+- xizmatlar va ilovalar, xizmatlar i tarifikatsiya, ekspluatatsiyani boshqarish, boshqarish va xizmat ko‘rsatish
+- imkoniylik, transport, chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish, xizmatlar va ilovalar
+To'g'ri: A
+
+Savol: IP-telefoniya arxitekturasiga nima sababli SIP protokoli kiritilgan?
+
+- H.323 signalizatsiya tizimining murakkab va o‘ta qiyinligi
+- Paketlarni taqribiy tiklash uchun
+- Boshlang‘ich architektura xalaqit bardoshligini oshirish uchun
+- Boshlang‘ich architekturada sifat mexanizmi ta’minlanmaganligi
+To'g'ri: A
+
+Savol: IP-telefoniya tarmog‘ida qanday turdagi ulanish(ulash o‘rnatish) qo‘llaniladi?
+
+- telefon- telefon, kompyuter- telefon, web-brauzer- telefon, kompyuter- kompyuter
+- kompyuter-kompyuter, telefon- telefon, kompyuter- telefon, web-brauzer- telefon
+- kompyuter-kompyuter, telefon- telefon, kompyuter- telefon, telefon-faks
+- Kompyuter-faks, telefon- telefon, kompyuter- telefon, telefon-faks
+To'g'ri: A
+
+Savol: IP-telefoniya texnologiyasiga berilgan ta’rifni aniqlang?
+
+- real vaqt davomida IP protokoli asosida halqaro, shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+- korporativ tarmoqlarda telefon xabarlarini uzatish uchun mo‘ljallangan texnologiya
+- real vaqt davomida halqaro, shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+- teskari chaqiruvli (call back) va kam narxli marshrutlash
+To'g'ri: A
+
+Savol: IUA adaptatsiya protokoli nimani qo‘llab quvvatlaydi?
+
+- birlamchi va bazoviy imkoniylik ISDN (PRA i BRA)
+- R2 signalizatsiyani uzatish
+- foydalanuvchining ma’lumotlarini uzatish
+- R1 signalizatsiyani uzatish
+To'g'ri: A
+
+Savol: MGCP dagi Call Agent vazifasini keltiring?
+
+- shlyuzlarni boshqarish vazifasini bajaradi
+- Ovozli ma’lumotni RTP/UDP/IP paketlariga joylashtirish va koderlash vazifasini va teskari o‘zgartirishni bajarish
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va siganlli ma’lumotni teskari yo‘nalishda uzatadi
+- shlyuzlarni to‘g‘ri taqsim vazifasini bajaradi
+To'g'ri: A
+
+Savol: MGCP dagi media shlyuz vazifasini ko‘rsating?
+
+- UfTT tomonidan tushayotgan bir xil tezlikdagi ovozli ma’lumotni IP paketli manzillash tarmog‘iga yaroqli ko‘rinishda o‘zgartirish vazifasini bajaradi, va aksincha
+- shlyuzlarni boshqarish vazifasini bajaradi
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va siganlli ma’lumotni teskari yo‘nalishda uzatadi
+- shlyuzlarni to‘g‘ri taqsimlash vazifasini bajaradi
+To'g'ri: A
+
+Savol: MGCP dagi signalizatsiya shlyuzi vazifasini ko‘rsating
+
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va signalli ma’lumotni teskari yo‘nalishda uzatadi
+- UfTT tomonidan tushayotgan bir xil tezlikdagi ovozli ma’lumotni IP paketli manzillash tarmog‘iga yaroqli ko‘rinishda o‘zgartirish vazifasini bajaradi, va aksincha
+- shlyuzlarni boshqarish vazifasini bajaradi
+- barcha javoblar to‘g‘ri
+To'g'ri: A
+
+Savol: MGCP dagi shlyuzlar boshqaruvi vazifasini ko‘rsating
+
+- UfTT tomonidan tushayotgan bir xil tezlikdagi ovozli ma’lumotni IP paketli manzillash tarmog‘iga yaroqli ko‘rinishda o‘zgartirish vazifasini bajaradi, va aksincha
+- shlyuzlarni boshqarish vazifasini bajaradi
+- UfTT tomonidan shlyuzlar boshqaruviga tushayotgan signalli ma’lumotni manzilga oborishni ta’minlaydi va siganlli ma’lumotni teskari yo‘nalishda uzatadi
+- shlyuzlarni to‘g‘ri taqsimlash vazifasini bajaradi
+To'g'ri: A
+
+Savol: MGCP protokoliga yangi signalizatsiya protokolini qo‘shish uchun o‘zgartirish kiritish kerak?
+
+- shlyuzlarni boshqarish qurilmasi
+- media shlyuzi
+- transport shlyuzi
+- signalizatsiya shlyuzi
+To'g'ri: A
+
+Savol: MGCP uchun qaysi tamoyil asosiy hisoblanadi?
+
+- shlyuzlarni dekompoziyalash tamoyili
+- shlyuzlarni markazlashtirish tamoyili
+- shlyuzlarni ro‘yxatdan o‘tkazish tamoyili
+- shlyuzlarni nazorat qilish tamoyili
+To'g'ri: A
+
+Savol: MSAN dagi issiqlik sozlovchi blok nimalarni o‘z ichiga oladi?
+
+- Xavo konditsioneri yoki issiqlik almashuv
+- Ventilatsion shaxta
+- Momaqaldiroqdan himoya bloki
+- Manbani taqsimlovchi blok
+To'g'ri: A
+
+Savol: MSAN dagi manbani taqsimlovchi blok nima uchun xizmat qiladi?
+
+- doimiy tok manbai kirishidagi yuklamani ortib ketishini ximoyalashda ishlatiladi, qisqa tutashuv yoki doimiy tok manbai chiqishidagi yuklamani ortib ketishidan ximoyalashda ishlatiladi
+- domimiy tokni o‘zgaruvchan tokka o‘zgartirish uchun ishlatiladi
+- momaqaldiroq kuchlanishining ortib ketishidan himoyalash
+- elektrenergiya manbasi uzilganda manbani ta’minlovchi qurilma sifatida ishlatiladi
+To'g'ri: A
+
+Savol: MSAN dagi momaqaldiroqdan ximoya qiluvchi qurilma vazifasi nimadan iborat?
+
+- manba tizimini o‘zgaruvchan tokning momaqaldiroq natijasidagi kuchlanishning ortib ketishidan ximoyalash
+- o‘zgaruvchan tokni doimiy tokka o‘zgartirgich sifatida
+- tashqi manbalardan begona elektr manbasi tushishidan ximoyalash
+- ONU shkafini yomg‘irdan himoyalash
+To'g'ri: A
+
+Savol: MSAN dagi oldindan ximoyalovchi nimaga xizmat qiladi?
+
+- yuqori kuchlanishdan ximoyalash va tok ortganda avariya signalizatsiyasi vazifasini bajarishga xizmat qiladi
+- abonent liniyasi kuchlanishini oshirishga xizmat qiladi
+- o‘zgaruvchan tokni doimiy tokka o‘zgartirgich sifatida
+- abonent liniyasiga tokni uzatishni ta’minlaydi
+To'g'ri: A
+
+Savol: NGN tarmog‘ida “Ko‘p operatorlik” termini ostida nima tushuniladi?
+
+- Bir nechta operatorlarning xizmatlarni berish jarayonida va ularning faoliyat turiga qarab javobgarligini bo‘lishishda ishtiroki imkoniyati
+- Xizmat turlarini beruvchi texnologiyaning transport texnologiyasidan bog‘liq emas
+- Foydalanuvchi va xizmatni beruvchi tomonidan xizmatlarni,chaqiriqlarni va ulanishlarni boshqarish imkoniyati
+- Foydalanuvchilarning kunlik ehtiyojiga nisbatan axborot uzatish tezligining keng diapazonda dinamik va aniq o‘zgarish imkoniyati
+To'g'ri: A
+
+Savol: OLT nima?
+
+- OLT-stansiyada joylashgan optik liniya terinali
+- OLT-yuqori tezlikdagi ma’lumotlarni uzatish
+- OLT-telefon tarmog‘i
+- OLT-kirish tomondagi optik tarmoq bloki
+To'g'ri: A
+
+Savol: ONU nima?
+
+- ONU- stansiyada joylashgan optik liniya terinali
+- ONU- kirish tomondagi optik tarmoq bloki
+- ONU-yuqori tezlikdagi abonent liniyasi
+- ONU-ulovchi tarmoq kabeli
+To'g'ri: A
+
+
+
+Savol: OSI modelining qaysi pog‘onasiga SIP protokolini kiritish mumkin?
+
+- Amaliy
+- Taqdimot
+- Kanal
+- Tarmoq
+To'g'ri: A
+
+Savol: RAS signalizatsiyasini olib tashlangan holda N.323 protokoli ma’lumotlari qaysi paket turiga joylashtiriladi?
+
+- TCP/IP/Ethernet
+- RTP/UDP/IP
+- RTSP/UDP/IP
+- UDP/IP/Ethernet
+To'g'ri: A
+
+Savol: SDH interfeysi turlarini keltiring?
+
+- STM-1,STM-4, STM-16, STM-64
+- STM-16,STM-10,STM-8,STM-64
+- STM-4, STM-5, STM-6, STM-64
+- STM-1, STM-2, STM-3, STM-64
+To'g'ri: A
+
+Savol: SIP protokoli kamchiliklarini keltiring?
+
+- kafolatlangan xizmat ko‘rsatish sifati mexanizmining yo‘lga qo‘yilmaganligi
+- tarmoq resurslaridan foydalanish boshqaruvi va hisobi mexanizmining yo‘lga qo‘yilmaganligi
+- kafolatlangan xizmat ko‘rsatish sifati mexanizmining yo‘lga qo‘yilmaganligi va tarmoq resurslaridan foydalanish boshqaruvi va hisobi mexanizmining yo‘lga qo‘yilmaganligi
+- rejalashtirishda xizmat ko‘rsatish sifati mexanizmining yo‘lga qo‘yilmaganligi
+To'g'ri: A
+
+Savol: SIP protokoli qaysi tashkilotning ishlanmasi hisoblanadi?
+
+- IETF
+- ETSI
+- ITU-T
+- TIPSAN
+To'g'ri: A
+
+Savol: SIP protokoli qanday rejimda ishlaydi?
+
+- Session Initiation Protocol
+- Subscriber Integreted Protocol
+- Session Integrated Protocol
+- Service Initiation Protocol
+To'g'ri: A
+
+Savol: SIP tarmog‘i tarkibiga qanday qurilmalar kiradi?
+
+- SIP klientlari, proksi-serverlar va qaytamanzillashtirish serveri, joylashuv joyini aniqlash serveri
+- terminal, gatekeeper (zonlar nazoratchisi), shlyuz, ko‘p aniqlikli MCU konferensiyalarini boshqarish qurilmasi
+- SIP klientlari, shlyuz Media Gateway MG, shlyuzlar nazoratchisi -Call Agent, signalizatsiya shlyuzi - Signaling Gateway SG
+- proksi-serverlar, gatekeeper (zonalar nazoratchisi), qaytamanzillash serveri, SIP klientlari
+To'g'ri: A
+
+Savol: SIP tarmog‘ining qaysi elementi foydalanuvchining kunlik manzilini saqlash uchun xizmat qiladi?
+
+- qaytamanzillashtirish serveri
+- SIP terminali
+- joylashuv joyini aniqlash serveri
+- proksi-server
+To'g'ri: A
+
+Savol: SIP tarmog‘ining qaysi elementi chaqiriqqa xizmat ko‘rsatishni boshqaradi?
+
+- proksi-server
+- qayta manzillashtirish serveri
+- funksiya tarmoq elementlari o‘rtasida tarqatilgan
+- SIP terminali
+To'g'ri: A
+
+Savol: SIP-klient nima?
+
+- Klient va server o‘rtasida aloqani ta’minlaydigan oxirgi nuqtadagi dastur
+- SIP xizmatidan foydalanuvchi jismoniy yoki yuridik shaxs
+- Xabarni manzillash uchun mo‘ljallangan dasturiy-apparat tizimi
+- manzilga ega bo‘lgan dasturiy-apparat tizim sip:ism@domen sip:telefon raqami@shlyuz
+To'g'ri: A
+
+Savol: SIP-tarmog‘ida SIP-so‘rovlarini kim ishlab chiqadi?
+
+- Foydalanuvchi agenti - klient (User Agent Client – UAC)
+- Joylashuv serveri (location server)
+- foydalanuvchi agenti -server (User Agent Server – UAS)
+- Qaytamanzillashtirish serveri (redirect server)
+To'g'ri: A
+
+Savol: Softswitch bu ..........
+
+- Kommutatsiyani boshqarish va axborotni uzatish funksiyasini va signalizatsiya funksiyasini o‘zgartirishni tadbiq etuvchi qurilma
+- Signalizatsiya funksiyasini o‘zgartirishni tadbiq etuvchi qurilma
+- Kommutatsiyani boshqarish va axborotni uzatish funksiyasini tadbiq etuvchi asosiy qurilma
+- Signalizatsiya funksiyasini o‘zgartirishni tadbiq etuvchi transport shlyuzi
+To'g'ri: A
+
+Savol: Softswitchni oxirgi taqsimlash stansiyasi sifatida qo‘llanilganda foydalaniladigan ulanishni kommutatsiyasi bo‘yicha funksiyani kim ta’minlaydi?
+
+- imkoniylik shlyuzi yoki IP-konsentratorlar (IP/H.323-telefonlar bo‘lganda)
+- Softswitch
+- shlyuzlarni boshqarish nazoratchisi (SIP/H.323-telefon bo‘lganda)
+- shlyuzlar taqsimlagichi (SIP/H.323-telefon bo‘lganda)
+To'g'ri: A
+
+Savol: Voice-over-IP texnologiyasiga berilgan ta’rifni aniqlang?
+
+- real vaqt davomida IP protokoli asosida halqaro, shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+- real vaqt davomida halqaro, shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+- teskari chaqiruvli (call back) va kam narxli marshrutlash
+- korporativ tarmoqlarda telefon xabarlarini uzatish uchun mo‘ljallangan texnologiya
+To'g'ri: A
+
+Savol: xDSL texnologiyasi qaysi darajada ishlatiladi?
+
+- Imkoniylik darajasida
+- Transport darajasida
+- Kommutatsiyani boshqarish darajasida
+- Xizmatlarni boshqarish darajasida
+To'g'ri: A
+
+Savol: Aloqa tarmog‘i deb nimaga aytiladi?
+
+- Aloqa tizimining bir qismi bo‘lib, ma’lum bir belgisi bo‘yicha ajratilgan va abonentlar o‘rtasida axborot almashish uchun yaratilgan aloqa liniyalari va tugunlari majmuasidan iborat
+- Analog ma’lumotlar va matnlar, tovushli ma’lumotlar ko‘rinishida uzluksiz ma’lumotlarni uzatishni ta’minlaydigan aloqaga aytiladi
+- Raqamli ma’lumotlar va matnlar, tovushli ma’lumotlar ko‘rinishida uzluksiz ma’lumotlarni uzatishni ta’minlaydigan aloqaga aytiladi
+- Umumiy boshqarish va ta’minlash bilan aloqa tarmog‘i qurilmalari majmuasi
+To'g'ri: A
+
+Savol: Bugungi kunda transport tarmog‘ining qanday topologiyasi eng dolzarb hisoblanadi?
+
+- ”halqa” topologiyasi
+- “daraxtsimon” topologiya
+- “to‘g‘ri zanjir” topologiyasi
+- ”yulduz” topologiyasi
+To'g'ri: A
+
+Savol: Zamonaviy telekommunikatsiya tarmog‘i qanday darajalarga bo‘linadi?
+
+- Transport va kommutatsiyalanadigan tarmoq
+- Foydalanuvchi tarmog‘i va magistral tarmoq
+- Magistral tarmoq
+- Birlamchi va ikkilamchi tarmoq
+To'g'ri: A
+
+Savol: Imkoniylik darajasida qaysi texnologiya ishlatiladi?
+
+- Wi-Fi, WiMAX; DOCSIS, DVB; xDSL; optik tolali PON texnologiyalari
+- CORBA SOAP INAP, CAMEL, SIP JAIN, Parlay, OSA
+- xDSL; optik tolali PON texnologiyalari
+- SOAP INAP, CAMEL xDSL; Wi-Fi, WiMAX
+To'g'ri: A
+
+Savol: Internet-telefoniya texnologiyasiga berilgan ta’rifni aniqlang?
+
+- real vaqt davomida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish vositasi sifatida internet tarmog‘ini ishlatish imkonini beruvchi texnologiya
+- real vaqt davomida IP protokoli asosida halqaro,shaharlararo va mahalliy telefon so‘zlashuvlarini tashkil qilish uchun istalgan paketli kommutatsiya asosidagi tarmoqni ishlatish imkonini beruvchi texnologiya
+- Teskari chaqiruvli (call back) va kam narxli marshrutlash
+- Korporativ tarmoqlarda telefon xabarlarini uzatish uchun mo‘ljallangan texnologiya
+To'g'ri: A
+
+Savol: Infokommunikatsiya xizmatlarining vazifasi nima uchun belgilangan?
+
+- Global axborotlashgan infrastrukturadagi axborot resurslariga imkoniylik uchun
+- Ovoz signallarini uzatish uchun
+- Ma’lumotlarni uzatish uchun
+- Ma’lumot va ovoz signallarini uzatish uchun
+To'g'ri: A
+
+Savol: Keyingi avlod tarmoqlari berayotgan bazaviy xizmat turlariga nimalarni ajratish mumkin?
+
+- Ikkita terminal o‘rtasida Keyingi avlod tarmog‘i (KAT) fragmentini ishlatib ulash o‘rnatishga yo‘naltirilgan xizmat turlari
+- Qo‘shimcha ro‘yxat imkoniyatlarini qo‘llashga yo‘naltirilgan xizmat turlari
+- KAT fragmenti elementlari tomonidan VPN ishlashini tashkil etish va qo‘llab quvvatlashga yo‘naltirilgan xizmat turlari
+- KAT fragmenti tomonidan multimediya ilovalarini ishlashini ta’minlash va qo‘llab quvvatlashga yo‘naltirilgan xizmat turlari
+To'g'ri: A
+
+Savol: Keyingi avlod tarmoqlari konsepsiyasi bazaviy prinsipi nama?
+
+- Qayta uzatish va kommutatsiya funksiyalarini chaqiriqlarni boshqarish va xizmatlarni boshqarish funksiyalarini bir-biridan ajratish
+- Qayta uzatish, kommutatsiya va chaqiriqlarni boshqarish funksiyalarini bir-biridan ajratish
+- Chaqiriqlarni boshqarish va xizmatlarni boshqarish funksiyalarini bir-biridan ajratish
+- Chaqiriqlarni boshqarish va qayta uzatish funksiyalarini bir-biridan ajratish
+To'g'ri: A
+
+Savol: Qabul qilingan paketdan ovozli ma’lumotni ajratib olish ketma-ketligi to‘g‘ri keltirilgan javobni aniqlang?
+
+- 1-qabul qiluvchi terminalida ovozli paketlarni tartib ketma-ketligini tekshirish, 2-vaqtinchalik paketlarni jamlash, 3-aproksimatsiya algoritmini qo‘shish, 4-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish
+- 1-aproksimatsiya algoritmini qo‘shish, 2-qabul qiluvchi terminalida ovozli paketlarni tartib ketma-ketligini tekshirish, 3-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish, 4-vaqtinchalik paketlarni jamlash
+- 1- qabul qiluvchi terminalida raqamlashtilirgan ma’lumotni kompresserlash, 2-vaqtinchalik paketlarni jamlash, 3-aproksimatsiya algoritmini qo‘shish, 4- qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish
+- 1-qabul qiluvchi terminalida ovozli paketlarni tartib ketma-ketligini tekshirish, 2-aproksimatsiya algoritmini qo‘shish, 3-paketlarga ajratish va protokol ma’lumotini qo‘shish, 4-qabul qilingan ma’lumot ketma-ketligini audio-signalga dekopresslash va o‘zgartirish
+To'g'ri: A
+
+Savol: Qabul qiluvchi terminalda qanday ovozli paketlar uchun aproksimatsiya algoritmi ishlatiladi?
+
+- Paketlarni manzilga oborishda me’yoridan oshgan kechikish va yo‘qotilgan paketlar uchun
+- Raqamlashtirilgan ma’lumotdan tashkil topgan siqilgan paketlar uchun
+- Raqamlashtirilgan qulay shovqin va pauza(to‘xtalish) ma’lumotidan tashkil topgan siqilgan paketlar
+- H.323,SIP protokoli siqilgan paketlari uchun
+To'g'ri: A
+
+Savol: Qabul qiluvchi terminalida aproksimatsiya algoritmi nima uchun qo‘llaniladi?
+
+- paketlarni manzilga oborishda me’yoridan oshgan kechikish va yo‘qotilgan paketlarni taqribiy tiklash uchun
+- paketlarni boshlang‘ich ketma-ketligini va sinxronizatsiyani tiklash uchun
+- vaqtinchalik paketlarni jamlash, ma’lumotlarni audio-signalga o‘zgartirish va dekompresslash uchun
+- ma’lumotlarni to‘g‘ri taqsimlash
+To'g'ri: A
+
+Savol: Qabul qiluvchi terminalida paketlarni vaqtinchalik jamlash nima uchun amalga oshiriladi?
+
+- paketlarni boshlang‘ich ketma-ketligini va sinxronizatsiyani tiklash uchun
+- ma’lumotlarni audio-signalga o‘zgartirish va dekompresslash
+- aproksimatsiya algoritmini ko‘paytirish uchun
+- aproksimatsiya algoritmini qo‘shish uchun
+To'g'ri: A
+
+Savol: Qaysi daraja qayta ishlash va trafikni marshrutlash uchun kerak bo‘ladigan mantiqiy boshqarishni qo‘llab quvvatlaydi?
+
+- Kommutatsiyani boshqarish darajasi
+- Transport darajasi
+- Imkoniylik darajasi
+- Xizmatlarni boshqarish darajasi
+To'g'ri: A
+
+Savol: Qaysi daraja transport tarmog‘i va kirish tarmog‘i turiga bog‘liqsiz xizmatlar spesifikasi va bir xil xizmatlar mantiqiy dasturini qo‘llashni tadbiq etadi?
+
+- Xizmatlarni boshqarish darajasi
+- Transport darajasi
+- Kommutatsiyani boshqarish darajasi
+- Imkoniylik darajasi
+To'g'ri: A
+
+Savol: Qaysi qurilma xizmatlar darajasidagi funksiyani bajaradi?
+
+- ilovalar serveri
+- Softswitch
+- Shlyuz
+- Marshrutizator
+To'g'ri: A
+
+Savol: Qaysi protokol bitta MTR2 zvenoni emulyatsiya qilishni ta’minlaydi?
+
+- M2UA
+- M3UA
+- IUA
+- BICC
+To'g'ri: A
+
+Savol: Qaysi protokollar NGN tarmog‘ining signal protokollari hisoblanadi?
+
+- SIP, H.323, SIGTRAN, MEGACO/H.248,MGCP, SCTP, ISUP, BICC, SCCP, INAP
+- RIP, IGRP, OSPF, H.323, SIGTRAN, MEGACO/H.248
+- FTP, SMTPBICC, SCCPLDAP, SNMP, SIP, H.323
+- BICC, SCCP, IP, ICMP, TCP, UDP, SIP
+To'g'ri: A
+
+Savol: Qaysi protokollar NGN tarmog‘ining xizmatlar protokollari hisoblanadi?
+
+- FTP, SMTP, HTTP, kodeklar G.711, G.728
+- BICC, SCCP, IP, TCP, UDP, SIP
+- Kodeklar G.711, G.728, H.323, SIGTRAN, MEGACO/H.248
+- FTP, SMTP,BICC, SCCP,SIP, H.323
+To'g'ri: A
+
+Savol: Qaysi tarmoqlarning bazaviy prinsipi qayta uzatish va kommutatsiya funksiyalarini, chaqiriqlarni boshqarish va xizmatlarni boshqarish funksiyalarini bir biridan ajratadi?
+
+- Keyingi avlod tarmoqlari (NGN)
+- Simsiz tarmoqlar
+- UFTfT
+- Sotali tarmoqlar
+To'g'ri: A
+
+Savol: Qaysi funksional tekislik abonentlarni qo‘shish/ajratish, billing va tarmoq texnik ekspluatatsiyasining boshqa funksiyalarini qo‘llab quvvatlaydi?
+
+- ekspluatatsiyani boshqarish
+- Transport
+- xizmatlar va ilovalar
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish
+To'g'ri: A
+
+Savol: Qaysi funksional tekislik aloqa tarmog‘i bo‘yicha ma’lumotlarni transportirovkasiga javob beradi?
+
+- Transport
+- ekspluatatsiyani boshqarish
+- xizmatlar va ilovalar
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish
+To'g'ri: A
+
+Savol: Qaysi funksional tekislik qo‘shni tekislikdan tushayotgan signal ma’lumotlari asosida chaqiriqqa xizmat ko‘rsatishni hamda tarmoq bo‘yicha foydalanuvchi ma’lumotlarini uzatish uchun ulash va ajratishni boshqaradi?
+
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish
+- xizmatlar va ilovalar
+- Transport
+- ekspluatatsiyani boshqarish
+To'g'ri: A
+
+Savol: Qaysi funksional tekislikda Application Servers ilovalar serveri va qo‘shimcha xizmatlar serveri Feature Servers joylashgan ?
+
+- xizmatlar va ilovalar tekisligida
+- ekspluatatsiyani boshqarish tekisligida
+- transport tekisligida
+- chaqiriqqa va signalizatsiyaga xizmat ko‘rsatishni boshqarish tekisligida
+To'g'ri: A
+
+Savol: Qayta manzillash serveri nima uchun mo‘ljallangan?
+
+- Chaqirilayotgan abonentning xozirgi manzilini aiqlash uchun
+- Paketni qabul qilish va manzilga retranslyatsiya qilish uchun
+- Abonent raqami xaqida ovozli xabar yuborish uchun
+- Barcha manzillar va psevdonim manzillarni xotirada saqlash uchun
+To'g'ri: A
+
+Savol: Qanday model eng yuqori transport resursini ta’minlashi mumkin
+
+- OTN
+- SDH
+- ATM
+- YeET
+To'g'ri: A
+
+Savol: Qanday sinxron transport moduli ma’lumotni 2488.320 Mbit/s tezlikda uzatishni ta’minlaydi?
+
+- STM-16
+- STM-64
+- STM-4
+- STM-1
+To'g'ri: A
+
+Savol: Qanday tarmoq kirish tarmog‘i deyiladi?
+
+- Transport tarmog‘i oxirgi tugunlariga terminal qurilmalarni bog‘lanishini ta’minlaydigan tarmoq
+- Turli xildagi ma’lumotlarni uzatishda xar hil protokollarni ishlatishni ta’minlaydigan tarmoq
+- Transport tarmog‘i oxirgi tugunlariga turli xildagi ma’lumotlarni uzatishni ta’minlaydigan tarmoq
+- Transport tarmog‘i ikkilamchi tugunlariga bir xil ma’lumotlarni uzatishni ta’minlaydigan tarmoq
+To'g'ri: A
+
+Savol: Qanday shlyuz MGCP shlyuzi xisoblanmaydi?
+
+- qayta manzillash shlyuzi
+- Shlyuzlarni boshqarish qurilmasi
+- signalizatsiya shlyuzi
+- media shlyuz
+To'g'ri: A
+
+Savol: Quyidagi talablarni qaysi xizmat turiga kiritish mumkin:“mobillik”,“tez va aniq qurish imkoniyligi”,“kafolatlangan sifatli xizmat”
+
+- Yangi turdagi aloqa xizmatiga
+- Sotali tarmoq xizmatiga
+- Infokommunikatsiya xizmatlariga
+- Telekommunikatsiya xizmatlariga
+To'g'ri: A
+
+Savol: Multimediyali ilovalar uchun qaysi protokol asosiy transport protokoli hisoblanadi?
+
+- RTP
+- TCP
+- IP
+- RTCP
+To'g'ri: A
+
+Savol: Murakkab konfiguratsiyali ulanishni ishlatish va real vaqtda kerakli sinxronizatsiya bilan tarmoqning ko‘p komponentli axborotlarini uzatish qobiliyati (ovozli,ma’lumotlar, video,audio) deganda nima tushuniladi?
+
+- Multimediyalik
+- Invariant imkoniylik
+- Multiservislik
+- Keng polosalik
+To'g'ri: A
+
+Savol: N.323 protokoli RAS signalizatsiyasi ma’lumotlari qaysi paket turiga joylashtiriladi?
+
+- UDP/IP/Ethernet
+- TCP/IP/Ethernet
+- RTP/UDP/IP
+- RTSP/UDP/IP
+To'g'ri: A
+
+Savol: N.323 tarmog‘i tarkibiga qaysi qurilmalar kiradi?
+
+- N.323 terminali, gatekeeper (privratnik), shlyuz, ko‘p aniqlikli MCU konferensiyalarini boshqarish qurilmasi
+- Foydalanuvchi agentlari, proksi-serverlar va qaytamanzillash serverlari
+- Media Gateway MG shlyuzi, shlyuzlar nazoratchisi -Call Agent, signalizatsiya shlyuzi - Signaling Gateway SG
+- N.323 terminali, gatekeeper (zonalar nazoratchisi), qaytamanzillash serveri
+To'g'ri: A
+
+Savol: OKS7 signalizatsiya tizimida qaysi qurilma tranzit punkti vazifasini bajaradi?
+
+- signalizatsiya shlyuzi
+- transport shlyuzi
+- signalizatsiya shlyuzi va boshqaruv qurilmasi
+- signalizatsiya shlyuzi va transport shlyuzi
+To'g'ri: A
+
+Savol: Paketli tarmoqda so‘zlashuv va multimediya xizmatlarini taqdim etuvchi qurilma qanday nomlanadi?
+
+- terminal qurilma
+- signalizatsiya shlyuz
+- Call Agent
+- Media Gateway
+To'g'ri: A
+
+Savol: Proksi-server qanday vazifani bajaradi?
+
+- SIP klientdan so‘rovlarni qabul qiladi, qayta ishlaydi va so‘rovning turiga qarab aniq xarakatni amalga oshiradi
+- Paketlarni retranslyatsiyalash
+- Manzillash
+- Odatda foydalanilgan ma’lumotdan tashkil topgan bo‘ladi va klientga murojaat qilinganda aniq xarakatlarni amalga oshiradi
+To'g'ri: A
+
+Savol: Tarmoq qurilishiga asosiy talab nimadan iborat(xizmat turlarini tashkil etuvchi no‘qtai nazaridan)?
+
+- tarmoqning sodda tadbiq etilishi
+- bitta ishlab chiqaruvchining qurilmalari
+- xizmat turlarini tashkil etuvchilar qurilmalaring birgalikda ishlashi
+- ikkita ishlab chiqaruvchining qurilmalari
+To'g'ri: A
+
+Savol: Tarmoqlarning qaysi darajasiga quyidagi talablarni kiritish mumkin: tugun qurilmalarining yuqori ishonchliligi; trafikni boshqarish funksiyalarini qo‘llab quvvatlash, yaxshi masshtablilik?
+
+- Transport darajasiga
+- Imkoniylik darajasiga
+- Kommutatsiyani boshqarish darajasiga
+- Xizmatlarni boshqarish darajasiga
+To'g'ri: A
+
+Savol: Axborot kommunikatsiya texnologiyalari (AKT) va dunyodagi globallashuv jarayonlar orasidagi bog‘liqlik.. ?.
+
+- AKT komponentlari iqtisodiyotning barcha sektorlarida namoyon bo‘lishi, ularning ijobiy ta’siri dunyo miqyosida axborot jamiyati shakllanishi zaruriyati bilan ifodalanadi.
+- Tarmoq va tizimlardagi takomillashtirish va kommunikatsion jarayonlari evolyusiyasini belgilaydi.
+- Globallashuv jarayonining AKT sohasi faoliyatidagi o‘zgarishlarga o‘zaro bog‘liqligini aks ettiradi.
+- Raqamli texnologiyalarning paydo bo‘lishi va telekommunikatsiya sohada tub o‘zgarishlarga olib keldi.
+To'g'ri: A
+
+Savol: Axborotlashtirish – bu ?
+
+- xududiy taqsimlangan axborot resurslarini birlashtiruvchi telekommunikatsiya infratuzilmasini qurish va rivojlantirishga yo‘naltirilgan siyosat va jarayonlar.
+- iqtisodiy faoliyatning tovarlar ishlab chiqarish, iste’mol qilish va aylantirish singari asosiy turlari.
+- iqtisodning tarkibiy qismlari (sarmoya, mehnat, xomashyo, boshqaruv, axborot, texnologiya, bozor) bevosita internet tarmoqdan foydalanish orqali global miqyosda tashkil etilishidir.
+- global tarmoq global iqtisodning moddiy asosini yaratgan axborot texnologiyalari sohasida, ya’ni ilgari mavjud iqtisodiy tizimdan o‘zgacha yangi tizim paydo bo‘lishi bilan bog‘liq inqilob natijasi.
+To'g'ri: A
+
+Savol: Axborot jamiyatini tavsiflovchi mezonlar ?
+
+- Texnologik, ijtimoiy, iqtisodiy, siyosiy, madaniy
+- Axborotga oid, iqtisodiy, siyosiy, madaniy
+- Axborot jamiyati global axborot infrastrukturasi mavjudligi bilan tavsiflanadi
+- Axborot texnologiyalari va telekommunikatsiya vositalarini rivojlantirish
+To'g'ri: A
+
+Savol: “Axborot resurs” tushunchasini ifodalovchi eng muqobil javob ?
+
+- Axborot va kommunikatsion texnologiyalar, Internet;
+- Axborot intellektual mulk;
+- Elektron axborot markazlari, ma’lumotlar bazalari va banklari, videomahsulotlar, ko‘p tilli tarjimonlar, tasvirning yangi vositalari;
+- Umumiy axborot merosi (biotexnologiya, farmasevtika mahsulotlari va boshqalarni ishlab chiqarishni boshqarish tizimlari)
+To'g'ri: A
+
+Savol: Axborot jamiyatining keng ifodalangan belgisi bu ?
+
+- Axborot va kommunikatsion texnologiyalar, Internet;
+- Axborot intellektual mulk;
+- Elektron axborot markazlari, ma’lumotlar bazalari va banklari, videomahsulotlar, ko‘p tilli tarjimonlar, tasvirning yangi vositalari;
+- Umumiy axborot merosi (biotexnologiya, farmasevtika mahsulotlari va boshqalarni ishlab chiqarishni boshqarish tizimlari)
+To'g'ri: A
+
+Savol: Jamiyatni axborotlashtirish” tushunchasi ?
+
+- axborot resurslarini shakllantirish va foydalanish asosida fuqarolar, davlat boshqaruv organlari, mahalliy o‘z-o‘zini boshqarish organlari, tashkilotlar, jamoat birlashmalarining axborotga bo‘lgan talablarini qondirish va huquqlarini realizatsiya qilish uchun optimal sharoitlarni yaratishning tashkil etilgan ijtimoiy-iqtisodiy va ilmiy texnikaviy jarayoni
+- Idoraviy va idoralararo amaliy axborot tizimlari, shuningdek, elektron xukumatning muxandislik va axborot texnologik infrastrukturasi
+- Infrastrukturali axborot tizimlari to‘plami yordamida shaffof o‘zaro xamkorlik imkonini beradi
+- Barcha javoblar to‘g‘ri
+To'g'ri: A
+
+Savol: OSI modelida nechta pog‘ona mavjud?
+
+- 7 ta
+- 3 ta
+- 6 ta
+- 8 ta
+To'g'ri: A
+
+Savol: Internet foydalanuvchilarga asosan, qaysi turdagi xizmatlarni ko‘rsatib kelmoqda ?
+
+- axborot (informatsion) va kommunikatsion xizmatlarini
+- ma’lumotlar transportirovkasi va qidiruv xizmatlari
+- qidiruv, qayta ishlash, uzatish xizmatlarini
+- axborotnomalar va saytlarni izlash xizmatlarini
+To'g'ri: A
+
+Savol: OSI modelining kaysi pog‘onasida IP protokoli ishlatiladi ?
+
+- tarmoq pog‘onasida
+- seans pog‘onasida
+- kanal pog‘onasida
+- qo‘llanish pog‘onasida
+To'g'ri: A
+
+Savol: Tarmoq texnologiyasi deganda quyidagilar asosiy belgi sifatida ko‘rsatiladi ?
+
+- Tarmoq tarkibidagi punkt va liniyalararo bog‘lanish va axborot almashuvini ta’minlaydigan protokollar va vositalar yig‘indisi
+- Punkt va liniyalarning o‘zaro joylashishi orqali tarmoq bog‘liqligi va punktlar o‘rtasidagi axborot almashuvini ta’minlab berish qobiliyati
+- Tarmoq qurilishida hal qilinadigan texnologik xamda aloqaning ishonchliligiga bo‘ladigan talablarni qoniqtirish
+- Simli yoki simsiz kanallar yordamida punkt va liniyalarning tarmoqlarga birlashishi, transport tarmog‘i va abonent kirish tarmog‘iga bo‘lgan talablar
+To'g'ri: A
+
+Savol: Ikkita foydalanuvchi tarmoq orqali o‘zaro bog‘langanda qanday jarayonlar amalga oshiriladi?
+
+- pog‘onali model asosidagi jarayonlar
+- Marshrutizatsiya va kommutatsiya
+- Sinxronizatsiya va kodlash
+- Modulyatsiya va demodulyatsiya
+To'g'ri: A
+
+Savol: To‘g‘ri javobni tanlang?
+
+- protokol bu – turli texnikaviy uskunalarda amalga oshiriladigan birxil pog‘onali jarayonlarning protsedurali va mantiqiy bog‘lanishni ta’minlaydigan qonun qoidalar majmui
+- protokol bu – turli texnikaviy uskunalar orasida protsedurali bog‘lanishni ta’minlaydigan qonun qoidalar majmui
+- protokol bu – turli texnikaviy uskunalarda amalga oshiriladigan jaraenning turli pog‘onalar orasida mantiqiy bog‘lanishni ta’minlaydigan qonun qoidalar majmui
+- protokol bu – turli texnikaviy uskunalarda amalga oshiriladigan jaraenlar
+To'g'ri: A
+
+Savol: Ochiq tizimlar g‘oyasining ahamiyati qaysi iborada to‘liq keltirilgan ?
+
+- Tizimlarning butun sinfi yoki tizimlar majmuasi uchun interfeyslarni va axborot almashuv jarayonlarning umumlashtirishga uslubiy yondashish imkoniyatini beradi.
+- Tizimlararo bog‘lanishni qonun-qoidalarini belgilaydi
+- Axborot almashuv jarayonlariga tarmoqlarni mosligini belgilaydi
+- Kompyuter va boshqa qurilmalar orqali axborot almashinuvini takomillashtiradi
+To'g'ri: A
+
+Savol: Telekonferensiya xizmati tasnifi ?
+
+- Audio konferensiya, video konferensiya
+- Video konferensiya, Ovoz uzatish, ma’lumotlar uzatish
+- Telegraf, ma’lumot uzatish va telematika
+- barcha javoblar to‘g‘ri
+To'g'ri: A
+
+Savol: Marshrutizatsiya –bu ?
+
+- adres bo‘yicha marshrutlash jadvali asosida tarmoqning
+- bu axborotni kodlovchi maxsus qurilma
+- bu raqamli signallarni bir liniyaga multipleksorlash jarayoni
+- lokal tarmoqdagi kompyuterlarni birlashtirish jarayoni
+To'g'ri: A
+
+Savol: ISP abbreviaturasi qanday ma’noni bildiradi?
+
+- Internet servis provayderi
+- Internet servis xizmati
+- Internet servis protokoli
+- Internet servis porti
+To'g'ri: A
+
+Savol: Internet tarmog‘ining asosiy protokollar steki bu ?
+
+- TCP/IP
+- HTTP va www
+- HTML
+- TCP/UDP
+To'g'ri: A
+
+Savol: Modem nima?
+
+- modem – modulyatsiya va demodulyatsiya so‘zlarining qisqartmasi, analog signalni raqamli signalga o‘zgartirib beradi
+- modem bu raqamli signallarni xalaqitbardosh kodlash uchun xizmat qiladi
+- kompyuterni telefon apparati bilan ulash uchun xizmat qiladi
+- modem bu raqamli signallarni yig‘uvchi qurilma
+To'g'ri: A
+
+Savol: Interaktiv ta’lim texnologiyalari keltirilgan javobni belgilang?
+
+- Internet masofaviy ta’lim portali. Video va audio konferensiyalar. Elektron pochta orqali ta’lim. Internet orqali mustaqil ta’lim olish. Uzoqdan boshqarish sistemalar. Onlayn simulyator va o‘quv dasturlar. Test topshirish tizimlari.
+- Video, audio va bosmaga chiqarilgan materiallar. Televizion va radio ko‘rsatuvlar. Disklarda joylashgan dasturlar.
+- Video, audio va bosmaga chiqarilgan materiallar. Televizion va radio ko‘rsatuvlar. Disklarda joylashgan dasturlar. Internet orqali mustaqil ta’lim olish. Uzoqdan boshqarish tizimlar.
+- Video va audio konferensiyalar. Elektron pochta orqali ta’lim. Internet orqali mustaqil ta’lim olish. Disklarda joylashgan dasturlar.
+To'g'ri: A
+
+Savol: O‘zbekiston Respublikasining axborotlashtirish to‘g‘risidagi qonun qachon qabul qilingan?
+
+- 2003-yil 11-dekabr
+- 1992-yil 13-yanvar
+- 1999-yil 20-avgust
+- 2004-yil 29-aprel
+To'g'ri: A
+
+Savol: O‘zbekiston Respublikasining “Elektron hujjatlar almashinuvi” to‘g‘risidagi qonun qachon qabul qilingan?
+
+- 2004-yil 29-aprel
+- 2003-yil 11-dekabr
+- 1999-yil 20-avgust
+- 1992-yil 13-yanvar
+To'g'ri: A
+
+Savol: O‘zbekiston Respublikasi Prezidentining "Kompyuterlashtirishni yanada rivojlantirish va axborot-kommunikatsiya texnologiyalarini joriy etish to‘g‘risida" farmoni qachon qabul qilindi?
+
+- 2002 yil 30 may
+- 2001 yil 29 aprel
+- 2003 yil 9-sentabr
+- 2000 yil 11-dekabr
+To'g'ri: A
+
+
+
